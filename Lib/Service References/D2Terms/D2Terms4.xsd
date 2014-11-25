@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://schemas.datacontract.org/2004/07/UMG.D2.Server.Business.DataContract.Terms.Partner" elementFormDefault="qualified" targetNamespace="http://schemas.datacontract.org/2004/07/UMG.D2.Server.Business.DataContract.Terms.Partner" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:complexType name="Product">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Artist" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Cached" type="xs:boolean" />
+      <xs:element minOccurs="0" name="CachedSpecified" type="xs:boolean" />
+      <xs:element minOccurs="0" name="ConfigDescription" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="ConfigId" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="CountryId" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Ingested" type="xs:boolean" />
+      <xs:element minOccurs="0" name="IngestedSpecified" type="xs:boolean" />
+      <xs:element minOccurs="0" name="IntlLock" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Locked" type="xs:boolean" />
+      <xs:element minOccurs="0" name="LockedReason" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="LockedSpecified" type="xs:boolean" />
+      <xs:element minOccurs="0" name="OwningCountry" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="OwningRow" type="xs:boolean" />
+      <xs:element minOccurs="0" name="OwningRowSpecified" type="xs:boolean" />
+      <xs:element minOccurs="0" name="PreIngested" type="xs:boolean" />
+      <xs:element minOccurs="0" name="PreIngestedSpecified" type="xs:boolean" />
+      <xs:element minOccurs="0" name="ProductId" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="ProductLocalId" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="ReadOnly" type="xs:boolean" />
+      <xs:element minOccurs="0" name="ReadOnlySpecified" type="xs:boolean" />
+      <xs:element minOccurs="0" name="Terms" nillable="true" type="tns:ArrayOfProductTerms" />
+      <xs:element minOccurs="0" name="Title" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Upc" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="VersionTitle" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="Product" nillable="true" type="tns:Product" />
+  <xs:complexType name="ArrayOfProductTerms">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="ProductTerms" nillable="true" type="tns:ProductTerms" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfProductTerms" nillable="true" type="tns:ArrayOfProductTerms" />
+  <xs:complexType name="ProductTerms">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="ConfirmComplete" type="xs:boolean" />
+      <xs:element minOccurs="0" name="FirstName" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="LastName" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="LocalDefault" nillable="true" type="tns:ArrayOfProductTermsLocalDefault" />
+      <xs:element minOccurs="0" name="LogonID" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Partners" nillable="true" type="tns:ArrayOfProductTermsPartnersPartner" />
+      <xs:element minOccurs="0" name="StreetDate" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="UpdateDate" type="xs:dateTime" />
+      <xs:element minOccurs="0" name="UpdateDateSpecified" type="xs:boolean" />
+      <xs:element minOccurs="0" name="UpdateDateString" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="UpdateUser" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="WorkflowStatus" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="WorkflowStatusId" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ProductTerms" nillable="true" type="tns:ProductTerms" />
+  <xs:complexType name="ArrayOfProductTermsLocalDefault">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="ProductTermsLocalDefault" nillable="true" type="tns:ProductTermsLocalDefault" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfProductTermsLocalDefault" nillable="true" type="tns:ArrayOfProductTermsLocalDefault" />
+  <xs:complexType name="ProductTermsLocalDefault">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="AlbumPreview" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="AllTerritories" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="AllowPreview" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="DoNotDeliver" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="ExpirationDate" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="HoldDateOffsetDays" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="SalesStartDate" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ProductTermsLocalDefault" nillable="true" type="tns:ProductTermsLocalDefault" />
+  <xs:complexType name="ArrayOfProductTermsPartnersPartner">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="ProductTermsPartnersPartner" nillable="true" type="tns:ProductTermsPartnersPartner" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfProductTermsPartnersPartner" nillable="true" type="tns:ArrayOfProductTermsPartnersPartner" />
+  <xs:complexType name="ProductTermsPartnersPartner">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="AlbumPreview" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="AllowPreview" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Default" type="xs:boolean" />
+      <xs:element minOccurs="0" name="DefaultSpecified" type="xs:boolean" />
+      <xs:element minOccurs="0" name="DoNotDeliver" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="ExclusiveInPerpetuity" type="xs:boolean" />
+      <xs:element minOccurs="0" name="ExclusivityEndDate" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="ExpirationDate" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="FirstOrderDate" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="HoldDateOffset" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="OrderedStatus" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="PPHoldDateOffset" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="PartnerCountryId" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="PartnerName" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="PartnerProductStatus" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="PartnerType" nillable="true" type="tns:PartnerType" />
+      <xs:element minOccurs="0" name="PreOrderDate" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="PreOrderReadOnly" type="xs:boolean" />
+      <xs:element minOccurs="0" name="PreOrderReadOnlySpecified" type="xs:boolean" />
+      <xs:element minOccurs="0" name="ReadOnly" type="xs:boolean" />
+      <xs:element minOccurs="0" name="ReadOnlySpecified" type="xs:boolean" />
+      <xs:element minOccurs="0" name="SalesStartDate" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="StorefrontName" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Territory" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ProductTermsPartnersPartner" nillable="true" type="tns:ProductTermsPartnersPartner" />
+  <xs:complexType name="PartnerType">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Id" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Value" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="PartnerType" nillable="true" type="tns:PartnerType" />
+</xs:schema>

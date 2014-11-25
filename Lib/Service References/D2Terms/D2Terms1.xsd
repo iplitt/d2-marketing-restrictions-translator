@@ -1,0 +1,590 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://UMG.D2.Server.Host" elementFormDefault="qualified" targetNamespace="http://UMG.D2.Server.Host" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:import schemaLocation="http://ushpewviis244.global.umusic.ext/iD2_Prod/D2Terms.svc?xsd=xsd2" namespace="http://schemas.datacontract.org/2004/07/UMG.D2.Server.Business.DataContract.Term" />
+  <xs:import schemaLocation="http://ushpewviis244.global.umusic.ext/iD2_Prod/D2Terms.svc?xsd=xsd3" namespace="http://schemas.datacontract.org/2004/07/UMG.D2.Server.Business" />
+  <xs:import schemaLocation="http://ushpewviis244.global.umusic.ext/iD2_Prod/D2Terms.svc?xsd=xsd4" namespace="http://schemas.datacontract.org/2004/07/UMG.D2.Server.Business.DataContract.Terms.Partner" />
+  <xs:import schemaLocation="http://ushpewviis244.global.umusic.ext/iD2_Prod/D2Terms.svc?xsd=xsd5" namespace="http://schemas.datacontract.org/2004/07/UMG.D2.Server.Database.DataAccess" />
+  <xs:import schemaLocation="http://ushpewviis244.global.umusic.ext/iD2_Prod/D2Terms.svc?xsd=xsd6" namespace="http://schemas.datacontract.org/2004/07/UMG.D2.Server.Business.DataContract.CopyUPC" />
+  <xs:element name="GetProductTerritories">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="query" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="GetProductTerritoriesResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q1="http://schemas.datacontract.org/2004/07/UMG.D2.Server.Business.DataContract.Term" minOccurs="0" name="GetProductTerritoriesResult" nillable="true" type="q1:ProductTerritories" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="GetCCReasonCodes">
+    <xs:complexType>
+      <xs:sequence />
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="GetCCReasonCodesResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q2="http://schemas.datacontract.org/2004/07/UMG.D2.Server.Business.DataContract.Term" minOccurs="0" name="GetCCReasonCodesResult" nillable="true" type="q2:D2Types" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="GetProductCountries">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="Upc" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="GetProductCountriesResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q3="http://schemas.datacontract.org/2004/07/UMG.D2.Server.Business.DataContract.Term" minOccurs="0" name="GetProductCountriesResult" nillable="true" type="q3:Countries" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="GetProductTermsAllByChannel">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="Upc" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="CountryId" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="ConfigId" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="GetProductTermsAllByChannelResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q4="http://schemas.datacontract.org/2004/07/UMG.D2.Server.Business.DataContract.Term" minOccurs="0" name="GetProductTermsAllByChannelResult" nillable="true" type="q4:Product" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="GetProductTermsAllByGroup">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="Upc" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="CountryId" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="ConfigId" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="GetProductTermsAllByGroupResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q5="http://schemas.datacontract.org/2004/07/UMG.D2.Server.Business.DataContract.Term" minOccurs="0" name="GetProductTermsAllByGroupResult" nillable="true" type="q5:Product" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="GetMarketingProductTermsByChannel">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="Upc" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="CountryId" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="ConfigId" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="GetMarketingProductTermsByChannelResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q6="http://schemas.datacontract.org/2004/07/UMG.D2.Server.Business.DataContract.Term" minOccurs="0" name="GetMarketingProductTermsByChannelResult" nillable="true" type="q6:Product" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="GetLegalProductTermsByChannel">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="Upc" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="CountryId" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="ConfigId" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="GetLegalProductTermsByChannelResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q7="http://schemas.datacontract.org/2004/07/UMG.D2.Server.Business.DataContract.Term" minOccurs="0" name="GetLegalProductTermsByChannelResult" nillable="true" type="q7:Product" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="GetMarketingProductTermsByGroup">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="Upc" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="CountryId" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="ConfigId" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="GetMarketingProductTermsByGroupResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q8="http://schemas.datacontract.org/2004/07/UMG.D2.Server.Business.DataContract.Term" minOccurs="0" name="GetMarketingProductTermsByGroupResult" nillable="true" type="q8:Product" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="GetLegalProductTermsByGroup">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="Upc" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="CountryId" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="ConfigId" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="GetLegalProductTermsByGroupResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q9="http://schemas.datacontract.org/2004/07/UMG.D2.Server.Business.DataContract.Term" minOccurs="0" name="GetLegalProductTermsByGroupResult" nillable="true" type="q9:Product" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="GetProductTerms">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" maxOccurs="1" name="Upc" type="xs:string" />
+        <xs:element minOccurs="0" maxOccurs="1" name="CountryId" type="xs:string" />
+        <xs:element minOccurs="1" maxOccurs="1" name="eTermType" type="tns:eTermType" />
+        <xs:element minOccurs="1" maxOccurs="1" name="eDistributionType" type="tns:eDistributionType" />
+        <xs:element minOccurs="0" maxOccurs="1" name="ConfigId" type="xs:string" />
+        <xs:element minOccurs="1" maxOccurs="1" name="OwningRow" type="xs:boolean" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:simpleType name="eTermType">
+    <xs:restriction base="xs:string">
+      <xs:enumeration value="All" />
+      <xs:enumeration value="Legal" />
+      <xs:enumeration value="Marketing" />
+    </xs:restriction>
+  </xs:simpleType>
+  <xs:simpleType name="eDistributionType">
+    <xs:restriction base="xs:string">
+      <xs:enumeration value="DistributionChannel" />
+      <xs:enumeration value="DistributionGroup" />
+      <xs:enumeration value="All" />
+    </xs:restriction>
+  </xs:simpleType>
+  <xs:element name="GetProductTermsResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" maxOccurs="1" name="GetProductTermsResult">
+          <xs:complexType mixed="true">
+            <xs:sequence>
+              <xs:any />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="UpdateClearance">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q10="http://schemas.datacontract.org/2004/07/UMG.D2.Server.Business.DataContract.Term" minOccurs="0" name="Product" nillable="true" type="q10:Product" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="UpdateClearanceResponse">
+    <xs:complexType>
+      <xs:sequence />
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="CopyTermToOtherTerritory">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q11="http://schemas.datacontract.org/2004/07/UMG.D2.Server.Business.DataContract.Term" minOccurs="0" name="copyTermToOtherTerritoryRequest" nillable="true" type="q11:CopyTermToOtherTerritoryRequest" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="CopyTermToOtherTerritoryResponse">
+    <xs:complexType>
+      <xs:sequence />
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="UpdateClearanceAsyncRuleEngine">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q12="http://schemas.datacontract.org/2004/07/UMG.D2.Server.Business.DataContract.Term" minOccurs="0" name="Product" nillable="true" type="q12:Product" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="UpdateClearanceAsyncRuleEngineResponse">
+    <xs:complexType>
+      <xs:sequence />
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="GetAutoCompleteProductList">
+    <xs:complexType />
+  </xs:element>
+  <xs:element name="GetAutoCompleteProductListResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" maxOccurs="1" name="GetAutoCompleteProductListResult">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element minOccurs="0" maxOccurs="unbounded" form="unqualified" name="Product">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element minOccurs="0" maxOccurs="1" form="unqualified" name="ProductLocalId" type="xs:string" />
+                    <xs:element minOccurs="0" maxOccurs="1" form="unqualified" name="Upc" type="xs:string" />
+                    <xs:element minOccurs="0" maxOccurs="1" form="unqualified" name="CountryId" type="xs:string" />
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="GetRuleTriggerList">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="1" maxOccurs="1" name="ProcessStampId" type="xs:int" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="GetRuleTriggerListResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" maxOccurs="1" name="GetRuleTriggerListResult">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element minOccurs="0" maxOccurs="unbounded" form="unqualified" name="Rule">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element minOccurs="0" maxOccurs="1" form="unqualified" name="ProductLocalId" type="xs:string" />
+                    <xs:element minOccurs="0" maxOccurs="1" form="unqualified" name="RuleStatus" type="xs:string" />
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="GetMustExistInDaveProductTermsAllByUpc">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="Upc" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="CountryId" nillable="true" type="xs:string" />
+        <xs:element xmlns:q13="http://schemas.datacontract.org/2004/07/UMG.D2.Server.Business" minOccurs="0" name="eTermType" type="q13:Constants.eTermType" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="GetMustExistInDaveProductTermsAllByUpcResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q14="http://schemas.datacontract.org/2004/07/UMG.D2.Server.Business.DataContract.Term" minOccurs="0" name="GetMustExistInDaveProductTermsAllByUpcResult" nillable="true" type="q14:Product" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="GetProductTermsAllByUpc">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="Upc" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="CountryId" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="ConfigId" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="IsCoreRow" type="xs:boolean" />
+        <xs:element xmlns:q15="http://schemas.datacontract.org/2004/07/UMG.D2.Server.Business" minOccurs="0" name="eTermType" type="q15:Constants.eTermType" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="GetProductTermsAllByUpcResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q16="http://schemas.datacontract.org/2004/07/UMG.D2.Server.Business.DataContract.Term" minOccurs="0" name="GetProductTermsAllByUpcResult" nillable="true" type="q16:Product" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="GetMarketingHistory">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="Upc" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="CountryId" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="GetMarketingHistoryResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q17="http://schemas.datacontract.org/2004/07/UMG.D2.Server.Business.DataContract.Term" minOccurs="0" name="GetMarketingHistoryResult" nillable="true" type="q17:MarketingTermHistory" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="GetDistributionGroups">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" maxOccurs="1" name="Upc" type="xs:string" />
+        <xs:element minOccurs="0" maxOccurs="1" name="CountryId" type="xs:string" />
+        <xs:element minOccurs="0" maxOccurs="1" name="ConfigId" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="GetDistributionGroupsResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" maxOccurs="1" name="GetDistributionGroupsResult">
+          <xs:complexType mixed="true">
+            <xs:sequence>
+              <xs:any />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="GetDistributionPartners">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" maxOccurs="1" name="Upc" type="xs:string" />
+        <xs:element minOccurs="0" maxOccurs="1" name="CountryId" type="xs:string" />
+        <xs:element minOccurs="0" maxOccurs="1" name="ConfigId" type="xs:string" />
+        <xs:element minOccurs="0" maxOccurs="1" name="DistributionChannels" type="xs:string" />
+        <xs:element minOccurs="1" maxOccurs="1" name="AllTerritories" type="xs:boolean" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="GetDistributionPartnersResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" maxOccurs="1" name="GetDistributionPartnersResult">
+          <xs:complexType mixed="true">
+            <xs:sequence>
+              <xs:any />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="GetPartnerProductTerms">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" maxOccurs="1" name="Upc" type="xs:string" />
+        <xs:element minOccurs="0" maxOccurs="1" name="CountryId" type="xs:string" />
+        <xs:element minOccurs="0" maxOccurs="1" name="ConfigId" type="xs:string" />
+        <xs:element minOccurs="0" maxOccurs="1" name="ReleaseDate" type="xs:string" />
+        <xs:element minOccurs="0" maxOccurs="1" name="PartnerCountryList" type="xs:string" />
+        <xs:element minOccurs="1" maxOccurs="1" name="OnlyOverrides" type="xs:boolean" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="GetPartnerProductTermsResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" maxOccurs="1" name="GetPartnerProductTermsResult">
+          <xs:complexType mixed="true">
+            <xs:sequence>
+              <xs:any />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="UpdatePartnerProductTerms">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q18="http://schemas.datacontract.org/2004/07/UMG.D2.Server.Business.DataContract.Terms.Partner" minOccurs="0" name="PartnerProductList" nillable="true" type="q18:Product" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="UpdatePartnerProductTermsResponse">
+    <xs:complexType>
+      <xs:sequence />
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="UpdatePartnerProductTermsTest">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="PartnerProductList" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="UpdatePartnerProductTermsTestResponse">
+    <xs:complexType>
+      <xs:sequence />
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="GetPartnerProductTermsByUpc">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="Upc" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="CountryId" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="ReleaseDate" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="ConfigId" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="PartnerCountryList" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="OnlyOverrides" type="xs:boolean" />
+        <xs:element minOccurs="0" name="OwningRow" type="xs:boolean" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="GetPartnerProductTermsByUpcResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q19="http://schemas.datacontract.org/2004/07/UMG.D2.Server.Business.DataContract.Terms.Partner" minOccurs="0" name="GetPartnerProductTermsByUpcResult" nillable="true" type="q19:Product" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="GetPartnerProductTermsByProductLocalId">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="ProductLocalId" type="xs:int" />
+        <xs:element minOccurs="0" name="ConfigId" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="ReleaseDate" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="PartnerCountryList" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="OnlyOverrides" type="xs:boolean" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="GetPartnerProductTermsByProductLocalIdResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q20="http://schemas.datacontract.org/2004/07/UMG.D2.Server.Business.DataContract.Terms.Partner" minOccurs="0" name="GetPartnerProductTermsByProductLocalIdResult" nillable="true" type="q20:Product" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="ResetUpc">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="Upc" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="CountryId" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="ResetUpcResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="ResetUpcResult" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="UpdateAllMarketingTerms">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q21="http://schemas.datacontract.org/2004/07/UMG.D2.Server.Business.DataContract.Term" minOccurs="0" name="ProductTermsData" nillable="true" type="q21:Product" />
+        <xs:element xmlns:q22="http://schemas.datacontract.org/2004/07/UMG.D2.Server.Business.DataContract.Terms.Partner" minOccurs="0" name="PartnerTermsData" nillable="true" type="q22:Product" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="UpdateAllMarketingTermsResponse">
+    <xs:complexType>
+      <xs:sequence />
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="AutoComplete">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="DueDate" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="AutoCompleteResponse">
+    <xs:complexType>
+      <xs:sequence />
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="GetPartnerProductHistory">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="Upc" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="TerritoryID" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="Partner_Country_Id" type="xs:int" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="GetPartnerProductHistoryResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q23="http://schemas.datacontract.org/2004/07/UMG.D2.Server.Database.DataAccess" minOccurs="0" name="GetPartnerProductHistoryResult" nillable="true" type="q23:ArrayOfHistoryProductTermGetResponse" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="GetTrackTermHistory">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="upc" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="countryID" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="isrcNumber" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="termTypeID" type="xs:int" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="GetTrackTermHistoryResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q24="http://schemas.datacontract.org/2004/07/UMG.D2.Server.Database.DataAccess" minOccurs="0" name="GetTrackTermHistoryResult" nillable="true" type="q24:ArrayOfTermHistoryTrackGetResponse" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="GetProductTermHistory">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="upc" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="countryID" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="termTypeID" type="xs:int" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="GetProductTermHistoryResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q25="http://schemas.datacontract.org/2004/07/UMG.D2.Server.Database.DataAccess" minOccurs="0" name="GetProductTermHistoryResult" nillable="true" type="q25:ArrayOfTermHistoryProductGetResponse" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="GetHistoryHeader">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="upc" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="countryID" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="GetHistoryHeaderResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q26="http://schemas.datacontract.org/2004/07/UMG.D2.Server.Database.DataAccess" minOccurs="0" name="GetHistoryHeaderResult" nillable="true" type="q26:ArrayOfHistoryProductHeaderGetExResponse" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="CopyMarketingTerms">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="SourceUPC" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="TargetUPC" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="Territory" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="ConfigId" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="IsCore" type="xs:boolean" />
+        <xs:element minOccurs="0" name="SourceReleaseDate" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="TargetReleaseDate" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="CopyMarketingTermsResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q27="http://schemas.datacontract.org/2004/07/UMG.D2.Server.Business.DataContract.CopyUPC" minOccurs="0" name="CopyMarketingTermsResult" nillable="true" type="q27:Results" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="Ping">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="InPayload" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="PingResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="PingResult" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

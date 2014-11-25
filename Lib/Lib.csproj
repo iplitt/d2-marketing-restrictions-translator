@@ -1,0 +1,254 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{F9F5DAAB-4478-4B34-8EE8-3003CCD0C192}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Lib</RootNamespace>
+    <AssemblyName>Lib</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Xml.Serialization" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Asset.cs" />
+    <Compile Include="D2MappingHelper.cs" />
+    <Compile Include="D2Note.cs" />
+    <Compile Include="D2Partner.cs" />
+    <Compile Include="DistributionChannel.cs" />
+    <Compile Include="DistributionGroup.cs" />
+    <Compile Include="Helper.cs" />
+    <Compile Include="Partner.cs" />
+    <Compile Include="PartnerRestrictionItems.cs" />
+    <Compile Include="PartnerRestrictions.cs" />
+    <Compile Include="Product.cs" />
+    <Compile Include="ProductRestrictionItems.cs" />
+    <Compile Include="ProductRestrictions.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SerailizationHelper.cs" />
+    <Compile Include="Service References\D2Terms\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Compile>
+    <Compile Include="UtilFile.cs" />
+    <Compile Include="UtilParse.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="Properties\DataSources\System.Xml.XmlNode.datasource" />
+    <None Include="Service References\D2Terms\D2Terms.wsdl" />
+    <None Include="Service References\D2Terms\D2Terms.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\D2Terms\D2Terms1.wsdl" />
+    <None Include="Service References\D2Terms\D2Terms1.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\D2Terms\D2Terms2.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\D2Terms\D2Terms3.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\D2Terms\D2Terms4.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\D2Terms\D2Terms5.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\D2Terms\D2Terms6.xsd">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadataStorage Include="Service References\D2Terms\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\D2Terms\D2Terms.disco" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\D2Terms\configuration91.svcinfo" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\D2Terms\configuration.svcinfo" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\D2Terms\Lib.D2Terms.AutoCompleteResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\D2Terms\Lib.D2Terms.CopyMarketingTermsResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\D2Terms\Lib.D2Terms.CopyTermToOtherTerritoryResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\D2Terms\Lib.D2Terms.Countries.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\D2Terms\Lib.D2Terms.D2Types.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\D2Terms\Lib.D2Terms.GetAutoCompleteProductListResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\D2Terms\Lib.D2Terms.GetAutoCompleteProductListResponseProduct.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\D2Terms\Lib.D2Terms.GetCCReasonCodesResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\D2Terms\Lib.D2Terms.GetHistoryHeaderResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\D2Terms\Lib.D2Terms.GetLegalProductTermsByChannelResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\D2Terms\Lib.D2Terms.GetLegalProductTermsByGroupResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\D2Terms\Lib.D2Terms.GetMarketingHistoryResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\D2Terms\Lib.D2Terms.GetMarketingProductTermsByChannelResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\D2Terms\Lib.D2Terms.GetMarketingProductTermsByGroupResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\D2Terms\Lib.D2Terms.GetMustExistInDaveProductTermsAllByUpcResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\D2Terms\Lib.D2Terms.GetPartnerProductHistoryResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\D2Terms\Lib.D2Terms.GetPartnerProductTermsByProductLocalIdResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\D2Terms\Lib.D2Terms.GetPartnerProductTermsByUpcResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\D2Terms\Lib.D2Terms.GetProductCountriesResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\D2Terms\Lib.D2Terms.GetProductTermHistoryResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\D2Terms\Lib.D2Terms.GetProductTermsAllByChannelResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\D2Terms\Lib.D2Terms.GetProductTermsAllByGroupResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\D2Terms\Lib.D2Terms.GetProductTermsAllByUpcResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\D2Terms\Lib.D2Terms.GetProductTerritoriesResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\D2Terms\Lib.D2Terms.GetRuleTriggerListResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\D2Terms\Lib.D2Terms.GetRuleTriggerListResponseRule.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\D2Terms\Lib.D2Terms.GetTrackTermHistoryResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\D2Terms\Lib.D2Terms.HistoryProductHeaderGetExResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\D2Terms\Lib.D2Terms.HistoryProductTermGetResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\D2Terms\Lib.D2Terms.MarketingTermHistory.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\D2Terms\Lib.D2Terms.PingResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\D2Terms\Lib.D2Terms.Product.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\D2Terms\Lib.D2Terms.Product1.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\D2Terms\Lib.D2Terms.ProductTerritories.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\D2Terms\Lib.D2Terms.ResetUpcResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\D2Terms\Lib.D2Terms.Results.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\D2Terms\Lib.D2Terms.TermHistoryProductGetResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\D2Terms\Lib.D2Terms.TermHistoryTrackGetResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\D2Terms\Lib.D2Terms.UpdateAllMarketingTermsResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\D2Terms\Lib.D2Terms.UpdateClearanceAsyncRuleEngineResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\D2Terms\Lib.D2Terms.UpdateClearanceResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\D2Terms\Lib.D2Terms.UpdatePartnerProductTermsResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\D2Terms\Lib.D2Terms.UpdatePartnerProductTermsTestResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\D2Terms\Reference.svcmap">
+      <Generator>WCF Proxy Generator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

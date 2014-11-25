@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:wsap="http://schemas.xmlsoap.org/ws/2004/08/addressing/policy" xmlns:wsa10="http://www.w3.org/2005/08/addressing" xmlns:tns="http://UMG.D2.Server.Host" xmlns:msc="http://schemas.microsoft.com/ws/2005/12/wsdl/contract" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:wsx="http://schemas.xmlsoap.org/ws/2004/09/mex" xmlns:wsp="http://schemas.xmlsoap.org/ws/2004/09/policy" xmlns:wsam="http://www.w3.org/2007/05/addressing/metadata" xmlns:wsa="http://schemas.xmlsoap.org/ws/2004/08/addressing" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:wsaw="http://www.w3.org/2006/05/addressing/wsdl" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema" targetNamespace="http://UMG.D2.Server.Host" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <xsd:schema targetNamespace="http://UMG.D2.Server.Host/Imports">
+      <xsd:import schemaLocation="http://ushpewviis244.global.umusic.ext/iD2_Prod/D2Terms.svc?xsd=xsd0" namespace="http://UMG.D2.Server.Host" />
+      <xsd:import schemaLocation="http://ushpewviis244.global.umusic.ext/iD2_Prod/D2Terms.svc?xsd=xsd1" namespace="http://schemas.microsoft.com/2003/10/Serialization/" />
+      <xsd:import schemaLocation="http://ushpewviis244.global.umusic.ext/iD2_Prod/D2Terms.svc?xsd=xsd2" namespace="http://schemas.datacontract.org/2004/07/UMG.D2.Server.Business.DataContract.Term" />
+      <xsd:import schemaLocation="http://ushpewviis244.global.umusic.ext/iD2_Prod/D2Terms.svc?xsd=xsd3" namespace="http://schemas.datacontract.org/2004/07/UMG.D2.Server.Business" />
+      <xsd:import schemaLocation="http://ushpewviis244.global.umusic.ext/iD2_Prod/D2Terms.svc?xsd=xsd4" namespace="http://schemas.datacontract.org/2004/07/UMG.D2.Server.Business.DataContract.Terms.Partner" />
+      <xsd:import schemaLocation="http://ushpewviis244.global.umusic.ext/iD2_Prod/D2Terms.svc?xsd=xsd5" namespace="http://schemas.datacontract.org/2004/07/UMG.D2.Server.Database.DataAccess" />
+      <xsd:import schemaLocation="http://ushpewviis244.global.umusic.ext/iD2_Prod/D2Terms.svc?xsd=xsd6" namespace="http://schemas.datacontract.org/2004/07/UMG.D2.Server.Business.DataContract.CopyUPC" />
+    </xsd:schema>
+  </wsdl:types>
+  <wsdl:message name="ID2Terms_GetProductTerritories_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetProductTerritories" />
+  </wsdl:message>
+  <wsdl:message name="ID2Terms_GetProductTerritories_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetProductTerritoriesResponse" />
+  </wsdl:message>
+  <wsdl:message name="ID2Terms_GetCCReasonCodes_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetCCReasonCodes" />
+  </wsdl:message>
+  <wsdl:message name="ID2Terms_GetCCReasonCodes_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetCCReasonCodesResponse" />
+  </wsdl:message>
+  <wsdl:message name="ID2Terms_GetProductCountries_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetProductCountries" />
+  </wsdl:message>
+  <wsdl:message name="ID2Terms_GetProductCountries_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetProductCountriesResponse" />
+  </wsdl:message>
+  <wsdl:message name="ID2Terms_GetProductTermsAllByChannel_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetProductTermsAllByChannel" />
+  </wsdl:message>
+  <wsdl:message name="ID2Terms_GetProductTermsAllByChannel_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetProductTermsAllByChannelResponse" />
+  </wsdl:message>
+  <wsdl:message name="ID2Terms_GetProductTermsAllByGroup_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetProductTermsAllByGroup" />
+  </wsdl:message>
+  <wsdl:message name="ID2Terms_GetProductTermsAllByGroup_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetProductTermsAllByGroupResponse" />
+  </wsdl:message>
+  <wsdl:message name="ID2Terms_GetMarketingProductTermsByChannel_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetMarketingProductTermsByChannel" />
+  </wsdl:message>
+  <wsdl:message name="ID2Terms_GetMarketingProductTermsByChannel_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetMarketingProductTermsByChannelResponse" />
+  </wsdl:message>
+  <wsdl:message name="ID2Terms_GetLegalProductTermsByChannel_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetLegalProductTermsByChannel" />
+  </wsdl:message>
+  <wsdl:message name="ID2Terms_GetLegalProductTermsByChannel_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetLegalProductTermsByChannelResponse" />
+  </wsdl:message>
+  <wsdl:message name="ID2Terms_GetMarketingProductTermsByGroup_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetMarketingProductTermsByGroup" />
+  </wsdl:message>
+  <wsdl:message name="ID2Terms_GetMarketingProductTermsByGroup_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetMarketingProductTermsByGroupResponse" />
+  </wsdl:message>
+  <wsdl:message name="ID2Terms_GetLegalProductTermsByGroup_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetLegalProductTermsByGroup" />
+  </wsdl:message>
+  <wsdl:message name="ID2Terms_GetLegalProductTermsByGroup_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetLegalProductTermsByGroupResponse" />
+  </wsdl:message>
+  <wsdl:message name="ID2Terms_GetProductTerms_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetProductTerms" />
+  </wsdl:message>
+  <wsdl:message name="ID2Terms_GetProductTerms_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetProductTermsResponse" />
+  </wsdl:message>
+  <wsdl:message name="ID2Terms_UpdateClearance_InputMessage">
+    <wsdl:part name="parameters" element="tns:UpdateClearance" />
+  </wsdl:message>
+  <wsdl:message name="ID2Terms_UpdateClearance_OutputMessage">
+    <wsdl:part name="parameters" element="tns:UpdateClearanceResponse" />
+  </wsdl:message>
+  <wsdl:message name="ID2Terms_CopyTermToOtherTerritory_InputMessage">
+    <wsdl:part name="parameters" element="tns:CopyTermToOtherTerritory" />
+  </wsdl:message>
+  <wsdl:message name="ID2Terms_CopyTermToOtherTerritory_OutputMessage">
+    <wsdl:part name="parameters" element="tns:CopyTermToOtherTerritoryResponse" />
+  </wsdl:message>
+  <wsdl:message name="ID2Terms_UpdateClearanceAsyncRuleEngine_InputMessage">
+    <wsdl:part name="parameters" element="tns:UpdateClearanceAsyncRuleEngine" />
+  </wsdl:message>
+  <wsdl:message name="ID2Terms_UpdateClearanceAsyncRuleEngine_OutputMessage">
+    <wsdl:part name="parameters" element="tns:UpdateClearanceAsyncRuleEngineResponse" />
+  </wsdl:message>
+  <wsdl:message name="ID2Terms_GetAutoCompleteProductList_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetAutoCompleteProductList" />
+  </wsdl:message>
+  <wsdl:message name="ID2Terms_GetAutoCompleteProductList_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetAutoCompleteProductListResponse" />
+  </wsdl:message>
+  <wsdl:message name="ID2Terms_GetRuleTriggerList_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetRuleTriggerList" />
+  </wsdl:message>
+  <wsdl:message name="ID2Terms_GetRuleTriggerList_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetRuleTriggerListResponse" />
+  </wsdl:message>
+  <wsdl:message name="ID2Terms_GetMustExistInDaveProductTermsAllByUpc_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetMustExistInDaveProductTermsAllByUpc" />
+  </wsdl:message>
+  <wsdl:message name="ID2Terms_GetMustExistInDaveProductTermsAllByUpc_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetMustExistInDaveProductTermsAllByUpcResponse" />
+  </wsdl:message>
+  <wsdl:message name="ID2Terms_GetProductTermsAllByUpc_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetProductTermsAllByUpc" />
+  </wsdl:message>
+  <wsdl:message name="ID2Terms_GetProductTermsAllByUpc_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetProductTermsAllByUpcResponse" />
+  </wsdl:message>
+  <wsdl:message name="ID2Terms_GetMarketingHistory_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetMarketingHistory" />
+  </wsdl:message>
+  <wsdl:message name="ID2Terms_GetMarketingHistory_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetMarketingHistoryResponse" />
+  </wsdl:message>
+  <wsdl:message name="ID2Terms_GetDistributionGroups_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetDistributionGroups" />
+  </wsdl:message>
+  <wsdl:message name="ID2Terms_GetDistributionGroups_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetDistributionGroupsResponse" />
+  </wsdl:message>
+  <wsdl:message name="ID2Terms_GetDistributionPartners_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetDistributionPartners" />
+  </wsdl:message>
+  <wsdl:message name="ID2Terms_GetDistributionPartners_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetDistributionPartnersResponse" />
+  </wsdl:message>
+  <wsdl:message name="ID2Terms_GetPartnerProductTerms_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetPartnerProductTerms" />
+  </wsdl:message>
+  <wsdl:message name="ID2Terms_GetPartnerProductTerms_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetPartnerProductTermsResponse" />
+  </wsdl:message>
+  <wsdl:message name="ID2Terms_UpdatePartnerProductTerms_InputMessage">
+    <wsdl:part name="parameters" element="tns:UpdatePartnerProductTerms" />
+  </wsdl:message>
+  <wsdl:message name="ID2Terms_UpdatePartnerProductTerms_OutputMessage">
+    <wsdl:part name="parameters" element="tns:UpdatePartnerProductTermsResponse" />
+  </wsdl:message>
+  <wsdl:message name="ID2Terms_UpdatePartnerProductTermsTest_InputMessage">
+    <wsdl:part name="parameters" element="tns:UpdatePartnerProductTermsTest" />
+  </wsdl:message>
+  <wsdl:message name="ID2Terms_UpdatePartnerProductTermsTest_OutputMessage">
+    <wsdl:part name="parameters" element="tns:UpdatePartnerProductTermsTestResponse" />
+  </wsdl:message>
+  <wsdl:message name="ID2Terms_GetPartnerProductTermsByUpc_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetPartnerProductTermsByUpc" />
+  </wsdl:message>
+  <wsdl:message name="ID2Terms_GetPartnerProductTermsByUpc_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetPartnerProductTermsByUpcResponse" />
+  </wsdl:message>
+  <wsdl:message name="ID2Terms_GetPartnerProductTermsByProductLocalId_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetPartnerProductTermsByProductLocalId" />
+  </wsdl:message>
+  <wsdl:message name="ID2Terms_GetPartnerProductTermsByProductLocalId_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetPartnerProductTermsByProductLocalIdResponse" />
+  </wsdl:message>
+  <wsdl:message name="ID2Terms_ResetUpc_InputMessage">
+    <wsdl:part name="parameters" element="tns:ResetUpc" />
+  </wsdl:message>
+  <wsdl:message name="ID2Terms_ResetUpc_OutputMessage">
+    <wsdl:part name="parameters" element="tns:ResetUpcResponse" />
+  </wsdl:message>
+  <wsdl:message name="ID2Terms_UpdateAllMarketingTerms_InputMessage">
+    <wsdl:part name="parameters" element="tns:UpdateAllMarketingTerms" />
+  </wsdl:message>
+  <wsdl:message name="ID2Terms_UpdateAllMarketingTerms_OutputMessage">
+    <wsdl:part name="parameters" element="tns:UpdateAllMarketingTermsResponse" />
+  </wsdl:message>
+  <wsdl:message name="ID2Terms_AutoComplete_InputMessage">
+    <wsdl:part name="parameters" element="tns:AutoComplete" />
+  </wsdl:message>
+  <wsdl:message name="ID2Terms_AutoComplete_OutputMessage">
+    <wsdl:part name="parameters" element="tns:AutoCompleteResponse" />
+  </wsdl:message>
+  <wsdl:message name="ID2Terms_GetPartnerProductHistory_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetPartnerProductHistory" />
+  </wsdl:message>
+  <wsdl:message name="ID2Terms_GetPartnerProductHistory_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetPartnerProductHistoryResponse" />
+  </wsdl:message>
+  <wsdl:message name="ID2Terms_GetTrackTermHistory_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetTrackTermHistory" />
+  </wsdl:message>
+  <wsdl:message name="ID2Terms_GetTrackTermHistory_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetTrackTermHistoryResponse" />
+  </wsdl:message>
+  <wsdl:message name="ID2Terms_GetProductTermHistory_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetProductTermHistory" />
+  </wsdl:message>
+  <wsdl:message name="ID2Terms_GetProductTermHistory_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetProductTermHistoryResponse" />
+  </wsdl:message>
+  <wsdl:message name="ID2Terms_GetHistoryHeader_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetHistoryHeader" />
+  </wsdl:message>
+  <wsdl:message name="ID2Terms_GetHistoryHeader_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetHistoryHeaderResponse" />
+  </wsdl:message>
+  <wsdl:message name="ID2Terms_CopyMarketingTerms_InputMessage">
+    <wsdl:part name="parameters" element="tns:CopyMarketingTerms" />
+  </wsdl:message>
+  <wsdl:message name="ID2Terms_CopyMarketingTerms_OutputMessage">
+    <wsdl:part name="parameters" element="tns:CopyMarketingTermsResponse" />
+  </wsdl:message>
+  <wsdl:message name="ID2Terms_Ping_InputMessage">
+    <wsdl:part name="parameters" element="tns:Ping" />
+  </wsdl:message>
+  <wsdl:message name="ID2Terms_Ping_OutputMessage">
+    <wsdl:part name="parameters" element="tns:PingResponse" />
+  </wsdl:message>
+  <wsdl:portType name="ID2Terms">
+    <wsdl:operation name="GetProductTerritories">
+      <wsdl:input wsaw:Action="http://UMG.D2.Server.Host/ID2Terms/GetProductTerritories" message="tns:ID2Terms_GetProductTerritories_InputMessage" />
+      <wsdl:output wsaw:Action="http://UMG.D2.Server.Host/ID2Terms/GetProductTerritoriesResponse" message="tns:ID2Terms_GetProductTerritories_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetCCReasonCodes">
+      <wsdl:input wsaw:Action="http://UMG.D2.Server.Host/ID2Terms/GetCCReasonCodes" message="tns:ID2Terms_GetCCReasonCodes_InputMessage" />
+      <wsdl:output wsaw:Action="http://UMG.D2.Server.Host/ID2Terms/GetCCReasonCodesResponse" message="tns:ID2Terms_GetCCReasonCodes_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetProductCountries">
+      <wsdl:input wsaw:Action="http://UMG.D2.Server.Host/ID2Terms/GetProductCountries" message="tns:ID2Terms_GetProductCountries_InputMessage" />
+      <wsdl:output wsaw:Action="http://UMG.D2.Server.Host/ID2Terms/GetProductCountriesResponse" message="tns:ID2Terms_GetProductCountries_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetProductTermsAllByChannel">
+      <wsdl:input wsaw:Action="http://UMG.D2.Server.Host/ID2Terms/GetProductTermsAllByChannel" message="tns:ID2Terms_GetProductTermsAllByChannel_InputMessage" />
+      <wsdl:output wsaw:Action="http://UMG.D2.Server.Host/ID2Terms/GetProductTermsAllByChannelResponse" message="tns:ID2Terms_GetProductTermsAllByChannel_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetProductTermsAllByGroup">
+      <wsdl:input wsaw:Action="http://UMG.D2.Server.Host/ID2Terms/GetProductTermsAllByGroup" message="tns:ID2Terms_GetProductTermsAllByGroup_InputMessage" />
+      <wsdl:output wsaw:Action="http://UMG.D2.Server.Host/ID2Terms/GetProductTermsAllByGroupResponse" message="tns:ID2Terms_GetProductTermsAllByGroup_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetMarketingProductTermsByChannel">
+      <wsdl:input wsaw:Action="http://UMG.D2.Server.Host/ID2Terms/GetMarketingProductTermsByChannel" message="tns:ID2Terms_GetMarketingProductTermsByChannel_InputMessage" />
+      <wsdl:output wsaw:Action="http://UMG.D2.Server.Host/ID2Terms/GetMarketingProductTermsByChannelResponse" message="tns:ID2Terms_GetMarketingProductTermsByChannel_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetLegalProductTermsByChannel">
+      <wsdl:input wsaw:Action="http://UMG.D2.Server.Host/ID2Terms/GetLegalProductTermsByChannel" message="tns:ID2Terms_GetLegalProductTermsByChannel_InputMessage" />
+      <wsdl:output wsaw:Action="http://UMG.D2.Server.Host/ID2Terms/GetLegalProductTermsByChannelResponse" message="tns:ID2Terms_GetLegalProductTermsByChannel_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetMarketingProductTermsByGroup">
+      <wsdl:input wsaw:Action="http://UMG.D2.Server.Host/ID2Terms/GetMarketingProductTermsByGroup" message="tns:ID2Terms_GetMarketingProductTermsByGroup_InputMessage" />
+      <wsdl:output wsaw:Action="http://UMG.D2.Server.Host/ID2Terms/GetMarketingProductTermsByGroupResponse" message="tns:ID2Terms_GetMarketingProductTermsByGroup_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetLegalProductTermsByGroup">
+      <wsdl:input wsaw:Action="http://UMG.D2.Server.Host/ID2Terms/GetLegalProductTermsByGroup" message="tns:ID2Terms_GetLegalProductTermsByGroup_InputMessage" />
+      <wsdl:output wsaw:Action="http://UMG.D2.Server.Host/ID2Terms/GetLegalProductTermsByGroupResponse" message="tns:ID2Terms_GetLegalProductTermsByGroup_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetProductTerms">
+      <wsdl:input wsaw:Action="http://UMG.D2.Server.Host/ID2Terms/GetProductTerms" message="tns:ID2Terms_GetProductTerms_InputMessage" />
+      <wsdl:output wsaw:Action="http://UMG.D2.Server.Host/ID2Terms/GetProductTermsResponse" message="tns:ID2Terms_GetProductTerms_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="UpdateClearance">
+      <wsdl:input wsaw:Action="http://UMG.D2.Server.Host/ID2Terms/UpdateClearance" message="tns:ID2Terms_UpdateClearance_InputMessage" />
+      <wsdl:output wsaw:Action="http://UMG.D2.Server.Host/ID2Terms/UpdateClearanceResponse" message="tns:ID2Terms_UpdateClearance_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="CopyTermToOtherTerritory">
+      <wsdl:input wsaw:Action="http://UMG.D2.Server.Host/ID2Terms/CopyTermToOtherTerritory" message="tns:ID2Terms_CopyTermToOtherTerritory_InputMessage" />
+      <wsdl:output wsaw:Action="http://UMG.D2.Server.Host/ID2Terms/CopyTermToOtherTerritoryResponse" message="tns:ID2Terms_CopyTermToOtherTerritory_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="UpdateClearanceAsyncRuleEngine">
+      <wsdl:input wsaw:Action="http://UMG.D2.Server.Host/ID2Terms/UpdateClearanceAsyncRuleEngine" message="tns:ID2Terms_UpdateClearanceAsyncRuleEngine_InputMessage" />
+      <wsdl:output wsaw:Action="http://UMG.D2.Server.Host/ID2Terms/UpdateClearanceAsyncRuleEngineResponse" message="tns:ID2Terms_UpdateClearanceAsyncRuleEngine_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetAutoCompleteProductList">
+      <wsdl:input wsaw:Action="http://UMG.D2.Server.Host/ID2Terms/GetAutoCompleteProductList" message="tns:ID2Terms_GetAutoCompleteProductList_InputMessage" />
+      <wsdl:output wsaw:Action="http://UMG.D2.Server.Host/ID2Terms/GetAutoCompleteProductListResponse" message="tns:ID2Terms_GetAutoCompleteProductList_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetRuleTriggerList">
+      <wsdl:input wsaw:Action="http://UMG.D2.Server.Host/ID2Terms/GetRuleTriggerList" message="tns:ID2Terms_GetRuleTriggerList_InputMessage" />
+      <wsdl:output wsaw:Action="http://UMG.D2.Server.Host/ID2Terms/GetRuleTriggerListResponse" message="tns:ID2Terms_GetRuleTriggerList_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetMustExistInDaveProductTermsAllByUpc">
+      <wsdl:input wsaw:Action="http://UMG.D2.Server.Host/ID2Terms/GetMustExistInDaveProductTermsAllByUpc" message="tns:ID2Terms_GetMustExistInDaveProductTermsAllByUpc_InputMessage" />
+      <wsdl:output wsaw:Action="http://UMG.D2.Server.Host/ID2Terms/GetMustExistInDaveProductTermsAllByUpcResponse" message="tns:ID2Terms_GetMustExistInDaveProductTermsAllByUpc_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetProductTermsAllByUpc">
+      <wsdl:input wsaw:Action="http://UMG.D2.Server.Host/ID2Terms/GetProductTermsAllByUpc" message="tns:ID2Terms_GetProductTermsAllByUpc_InputMessage" />
+      <wsdl:output wsaw:Action="http://UMG.D2.Server.Host/ID2Terms/GetProductTermsAllByUpcResponse" message="tns:ID2Terms_GetProductTermsAllByUpc_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetMarketingHistory">
+      <wsdl:input wsaw:Action="http://UMG.D2.Server.Host/ID2Terms/GetMarketingHistory" message="tns:ID2Terms_GetMarketingHistory_InputMessage" />
+      <wsdl:output wsaw:Action="http://UMG.D2.Server.Host/ID2Terms/GetMarketingHistoryResponse" message="tns:ID2Terms_GetMarketingHistory_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetDistributionGroups">
+      <wsdl:input wsaw:Action="http://UMG.D2.Server.Host/ID2Terms/GetDistributionGroups" message="tns:ID2Terms_GetDistributionGroups_InputMessage" />
+      <wsdl:output wsaw:Action="http://UMG.D2.Server.Host/ID2Terms/GetDistributionGroupsResponse" message="tns:ID2Terms_GetDistributionGroups_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetDistributionPartners">
+      <wsdl:input wsaw:Action="http://UMG.D2.Server.Host/ID2Terms/GetDistributionPartners" message="tns:ID2Terms_GetDistributionPartners_InputMessage" />
+      <wsdl:output wsaw:Action="http://UMG.D2.Server.Host/ID2Terms/GetDistributionPartnersResponse" message="tns:ID2Terms_GetDistributionPartners_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetPartnerProductTerms">
+      <wsdl:input wsaw:Action="http://UMG.D2.Server.Host/ID2Terms/GetPartnerProductTerms" message="tns:ID2Terms_GetPartnerProductTerms_InputMessage" />
+      <wsdl:output wsaw:Action="http://UMG.D2.Server.Host/ID2Terms/GetPartnerProductTermsResponse" message="tns:ID2Terms_GetPartnerProductTerms_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="UpdatePartnerProductTerms">
+      <wsdl:input wsaw:Action="http://UMG.D2.Server.Host/ID2Terms/UpdatePartnerProductTerms" message="tns:ID2Terms_UpdatePartnerProductTerms_InputMessage" />
+      <wsdl:output wsaw:Action="http://UMG.D2.Server.Host/ID2Terms/UpdatePartnerProductTermsResponse" message="tns:ID2Terms_UpdatePartnerProductTerms_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="UpdatePartnerProductTermsTest">
+      <wsdl:input wsaw:Action="http://UMG.D2.Server.Host/ID2Terms/UpdatePartnerProductTermsTest" message="tns:ID2Terms_UpdatePartnerProductTermsTest_InputMessage" />
+      <wsdl:output wsaw:Action="http://UMG.D2.Server.Host/ID2Terms/UpdatePartnerProductTermsTestResponse" message="tns:ID2Terms_UpdatePartnerProductTermsTest_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetPartnerProductTermsByUpc">
+      <wsdl:input wsaw:Action="http://UMG.D2.Server.Host/ID2Terms/GetPartnerProductTermsByUpc" message="tns:ID2Terms_GetPartnerProductTermsByUpc_InputMessage" />
+      <wsdl:output wsaw:Action="http://UMG.D2.Server.Host/ID2Terms/GetPartnerProductTermsByUpcResponse" message="tns:ID2Terms_GetPartnerProductTermsByUpc_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetPartnerProductTermsByProductLocalId">
+      <wsdl:input wsaw:Action="http://UMG.D2.Server.Host/ID2Terms/GetPartnerProductTermsByProductLocalId" message="tns:ID2Terms_GetPartnerProductTermsByProductLocalId_InputMessage" />
+      <wsdl:output wsaw:Action="http://UMG.D2.Server.Host/ID2Terms/GetPartnerProductTermsByProductLocalIdResponse" message="tns:ID2Terms_GetPartnerProductTermsByProductLocalId_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="ResetUpc">
+      <wsdl:input wsaw:Action="http://UMG.D2.Server.Host/ID2Terms/ResetUpc" message="tns:ID2Terms_ResetUpc_InputMessage" />
+      <wsdl:output wsaw:Action="http://UMG.D2.Server.Host/ID2Terms/ResetUpcResponse" message="tns:ID2Terms_ResetUpc_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="UpdateAllMarketingTerms">
+      <wsdl:input wsaw:Action="http://UMG.D2.Server.Host/ID2Terms/UpdateAllMarketingTerms" message="tns:ID2Terms_UpdateAllMarketingTerms_InputMessage" />
+      <wsdl:output wsaw:Action="http://UMG.D2.Server.Host/ID2Terms/UpdateAllMarketingTermsResponse" message="tns:ID2Terms_UpdateAllMarketingTerms_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="AutoComplete">
+      <wsdl:input wsaw:Action="http://UMG.D2.Server.Host/ID2Terms/AutoComplete" message="tns:ID2Terms_AutoComplete_InputMessage" />
+      <wsdl:output wsaw:Action="http://UMG.D2.Server.Host/ID2Terms/AutoCompleteResponse" message="tns:ID2Terms_AutoComplete_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetPartnerProductHistory">
+      <wsdl:input wsaw:Action="http://UMG.D2.Server.Host/ID2Terms/GetPartnerProductHistory" message="tns:ID2Terms_GetPartnerProductHistory_InputMessage" />
+      <wsdl:output wsaw:Action="http://UMG.D2.Server.Host/ID2Terms/GetPartnerProductHistoryResponse" message="tns:ID2Terms_GetPartnerProductHistory_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetTrackTermHistory">
+      <wsdl:input wsaw:Action="http://UMG.D2.Server.Host/ID2Terms/GetTrackTermHistory" message="tns:ID2Terms_GetTrackTermHistory_InputMessage" />
+      <wsdl:output wsaw:Action="http://UMG.D2.Server.Host/ID2Terms/GetTrackTermHistoryResponse" message="tns:ID2Terms_GetTrackTermHistory_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetProductTermHistory">
+      <wsdl:input wsaw:Action="http://UMG.D2.Server.Host/ID2Terms/GetProductTermHistory" message="tns:ID2Terms_GetProductTermHistory_InputMessage" />
+      <wsdl:output wsaw:Action="http://UMG.D2.Server.Host/ID2Terms/GetProductTermHistoryResponse" message="tns:ID2Terms_GetProductTermHistory_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetHistoryHeader">
+      <wsdl:input wsaw:Action="http://UMG.D2.Server.Host/ID2Terms/GetHistoryHeader" message="tns:ID2Terms_GetHistoryHeader_InputMessage" />
+      <wsdl:output wsaw:Action="http://UMG.D2.Server.Host/ID2Terms/GetHistoryHeaderResponse" message="tns:ID2Terms_GetHistoryHeader_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="CopyMarketingTerms">
+      <wsdl:input wsaw:Action="http://UMG.D2.Server.Host/ID2Terms/CopyMarketingTerms" message="tns:ID2Terms_CopyMarketingTerms_InputMessage" />
+      <wsdl:output wsaw:Action="http://UMG.D2.Server.Host/ID2Terms/CopyMarketingTermsResponse" message="tns:ID2Terms_CopyMarketingTerms_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="Ping">
+      <wsdl:input wsaw:Action="http://UMG.D2.Server.Host/ID2Terms/Ping" message="tns:ID2Terms_Ping_InputMessage" />
+      <wsdl:output wsaw:Action="http://UMG.D2.Server.Host/ID2Terms/PingResponse" message="tns:ID2Terms_Ping_OutputMessage" />
+    </wsdl:operation>
+  </wsdl:portType>
+</wsdl:definitions>

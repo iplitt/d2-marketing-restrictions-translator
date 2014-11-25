@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://schemas.datacontract.org/2004/07/UMG.D2.Server.Database.DataAccess" elementFormDefault="qualified" targetNamespace="http://schemas.datacontract.org/2004/07/UMG.D2.Server.Database.DataAccess" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:complexType name="ArrayOfHistoryProductTermGetResponse">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="HistoryProductTermGetResponse" nillable="true" type="tns:HistoryProductTermGetResponse" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfHistoryProductTermGetResponse" nillable="true" type="tns:ArrayOfHistoryProductTermGetResponse" />
+  <xs:complexType name="HistoryProductTermGetResponse">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="DateAndTime" nillable="true" type="xs:dateTime" />
+      <xs:element minOccurs="0" name="UserName" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Artist" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Title" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="VersionTitle" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="PartnerName" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="PartnerTerritory" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="DoNotDeliver" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="PreOrderDate" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="AlbumPreviews" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="SalesStartDate" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="ExEndDate" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="ExpDate" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="HasDefaults" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="StoreFrontName" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="DaveSalesStartDate" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="D2SalesStartDate" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="HoldDateOffset" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="UPC" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="release_date" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="UpdateDate" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="ExclusiveInPerpetuity" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="SourceTable" type="xs:int" />
+      <xs:element minOccurs="0" name="ModDateTime" nillable="true" type="xs:dateTime" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="HistoryProductTermGetResponse" nillable="true" type="tns:HistoryProductTermGetResponse" />
+  <xs:complexType name="ArrayOfTermHistoryTrackGetResponse">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="TermHistoryTrackGetResponse" nillable="true" type="tns:TermHistoryTrackGetResponse" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfTermHistoryTrackGetResponse" nillable="true" type="tns:ArrayOfTermHistoryTrackGetResponse" />
+  <xs:complexType name="TermHistoryTrackGetResponse">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="event_date" nillable="true" type="xs:dateTime" />
+      <xs:element minOccurs="0" name="user_name" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="disrc" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="track" nillable="true" type="xs:int" />
+      <xs:element minOccurs="0" name="unit" nillable="true" type="xs:int" />
+      <xs:element minOccurs="0" name="title" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="featured_artist" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="featured_artist_level" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="side_artist" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="side_artist_level" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="albumOnly" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="album_only_level" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="hold_date" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="hold_date_level" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="licensed_in" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="licensed_in_date" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="licensed_in_level" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="samples_exists" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="c_permanent_sample" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="b_permanent_sample" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="c_streaming_sample" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="b_streaming_sample" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="c_burns_sample" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="b_burns_sample" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="c_transfers_sample" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="b_transfers_sample" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="c_limited_sample" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="b_limited_sample" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="mu_permanent" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="mu_streaming" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="mu_burns" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="mu_transfers" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="mu_limited" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="mu_level" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="dist_restr" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="product_territory" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="preorder_only" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="MakeYourOwnRingTone" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="artist" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="VersionTitle" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="TerritoryRights" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Confirm_Complete" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="UPC" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="TermHistoryTrackGetResponse" nillable="true" type="tns:TermHistoryTrackGetResponse" />
+  <xs:complexType name="ArrayOfTermHistoryProductGetResponse">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="TermHistoryProductGetResponse" nillable="true" type="tns:TermHistoryProductGetResponse" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfTermHistoryProductGetResponse" nillable="true" type="tns:ArrayOfTermHistoryProductGetResponse" />
+  <xs:complexType name="TermHistoryProductGetResponse">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="event_date" nillable="true" type="xs:dateTime" />
+      <xs:element minOccurs="0" name="user_name" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="isrc_number" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="disrc" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="unit" nillable="true" type="xs:int" />
+      <xs:element minOccurs="0" name="Side" nillable="true" type="xs:int" />
+      <xs:element minOccurs="0" name="track" nillable="true" type="xs:int" />
+      <xs:element minOccurs="0" name="title" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="artist" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="featured_artist" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="featured_artist_level" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="side_artist" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="side_artist_level" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="albumOnly" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="album_only_level" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="hold_date" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="hold_date_level" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="licensed_in" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="licensed_in_date" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="licensed_in_level" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="samples_exists" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="c_permanent_sample" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="b_permanent_sample" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="c_streaming_sample" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="b_streaming_sample" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="c_burns_sample" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="b_burns_sample" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="c_transfers_sample" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="b_transfers_sample" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="c_limited_sample" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="b_limited_sample" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="mu_permanent" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="mu_streaming" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="mu_burns" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="mu_transfers" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="mu_limited" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="mu_level" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="dist_restr" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="product_territory" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="VersionTitle" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="TerritoryRights" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Confirm_Complete" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="MakeYourOwnRingTone" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="preorder_only" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="SalesStartDate" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="PreOrderDate" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="ClosedCaption" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="CC_reasoncode" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="CCType" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="CCDescription" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Boxset" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="TermHistoryProductGetResponse" nillable="true" type="tns:TermHistoryProductGetResponse" />
+  <xs:complexType name="ArrayOfHistoryProductHeaderGetExResponse">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="HistoryProductHeaderGetExResponse" nillable="true" type="tns:HistoryProductHeaderGetExResponse" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfHistoryProductHeaderGetExResponse" nillable="true" type="tns:ArrayOfHistoryProductHeaderGetExResponse" />
+  <xs:complexType name="HistoryProductHeaderGetExResponse">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="UPC" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Artist" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="title" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="release_date" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Country_ID" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="HistoryProductHeaderGetExResponse" nillable="true" type="tns:HistoryProductHeaderGetExResponse" />
+</xs:schema>

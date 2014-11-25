@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="5d7aab6d-52ae-4f91-b05f-6b6010f82288" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://d2.umusic.net/id2_prod/d2terms.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="D2Terms.disco" MetadataType="Disco" ID="8fd951ab-c966-4f90-8519-cbc6a6b95a08" SourceId="1" SourceUrl="http://ushpewviis244.global.umusic.ext/iD2_Prod/D2Terms.svc?disco" />
+    <MetadataFile FileName="D2Terms.xsd" MetadataType="Schema" ID="ea238a79-c980-4eda-9f53-6adb4239c51e" SourceId="1" SourceUrl="http://ushpewviis244.global.umusic.ext/iD2_Prod/D2Terms.svc?xsd=xsd2" />
+    <MetadataFile FileName="D2Terms.wsdl" MetadataType="Wsdl" ID="7eae513c-7fce-4eb1-9ff6-c2526887bb85" SourceId="1" SourceUrl="http://ushpewviis244.global.umusic.ext/iD2_Prod/D2Terms.svc?wsdl=wsdl0" />
+    <MetadataFile FileName="D2Terms1.xsd" MetadataType="Schema" ID="365adaa9-1863-4523-8c99-1115e21046ab" SourceId="1" SourceUrl="http://ushpewviis244.global.umusic.ext/iD2_Prod/D2Terms.svc?xsd=xsd0" />
+    <MetadataFile FileName="D2Terms2.xsd" MetadataType="Schema" ID="fff50ca6-b602-4b97-8614-84926a5efc6a" SourceId="1" SourceUrl="http://ushpewviis244.global.umusic.ext/iD2_Prod/D2Terms.svc?xsd=xsd3" />
+    <MetadataFile FileName="D2Terms3.xsd" MetadataType="Schema" ID="89c260dc-f0d5-47fd-9db5-10779834c4b4" SourceId="1" SourceUrl="http://ushpewviis244.global.umusic.ext/iD2_Prod/D2Terms.svc?xsd=xsd6" />
+    <MetadataFile FileName="D2Terms1.wsdl" MetadataType="Wsdl" ID="24a56863-f6a1-4d68-a191-fb2c087d7839" SourceId="1" SourceUrl="http://ushpewviis244.global.umusic.ext/iD2_Prod/D2Terms.svc?wsdl" />
+    <MetadataFile FileName="D2Terms4.xsd" MetadataType="Schema" ID="7fb5992f-e9dd-4391-a291-78c88e26788e" SourceId="1" SourceUrl="http://ushpewviis244.global.umusic.ext/iD2_Prod/D2Terms.svc?xsd=xsd4" />
+    <MetadataFile FileName="D2Terms5.xsd" MetadataType="Schema" ID="8dbf521d-da2d-4a30-bff8-9e4b2225d46d" SourceId="1" SourceUrl="http://ushpewviis244.global.umusic.ext/iD2_Prod/D2Terms.svc?xsd=xsd1" />
+    <MetadataFile FileName="D2Terms6.xsd" MetadataType="Schema" ID="67e62d7d-b0e5-4802-9c0e-d4561257ace8" SourceId="1" SourceUrl="http://ushpewviis244.global.umusic.ext/iD2_Prod/D2Terms.svc?xsd=xsd5" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

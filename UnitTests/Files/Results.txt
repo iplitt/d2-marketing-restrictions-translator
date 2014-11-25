@@ -1,0 +1,1796 @@
+00000000000000	Unknown for COND. DL, DISC ON DEMAND, DOWNLOAD, JUKEBOX, KIOSK, MAKE YOUR OWN RINGTONE, and STREAMING. No Album Only restriction.
+00015707827720	Not found.
+00015707829120	Not found.
+00015707830454	No Album Only restriction. No preview for any partners.
+00015707831154	Restricted for STREAMING. No Album Only restriction. Exclusive in Perpetuity to iTunes_Video (US) from 4/16/2013. No preview for any partners.
+00015707831352	No Album Only restriction. No preview for any partners.
+00015707831451	No Album Only restriction. No preview for any partners.
+00015707831550	No Album Only restriction. No preview for any partners.
+00015707832656	Restricted for STREAMING. No Album Only restriction. Exclusive in Perpetuity to iTunes_Video (US) from 6/11/2013. No preview for any partners.
+00015707834858	No Album Only restriction. Exclusive in Perpetuity to iTunes_Video (US) from 9/17/2013. No preview for any partners.
+00015707835251	No Album Only restriction. Exclusive in Perpetuity to iTunes_Video (US) from 10/3/2013. No preview for any partners.
+00015707835459	No Album Only restriction. Exclusive in Perpetuity to ITunes_High Quality Audio (US) from 10/15/2013. No preview for any partners.
+00015707835558	No Album Only restriction. Do not deliver to iTunes_Audio (US). No preview for any partners.
+00015707835657	No Album Only restriction. Exclusive in Perpetuity to iTunes_Video (US) from 10/22/2013. No preview for any partners.
+00015707838610	Not found.
+00015707838627	Not found.
+00015707838658	No Album Only restriction. Instant Gratification for: Whoa Whoa Whoa.  Instant Gratification starting 06/24/2014 for: Ink Don't Bleed. Exclusive in Perpetuity to ITunes_High Quality Audio (US) from 8/12/2014. Automatic Preorder for ITunes_High Quality Audio (US) on 6/10/2014. No preview for any partners.
+00015707839259	No Album Only restriction. Exclusive in Perpetuity to iTunes_Video (US) from 5/27/2014. No preview for any partners.
+00015707839754	No Album Only restriction. Exclusive in Perpetuity to iTunes_Video (US) from 5/27/2014. No preview for any partners.
+00015707839853	No Album Only restriction. Instant Gratification for: Whoa Whoa Whoa.  Instant Gratification starting 06/24/2014 for: Ink Don't Bleed. Do not deliver to Google Music (US) and iTunes_Audio (US). Automatic Preorder for Amazon (US) on 6/10/2014. No preview for any partners.
+00015707840057	No Album Only restriction. Instant Gratification for: Whoa Whoa Whoa.  Instant Gratification starting 06/24/2014 for: Ink Don't Bleed. Do not deliver to Google Music (US). Automatic Preorder for Amazon (US) and iTunes_Audio (US) on 6/10/2014. No preview for any partners.
+00015707840156	No Album Only restriction. Do not deliver to iTunes_Audio (US). No preview for any partners.
+00015707840255	No Album Only restriction. Do not deliver to iTunes_Audio (US). No preview for any partners.
+00015707840354	No Album Only restriction. Do not deliver to iTunes_Audio (US). No preview for any partners.
+00015707840453	No Album Only restriction. Do not deliver to iTunes_Audio (US). No preview for any partners.
+00015707840750	No Album Only restriction. Exclusive in Perpetuity to Google Music (US) from 8/12/2014. Automatic Preorder for Google Music (US) on 6/10/2014. No preview for any partners.
+00015707840859	No Album Only restriction. Exclusive in Perpetuity to Google Music (US) from 8/12/2014. Automatic Preorder for Google Music (US) on 6/10/2014. No preview for any partners.
+00015707841955	No Album Only restriction. Exclusive in Perpetuity to iTunes_Video (US) from 7/1/2014. No preview for any partners.
+00015707842259	No Album Only restriction. Exclusive in Perpetuity to iTunes_Video (US) from 7/22/2014. No preview for any partners.
+00015707842952	No Album Only restriction. Exclusive in Perpetuity to iTunes_Video (US) from 8/12/2014. No preview for any partners.
+00015707844154	Unknown for DISC ON DEMAND, DOWNLOAD, JUKEBOX, KIOSK, and STREAMING. No Album Only restriction. No preview for any partners.
+00015707844758	No Album Only restriction. Exclusive in Perpetuity to iTunes_Video (US) from 9/15/2014. No preview for any partners. World, Exclusive to iTunes
+00015707980494	Not found.
+00015891713724	Not found.
+00015891714325	Not found.
+00015891714622	Not found.
+00015891717159	No Album Only restriction. No preview for any partners.
+00030915104555	No Album Only restriction. Do not deliver to iTunes_Audio (US). No preview for any partners. DND to iTunes
+00042288285984	Restricted for COND. DL. No Album Only restriction. No preview for any partners.
+00044003170384	No Album Only restriction. No preview for any partners.
+00044003170391	No Album Only restriction. No preview for any partners.
+00044003170414	No Album Only restriction. No preview for any partners.
+00044003170421	No Album Only restriction. No preview for any partners.
+00044003170452	No Album Only restriction. No preview for any partners.
+00044003170469	No Album Only restriction. No preview for any partners.
+00044003171206	Restricted for DISC ON DEMAND. No Album Only restriction. No preview for any partners. To all digital partners. World
+00044003171312	No Album Only restriction. No preview for any partners.
+00044003172555	No Album Only restriction. No preview for any partners.
+00044003172814	No Album Only restriction. No preview for any partners.
+00044003172951	No Album Only restriction. No preview for any partners.
+00044003172968	No Album Only restriction. No preview for any partners.
+00044003172975	No Album Only restriction. No preview for any partners.
+00044003172982	No Album Only restriction. No preview for any partners.
+00044003173002	No Album Only restriction. No preview for any partners.
+00044003173019	No Album Only restriction. No preview for any partners.
+00044003173026	No Album Only restriction. No preview for any partners.
+00044003173033	No Album Only restriction. No preview for any partners.
+00044003173040	No Album Only restriction. No preview for any partners.
+00044003173057	No Album Only restriction. No preview for any partners.
+00044003173064	No Album Only restriction. No preview for any partners.
+00044003173071	No Album Only restriction. No preview for any partners.
+00044003173088	No Album Only restriction. No preview for any partners.
+00044003173095	No Album Only restriction. No preview for any partners.
+00044003173101	No Album Only restriction. No preview for any partners.
+00044003173156	No Album Only restriction. No preview for any partners.
+00044003173170	No Album Only restriction. No preview for any partners.
+00044003173187	No Album Only restriction. No preview for any partners.
+00044003173194	No Album Only restriction. No preview for any partners.
+00044003173347	No Album Only restriction. No preview for any partners.
+00044003173354	No Album Only restriction. No preview for any partners.
+00044003173361	No Album Only restriction. No preview for any partners.
+00044003173378	No Album Only restriction. No preview for any partners.
+00044003173385	No Album Only restriction. No preview for any partners.
+00044003173392	No Album Only restriction. No preview for any partners.
+00044003173408	No Album Only restriction. No preview for any partners.
+00044003173415	No Album Only restriction. No preview for any partners.
+00044003173422	No Album Only restriction. No preview for any partners.
+00044003173439	No Album Only restriction. No preview for any partners.
+00044003173446	No Album Only restriction. No preview for any partners.
+00044003173521	No Album Only restriction. No preview for any partners.
+00044003173538	No Album Only restriction. No preview for any partners.
+00044003173545	No Album Only restriction. No preview for any partners.
+00044003173651	No Album Only restriction. No preview for any partners.
+00044003173880	No Album Only restriction. No preview for any partners.
+00044003173972	No Album Only restriction. Automatic Preorder for iTunes_Audio (US) on 3/11/2014. iTunes pre-order 3/11/2014 and all other partners on 4/22/2014
+00044003174085	No Album Only restriction. No preview for any partners.
+00044003174306	No Album Only restriction. No preview for any partners.
+00044003174443	No Album Only restriction. No preview for any partners.
+00044003174542	No Album Only restriction. No preview for any partners.
+00044003174832	No Album Only restriction. No preview for any partners.
+00044003175310	No Album Only restriction. No preview for any partners.
+00044003175433	No Album Only restriction. No preview for any partners.
+00044003175785	No Album Only restriction. No preview for any partners.
+00044003176515	No Album Only restriction. No preview for any partners.
+00044003176744	No Album Only restriction. No preview for any partners.
+00044003177048	No Album Only restriction. No preview for any partners.
+00044003177215	No Album Only restriction. No preview for any partners.
+00044003177222	No Album Only restriction. No preview for any partners.
+00044003177239	No Album Only restriction. Exclusive in Perpetuity to Beatport (US) from 8/12/2014. No preview for any partners. Beatport Only
+00044003178496	No Album Only restriction. No preview for any partners.
+00044003965546	Unknown for COND. DL, DISC ON DEMAND, DOWNLOAD, JUKEBOX, KIOSK, MAKE YOUR OWN RINGTONE, and STREAMING. No Album Only restriction. No preview for any partners.
+00044003965553	Unknown for COND. DL, DISC ON DEMAND, DOWNLOAD, JUKEBOX, KIOSK, MAKE YOUR OWN RINGTONE, and STREAMING. No Album Only restriction. No preview for any partners.
+00075678677410	Not found.
+00075678683718	Not found.
+00075678683985	Not found.
+00075678683992	Not found.
+00075678684029	Not found.
+00075678684388	Not found.
+00075678684470	Not found.
+00075678731822	Not found.
+00075678731952	Not found.
+00075678732010	Not found.
+00075678732294	Not found.
+00075678732539	Not found.
+00075678762260	Not found.
+00075678766633	Not found.
+00075678824548	Not found.
+00075678824883	Not found.
+00075678825163	Not found.
+00075678825613	Not found.
+00075678825668	Not found.
+00075679946430	No Album Only restriction. No preview for any partners.
+00075679946447	No Album Only restriction. No preview for any partners.
+00075679948946	No Album Only restriction. Exclusive in Perpetuity to Beatport (US) from 2/25/2014. No preview for any partners.
+00075679948953	No Album Only restriction. No preview for any partners.
+00075679949417	Unknown for COND. DL, DISC ON DEMAND, DOWNLOAD, JUKEBOX, KIOSK, MAKE YOUR OWN RINGTONE, and STREAMING. No Album Only restriction. No preview for any partners.
+00075679949424	No Album Only restriction. No preview for any partners.
+00075679950949	No Album Only restriction. No preview for any partners.
+00075679951762	No Album Only restriction. Exclusive in Perpetuity to Rdio Subscription (US) and Rdio_Download (US) from 2/25/2014. No preview for any partners.
+00075679955869	No Album Only restriction. No preview for any partners.
+00075679956316	No Album Only restriction. No preview for any partners.
+00075679958464	No Album Only restriction. No preview for any partners.
+00075679961693	No Album Only restriction. Exclusive in Perpetuity to iTunes_Audio (US) from 2/18/2014. No preview for any partners.
+00075679962980	No Album Only restriction. No preview for any partners.
+00075679964250	No Album Only restriction. No preview for any partners.
+00075679965417	No Album Only restriction. No preview for any partners.
+00075679965448	No Album Only restriction. No preview for any partners.
+00075679967251	No Album Only restriction. No preview for any partners.
+00075679967336	No Album Only restriction. No preview for any partners.
+00078636062075	Not found.
+00080297163923	No Album Only restriction. No preview for any partners.
+00080297168126	No Album Only restriction. No preview for any partners.
+00602537653652	Not found.
+00602537653669	Not found.
+00602537659876	No Album Only restriction. Do not deliver to iTunes_Audio (US).
+00602537758944	No Album Only restriction. No preview for any partners.
+00602537786558	No Album Only restriction. No preview for any partners.
+00602537810833	Unknown for DISC ON DEMAND, DOWNLOAD, JUKEBOX, KIOSK, and STREAMING. No Album Only restriction. No preview for any partners.
+00602537810840	Unknown for DISC ON DEMAND, DOWNLOAD, JUKEBOX, KIOSK, and STREAMING. No Album Only restriction. No preview for any partners.
+00602537810857	Unknown for DISC ON DEMAND, DOWNLOAD, JUKEBOX, KIOSK, and STREAMING. No Album Only restriction. No preview for any partners.
+00602537858132	Unknown for DISC ON DEMAND, DOWNLOAD, JUKEBOX, KIOSK, and STREAMING. No Album Only restriction. No preview for any partners.
+00602537858729	Unknown for DISC ON DEMAND, DOWNLOAD, JUKEBOX, KIOSK, and STREAMING. No Album Only restriction. No preview for any partners.
+00602537998821	Unknown for DISC ON DEMAND, DOWNLOAD, JUKEBOX, KIOSK, and STREAMING. No Album Only restriction. No preview for any partners.
+00602547080905	Unknown for DISC ON DEMAND, DOWNLOAD, JUKEBOX, KIOSK, and STREAMING. No Album Only restriction. No preview for any partners.
+00720657941425	Not found.
+00720657941524	Not found.
+00720657942828	Not found.
+00720657950328	Not found.
+00720657950427	Not found.
+00720657950724	Unknown for COND. DL, DISC ON DEMAND, DOWNLOAD, JUKEBOX, KIOSK, MAKE YOUR OWN RINGTONE, and STREAMING. No Album Only restriction. No preview for any partners.
+00720657950823	Restricted for DISC ON DEMAND and KIOSK. No Album Only restriction. No preview for any partners.
+00720657950922	Not found.
+00720657951028	Not found.
+00720657951127	Not found.
+00720657951226	Not found.
+00720657951523	Not found.
+00720657951929	Not found.
+00720657952124	Not found.
+00720657993929	Not found.
+00720657994148	Not found.
+00790692000265	Not found.
+00790692000364	Unknown for COND. DL, DISC ON DEMAND, DOWNLOAD, JUKEBOX, KIOSK, MAKE YOUR OWN RINGTONE, and STREAMING. No Album Only restriction. No preview for any partners.
+00790692000463	Not found.
+00790692000760	Not found.
+00790692000869	Not found.
+00790692000968	Unknown for COND. DL, DISC ON DEMAND, DOWNLOAD, JUKEBOX, KIOSK, MAKE YOUR OWN RINGTONE, and STREAMING. No Album Only restriction. No preview for any partners.
+00790692001002	Not found.
+00790692001262	Not found.
+00790692001569	Not found.
+00790692001767	Not found.
+00790692001927	Not found.
+00790692001965	Not Restricted/Unknown for MAKE YOUR OWN RINGTONE, Unknown for COND. DL, DOWNLOAD, JUKEBOX, KIOSK, and STREAMING. No Album Only restriction.
+00790692002115	Not found.
+00790692002122	Not found.
+00790692002160	Not Restricted/Unknown for MAKE YOUR OWN RINGTONE, Unknown for COND. DL, DOWNLOAD, JUKEBOX, KIOSK, and STREAMING. No Album Only restriction.
+00790692002467	Not found.
+00790692002566	Unknown for COND. DL, DISC ON DEMAND, DOWNLOAD, JUKEBOX, KIOSK, MAKE YOUR OWN RINGTONE, and STREAMING. No Album Only restriction. No preview for any partners.
+00790692002665	Unknown for COND. DL, DISC ON DEMAND, DOWNLOAD, JUKEBOX, KIOSK, MAKE YOUR OWN RINGTONE, and STREAMING. No Album Only restriction. No preview for any partners.
+00790692002764	Unknown for COND. DL, DISC ON DEMAND, DOWNLOAD, JUKEBOX, KIOSK, MAKE YOUR OWN RINGTONE, and STREAMING. No Album Only restriction. No preview for any partners.
+00790692002962	Not found.
+00790692003365	Not found.
+00790692003600	Not found.
+00790692060467	Not found.
+00790692060665	Not found.
+00790692060726	Not found.
+00790692060764	Not found.
+00790692061068	Not found.
+00790692061167	Unknown for COND. DL, DISC ON DEMAND, DOWNLOAD, JUKEBOX, KIOSK, MAKE YOUR OWN RINGTONE, and STREAMING. No Album Only restriction. No preview for any partners.
+00790692061563	Not found.
+00790692061662	Not found.
+00790692061921	Not found.
+00790692061969	Unknown for COND. DL, DISC ON DEMAND, DOWNLOAD, JUKEBOX, KIOSK, MAKE YOUR OWN RINGTONE, and STREAMING. No Album Only restriction. No preview for any partners.
+00790692062065	Not found.
+00790692062164	Not found.
+00790692062263	Unknown for COND. DL, DISC ON DEMAND, DOWNLOAD, JUKEBOX, KIOSK, MAKE YOUR OWN RINGTONE, and STREAMING. No Album Only restriction. No preview for any partners.
+00790692062621	Not found.
+00790692062669	Not found.
+00790692062720	Not found.
+00790692062768	Not found.
+00790692063062	Unknown for COND. DL, DISC ON DEMAND, DOWNLOAD, JUKEBOX, KIOSK, MAKE YOUR OWN RINGTONE, and STREAMING. No Album Only restriction. No preview for any partners.
+00790692063161	Not found.
+00790692063321	Not found.
+00790692063369	Unknown for COND. DL, DISC ON DEMAND, DOWNLOAD, JUKEBOX, KIOSK, MAKE YOUR OWN RINGTONE, and STREAMING. No Album Only restriction. No preview for any partners.
+00790692063468	Not found.
+00790692063567	Not found.
+00790692063765	Unknown for COND. DL, DISC ON DEMAND, DOWNLOAD, JUKEBOX, KIOSK, MAKE YOUR OWN RINGTONE, and STREAMING. No Album Only restriction. No preview for any partners.
+00790692063826	Not found.
+00790692063864	Not found.
+00790692064069	Not found.
+00790692064168	Not found.
+00790692064229	Not found.
+00790692064267	Not found.
+00790692064366	Not found.
+00790692064427	Not found.
+00790692064465	Not found.
+00790692064663	Not found.
+00790692064960	Not found.
+00790692065264	Not found.
+00790692065363	Not found.
+00790692065462	Not found.
+00790692065561	Not found.
+00790692065868	Unknown for COND. DL, DISC ON DEMAND, DOWNLOAD, JUKEBOX, KIOSK, MAKE YOUR OWN RINGTONE, and STREAMING. No Album Only restriction. No preview for any partners.
+00790692065967	Not found.
+00790692066025	Not found.
+00790692066063	No Album Only restriction.
+00790692066162	Not found.
+00790692066360	Not found.
+00790692066469	Unknown for COND. DL, DISC ON DEMAND, DOWNLOAD, JUKEBOX, KIOSK, MAKE YOUR OWN RINGTONE, and STREAMING. No Album Only restriction. No preview for any partners.
+00790692066568	Not found.
+00790692066667	Not found.
+00790692066766	Unknown for COND. DL, DISC ON DEMAND, DOWNLOAD, JUKEBOX, KIOSK, MAKE YOUR OWN RINGTONE, and STREAMING. No Album Only restriction. No preview for any partners.
+00790692067114	Not found.
+00790692067169	Not Restricted/Unknown for MAKE YOUR OWN RINGTONE, Unknown for COND. DL, DOWNLOAD, JUKEBOX, KIOSK, and STREAMING. No Album Only restriction.
+00790692067220	Not found.
+00790692067268	Not found.
+00790692067367	Not found.
+00790692067428	Not found.
+00790692067466	Not found.
+00790692067664	Unknown for COND. DL, DISC ON DEMAND, DOWNLOAD, JUKEBOX, KIOSK, MAKE YOUR OWN RINGTONE, and STREAMING. No Album Only restriction. No preview for any partners.
+00790692067862	Not found.
+00790692067961	Unknown for COND. DL, DISC ON DEMAND, DOWNLOAD, JUKEBOX, KIOSK, MAKE YOUR OWN RINGTONE, and STREAMING. No Album Only restriction. No preview for any partners.
+00790692068067	Unknown for COND. DL, DISC ON DEMAND, DOWNLOAD, JUKEBOX, KIOSK, MAKE YOUR OWN RINGTONE, and STREAMING. No Album Only restriction. No preview for any partners.
+00790692068166	Not found.
+00790692068418	Not found.
+00790692068425	Not found.
+00790692068463	Unknown for COND. DL, DISC ON DEMAND, DOWNLOAD, JUKEBOX, KIOSK, MAKE YOUR OWN RINGTONE, and STREAMING. No Album Only restriction. No preview for any partners.
+00790692068661	Unknown for COND. DL, DISC ON DEMAND, DOWNLOAD, JUKEBOX, KIOSK, MAKE YOUR OWN RINGTONE, and STREAMING. No Album Only restriction. No preview for any partners.
+00790692068760	Not found.
+00790692068807	Not found.
+00790692069026	Not found.
+00790692069064	Not Restricted/Unknown for MAKE YOUR OWN RINGTONE, Unknown for COND. DL, DOWNLOAD, JUKEBOX, KIOSK, and STREAMING. No Album Only restriction.
+00790692069262	Not found.
+00790692069323	Not found.
+00790692069361	Not Restricted/Unknown for MAKE YOUR OWN RINGTONE, Unknown for COND. DL, DOWNLOAD, JUKEBOX, KIOSK, and STREAMING. No Album Only restriction.
+00790692069422	Not found.
+00790692069460	Not found.
+00790692069569	Not Restricted/Unknown for MAKE YOUR OWN RINGTONE, Unknown for COND. DL, DOWNLOAD, JUKEBOX, KIOSK, and STREAMING. No Album Only restriction.
+00790692069613	Not found.
+00790692069767	No Album Only restriction. No preview for any partners.
+00790692069866	Not Restricted/Unknown for MAKE YOUR OWN RINGTONE, Unknown for COND. DL, DOWNLOAD, JUKEBOX, KIOSK, and STREAMING. No Album Only restriction. No preview for any partners.
+00790692070367	No Album Only restriction.
+00790692070565	Not found.
+00790692070763	Not Restricted/Unknown for MAKE YOUR OWN RINGTONE, Unknown for COND. DL, DOWNLOAD, JUKEBOX, KIOSK, and STREAMING. No Album Only restriction.
+00790692070817	Not found.
+00790692070824	Not found.
+00790692070862	Not Restricted/Unknown for MAKE YOUR OWN RINGTONE, Unknown for COND. DL, DOWNLOAD, JUKEBOX, KIOSK, and STREAMING. No Album Only restriction.
+00790692070961	No Album Only restriction. Expires for all partners on 11/4/2014.
+00790692071029	Not found.
+00790692071067	Not Restricted/Unknown for MAKE YOUR OWN RINGTONE, Unknown for COND. DL, DOWNLOAD, JUKEBOX, KIOSK, and STREAMING. No Album Only restriction.
+00790692071326	Not found.
+00790692071425	Not found.
+00790692071463	Not Restricted/Unknown for MAKE YOUR OWN RINGTONE, Unknown for COND. DL, DOWNLOAD, JUKEBOX, KIOSK, and STREAMING. No Album Only restriction.
+00790692071524	Not found.
+00790692071913	Not found.
+00790692072026	Not found.
+00790692072064	Not Restricted/Unknown for MAKE YOUR OWN RINGTONE. No Album Only restriction. No preview for any partners.
+00790692072514	Not found.
+00790692072521	Not found.
+00790692072569	No Album Only restriction.
+00790692072767	No Album Only restriction. No preview for any partners.
+00790692073511	Not found.
+00790692073528	Not found.
+00790692073610	Not found.
+00790692073627	Not found.
+00790692074211	Not found.
+00790692074419	Not found.
+00790692074716	Not found.
+00790692074822	Not found.
+00790692075812	Not found.
+00790692075829	Not found.
+00790692075928	Not found.
+00790692075966	No Album Only restriction. Do not deliver to iTunes_Audio (US). Expires for YouTube_Subscription (US) on 2/19/2014. No preview for any partners.
+00790692076222	Not found.
+00790692076260	No Album Only restriction. Do not deliver to iTunes_Audio (US). Expires for YouTube_Subscription (US) on 2/19/2014. No preview for any partners.
+00790692076321	Not found.
+00790692076369	No Album Only restriction. Do not deliver to iTunes_Audio (US). Expires for YouTube_Subscription (US) on 2/19/2014. No preview for any partners.
+00790692077113	Not found.
+00790692077120	Unknown for COND. DL, DISC ON DEMAND, DOWNLOAD, JUKEBOX, KIOSK, MAKE YOUR OWN RINGTONE, and STREAMING. No Album Only restriction. No preview for any partners.
+00790692077168	No Album Only restriction. Do not deliver to iTunes_Audio (US) and ITunes_High Quality Audio (US). Expires for YouTube_Subscription (US) on 2/19/2014. No preview for any partners.
+00790692077311	Not found.
+00790692077328	Not found.
+00790692077366	No Album Only restriction. Do not deliver to iTunes_Audio (US). Expires for YouTube_Subscription (US) on 2/19/2014. No preview for any partners.
+00790692077519	Not found.
+00790692077526	Not found.
+00790692077564	No Album Only restriction. Do not deliver to iTunes_Audio (US). Expires for YouTube_Subscription (US) on 2/19/2014. No preview for any partners.
+00790692077816	Not found.
+00790692077915	Not found.
+00790692078011	Not found.
+00790692078110	Not found.
+00790692078219	Not found.
+00790692078363	Restricted for STREAMING. No Album Only restriction. Do not deliver to iTunes_Audio (US). No preview for any partners.
+00790692078523	Not found.
+00790692078561	No Album Only restriction. Do not deliver to iTunes_Audio (US). No preview for any partners.
+00790692078615	Not found.
+00790692078622	Not found.
+00790692078660	No Album Only restriction. Do not deliver to iTunes_Audio (US). Expires for YouTube_Subscription (US) on 2/19/2014. No preview for any partners.
+00790692078714	Not found.
+00790692078721	Not found.
+00790692078769	No Album Only restriction. Do not deliver to iTunes Applications (US), iTunes_Audio (US), and ITunes_High Quality Audio (US). Expires for YouTube_Subscription (US) on 2/19/2014. No preview for any partners.
+00790692078820	Not found.
+00790692078967	No Album Only restriction. Do not deliver to iTunes_Audio (US). No preview for any partners.
+00790692079018	Not found.
+00790692079025	Not found.
+00790692079063	No Album Only restriction. Do not deliver to iTunes Applications (US), iTunes_Audio (US), ITunes_High Quality Audio (US), and YouTube_Subscription (US). No preview for any partners.
+00790692079117	Not found.
+00790692079124	Not found.
+00790692079162	No Album Only restriction. Do not deliver to iTunes Applications (US), iTunes_Audio (US), ITunes_High Quality Audio (US), and YouTube_Subscription (US). No preview for any partners.
+00790692079315	Not found.
+00790692079322	Not found.
+00790692079469	No Album Only restriction. Do not deliver to iTunes Applications (US), iTunes_Audio (US), ITunes_High Quality Audio (US), and YouTube_Subscription (US). No preview for any partners.
+00790692079568	No Album Only restriction. Do not deliver to iTunes Applications (US), iTunes_Audio (US), ITunes_High Quality Audio (US), and YouTube_Subscription (US). No preview for any partners.
+00790692079674	Not found.
+00790692079728	Not found.
+00790692079766	No Album Only restriction. Do not deliver to iTunes_Audio (US) and YouTube_Subscription (US). No preview for any partners.
+00790692079865	No Album Only restriction. Do not deliver to iTunes Applications (US), iTunes_Audio (US), ITunes_High Quality Audio (US), and YouTube_Subscription (US). No preview for any partners.
+00790692079919	Not found.
+00790692079926	Not found.
+00790692079964	No Album Only restriction. Do not deliver to iTunes Applications (US), iTunes_Audio (US), ITunes_High Quality Audio (US), and YouTube_Subscription (US). No preview for any partners.
+00790692080014	Not found.
+00790692080021	Not found.
+00790692080069	No Album Only restriction. Do not deliver to iTunes Applications (US), iTunes_Audio (US), ITunes_High Quality Audio (US), and YouTube_Subscription (US). No preview for any partners.
+00790692080168	No Album Only restriction. Do not deliver to iTunes Applications (US), iTunes_Audio (US), ITunes_High Quality Audio (US), and YouTube_Subscription (US). No preview for any partners.
+00790692080229	Not found.
+00790692080267	No Album Only restriction. Do not deliver to iTunes_Audio (US), ITunes_High Quality Audio (US), Spotify (US), and YouTube_Subscription (US). No preview for any partners.
+00790692080328	Not found.
+00790692080366	No Album Only restriction. Do not deliver to iTunes Applications (US), iTunes_Audio (US), ITunes_High Quality Audio (US), and YouTube_Subscription (US). No preview for any partners.
+00790692080410	Not found.
+00790692080427	Not found.
+00790692080465	No Album Only restriction. Do not deliver to iTunes Applications (US), iTunes_Audio (US), ITunes_High Quality Audio (US), Spotify (US), and YouTube_Subscription (US). Automatic Preorder for Amazon (US) and Google Music (US) on 7/29/2014. Expires for all partners on 9/16/2014. No preview for any partners.
+00790692080526	Not found.
+00790692080564	No Album Only restriction. Do not deliver to iTunes Applications (US), iTunes_Audio (US), ITunes_High Quality Audio (US), iTunes_Streaming_Video (US), and YouTube_Subscription (US). No preview for any partners.
+00790692080618	Not found.
+00790692080717	Not found.
+00790692080724	Not found.
+00790692080762	No Album Only restriction. Do not deliver to iTunes_Audio (US), ITunes_High Quality Audio (US), Spotify (US), and YouTube_Subscription (US). No preview for any partners.
+00790692080816	Not found.
+00790692080823	Not found.
+00790692080861	No Album Only restriction. Instant Gratification for: Spacecrafts. Do not deliver to Google Music (US), iTunes_Audio (US), Spotify (US), and YouTube_Subscription (US). Automatic Preorder for Amazon (US) on 9/9/2014. No preview for any partners.
+00790692080915	Not found.
+00790692080922	Not found.
+00790692080960	No Album Only restriction. Instant Gratification for: Selfless. Do not deliver to Google Music (US), iTunes_Audio (US), ITunes_High Quality Audio (US), and YouTube_Subscription (US). Automatic Preorder for Amazon (US) on 8/19/2014. No preview for any partners.
+00790692210015	Not found.
+00790692210022	Not found.
+00790692210060	No Album Only restriction. Instant Gratification for: In Return. Do not deliver to Google Music (US), iTunes_Audio (US), ITunes_High Quality Audio (US), Spotify (US), and YouTube_Subscription (US). Automatic Preorder for Amazon (US) on 9/16/2014. No preview for any partners.
+00790692210169	No Album Only restriction. Do not deliver to Amazon (US), iTunes_Audio (US), ITunes_High Quality Audio (US), Spotify (US), and YouTube_Subscription (US). No preview for any partners.
+00790692210268	No Album Only restriction. Do not deliver to iTunes_Audio (US), ITunes_High Quality Audio (US), Spotify (US), and YouTube_Subscription (US). No preview for any partners.
+00790692210367	No Album Only restriction. Exclusive in Perpetuity to Google Music (US) from 11/4/2014. Automatic Preorder for Google Music (US) on 9/16/2014. No preview for any partners.
+00790692210466	No Album Only restriction. Do not deliver to iTunes_Audio (US), ITunes_High Quality Audio (US), Spotify (US), and YouTube_Subscription (US). No preview for any partners.
+00790692210565	No Album Only restriction. Do not deliver to iTunes_Audio (US), ITunes_High Quality Audio (US), Spotify (US), and YouTube_Subscription (US). No preview for any partners.
+00790692210664	No Album Only restriction. Do not deliver to iTunes_Audio (US), ITunes_High Quality Audio (US), Spotify (US), and YouTube_Subscription (US). No preview for any partners.
+00790692210763	No Album Only restriction. Do not deliver to iTunes_Audio (US), ITunes_High Quality Audio (US), Spotify (US), and YouTube_Subscription (US). No preview for any partners.
+00790692210862	No Album Only restriction. Instant Gratification for: The Last Garrison. Do not deliver to Google Music (US), iTunes_Audio (US), ITunes_High Quality Audio (US), Spotify (US), and YouTube_Subscription (US). Automatic Preorder for Amazon (US) on 10/27/2014. No preview for any partners.
+00790692211067	No Album Only restriction. Do not deliver to Amazon (US), iTunes_Audio (US), ITunes_High Quality Audio (US), Spotify (US), and YouTube_Subscription (US). No preview for any partners.
+00790692211760	No Album Only restriction. Do not deliver to iTunes_Audio (US), Spotify (US), and YouTube_Subscription (US). No preview for any partners. Embargo, U.S. only, TL5, excl. iTunes, YouTube, VEVO, and Spotify.
+00790692211869	No Album Only restriction. Exclusive in Perpetuity to Google Music (US) from 1/20/2015. Automatic Preorder for Google Music (US) on 10/27/2014. No preview for any partners.
+00790692212163	No Album Only restriction. Instant Gratification for: Warning Sign. Do not deliver to iTunes_Audio (US), Spotify (US), and YouTube_Subscription (US). Automatic Preorder for Amazon (US) and Google Music (US) on 11/10/2014. No preview for any partners.
+00790692212262	Unknown for COND. DL, DISC ON DEMAND, DOWNLOAD, JUKEBOX, KIOSK, MAKE YOUR OWN RINGTONE, and STREAMING. No Album Only restriction. No preview for any partners.
+00790692213665	No Album Only restriction. Do not deliver to iTunes_Audio (US), Spotify (US), and YouTube_Subscription (US). No preview for any partners. U.S., embargo, excl. iTunes, YouTube, VEVO, and Spotify.
+00790692410064	No Album Only restriction. No preview for any partners.
+00790692410163	Unknown for COND. DL, DISC ON DEMAND, DOWNLOAD, JUKEBOX, KIOSK, MAKE YOUR OWN RINGTONE, and STREAMING. No Album Only restriction. No preview for any partners.
+00790692410217	Not found.
+00790692410262	Not Restricted/Unknown for MAKE YOUR OWN RINGTONE. No Album Only restriction.
+00790692410361	Not found.
+00790692411160	Not Restricted/Unknown for MAKE YOUR OWN RINGTONE. No Album Only restriction. No preview for any partners.
+00790692427369	Unknown for DISC ON DEMAND, DOWNLOAD, JUKEBOX, KIOSK, and STREAMING. No Album Only restriction. No preview for any partners.
+00790692427567	Unknown for DISC ON DEMAND, DOWNLOAD, JUKEBOX, KIOSK, and STREAMING. No Album Only restriction. No preview for any partners.
+00790692428267	No Album Only restriction. Do not deliver to iTunes_Video (US) and VEVO.com_Video (US). No preview for any partners.
+00790692428465	No Album Only restriction. Do not deliver to VEVO.com_Video (US). No preview for any partners.
+00790692569069	No Album Only restriction.
+00790692669264	No Album Only restriction. No preview for any partners.
+00790692675562	No Album Only restriction. Do not deliver to iTunes_Audio (US). Expires for YouTube_Subscription (US) on 2/19/2014. No preview for any partners.
+00790692676477	Unknown for COND. DL, DISC ON DEMAND, DOWNLOAD, JUKEBOX, KIOSK, MAKE YOUR OWN RINGTONE, and STREAMING. No Album Only restriction. No preview for any partners.
+00790692678860	No Album Only restriction. Do not deliver to iTunes Applications (US), iTunes_Audio (US), and ITunes_High Quality Audio (US). Expires for YouTube_Subscription (US) on 2/19/2014. No preview for any partners.
+00790692767861	No Album Only restriction. No preview for any partners.
+00790692769964	No Album Only restriction.
+00790692770069	No Album Only restriction. Expires for all partners on 11/4/2014.
+00790692775569	No Album Only restriction. Do not deliver to iTunes_Audio (US). Expires for YouTube_Subscription (US) on 2/19/2014. No preview for any partners.
+00790692776269	No Album Only restriction. Do not deliver to iTunes Applications (US), iTunes_Audio (US), ITunes_High Quality Audio (US), and YouTube_Subscription (US). No preview for any partners.
+00790692777167	No Album Only restriction. Do not deliver to iTunes_Audio (US). Expires for YouTube_Subscription (US) on 2/19/2014. No preview for any partners.
+00790692778768	No Album Only restriction. Do not deliver to iTunes Applications (US), iTunes_Audio (US), ITunes_High Quality Audio (US), iTunes_Streaming_Video (US), and YouTube_Subscription (US). No preview for any partners.
+00790692778867	No Album Only restriction. Do not deliver to iTunes Applications (US), iTunes_Audio (US), and ITunes_High Quality Audio (US). Expires for YouTube_Subscription (US) on 2/19/2014. No preview for any partners.
+00790692779017	Not found.
+00790692779116	Not found.
+00790692780068	No Album Only restriction. Do not deliver to iTunes Applications (US), iTunes_Audio (US), ITunes_High Quality Audio (US), and YouTube_Subscription (US). No preview for any partners.
+00790692780419	Not found.
+00790692780464	No Album Only restriction. Do not deliver to iTunes_Audio (US), Spotify (US), and YouTube_Subscription (US). No preview for any partners.
+00790692780860	No Album Only restriction. Exclusive in Perpetuity to Google Music (US) from 10/27/2014. Automatic Preorder for Google Music (US) on 9/9/2014. No preview for any partners.
+00790692780921	Not found.
+00790692780969	No Album Only restriction. Exclusive in Perpetuity to Google Music (US) from 10/7/2014. Automatic Preorder for Google Music (US) on 8/19/2014. No preview for any partners.
+00790692869961	Unknown for COND. DL, DISC ON DEMAND, DOWNLOAD, JUKEBOX, KIOSK, MAKE YOUR OWN RINGTONE, and STREAMING. No Album Only restriction. No preview for any partners.
+00790692872664	No Album Only restriction. No preview for any partners.
+00790692876365	No Album Only restriction. Do not deliver to iTunes_Audio (US). Expires for YouTube_Subscription (US) on 2/19/2014. No preview for any partners.
+00790692877027	Not found.
+00790692877065	No Album Only restriction. Do not deliver to iTunes_Audio (US). Expires for YouTube_Subscription (US) on 2/19/2014. No preview for any partners.
+00790692877164	No Album Only restriction. Do not deliver to iTunes_Audio (US). Expires for YouTube_Subscription (US) on 2/19/2014. No preview for any partners.
+00790692877362	No Album Only restriction. Do not deliver to iTunes_Audio (US). Expires for YouTube_Subscription (US) on 2/19/2014. No preview for any partners.
+00790692877461	No Album Only restriction. Do not deliver to iTunes_Audio (US). Expires for YouTube_Subscription (US) on 2/19/2014. No preview for any partners.
+00790692877669	No Album Only restriction. Do not deliver to iTunes_Audio (US). Expires for YouTube_Subscription (US) on 2/19/2014. No preview for any partners.
+00790692878765	No Album Only restriction. Do not deliver to iTunes Applications (US), iTunes_Audio (US), and ITunes_High Quality Audio (US). Expires for YouTube_Subscription (US) on 2/19/2014. No preview for any partners.
+00790692878864	No Album Only restriction. Do not deliver to iTunes_Audio (US). No preview for any partners.
+00790692879069	No Album Only restriction. Do not deliver to iTunes Applications (US), iTunes_Audio (US), and ITunes_High Quality Audio (US). Expires for YouTube_Subscription (US) on 2/19/2014. No preview for any partners.
+00790692879168	No Album Only restriction. Do not deliver to iTunes Applications (US), iTunes_Audio (US), ITunes_High Quality Audio (US), and YouTube_Subscription (US). No preview for any partners.
+00790692879267	No Album Only restriction. Do not deliver to iTunes_Audio (US). No preview for any partners.
+00790692879465	No Album Only restriction. Do not deliver to iTunes Applications (US), iTunes_Audio (US), and ITunes_High Quality Audio (US). Expires for YouTube_Subscription (US) on 2/19/2014. No preview for any partners.
+00790692879564	No Album Only restriction. Do not deliver to iTunes Applications (US), iTunes_Audio (US), and ITunes_High Quality Audio (US). Expires for YouTube_Subscription (US) on 2/19/2014.
+00790692879960	No Album Only restriction. Do not deliver to iTunes Applications (US), iTunes_Audio (US), ITunes_High Quality Audio (US), and YouTube_Subscription (US). No preview for any partners.
+00790692880263	No Album Only restriction. Do not deliver to iTunes Applications (US), iTunes_Audio (US), ITunes_High Quality Audio (US), and YouTube_Subscription (US). No preview for any partners.
+00790692880423	Not found.
+00790692880461	Album Only restriction for: Waking The Fallen: Resurrected Documentary. Exclusive in Perpetuity to Amazon_Mixed Bundles from 9/23/2014.
+00790692880560	No Album Only restriction. Do not deliver to iTunes Applications (US), iTunes_Audio (US), ITunes_High Quality Audio (US), and YouTube_Subscription (US). No preview for any partners.
+00790692880768	No Album Only restriction. Do not deliver to iTunes_Audio (US), ITunes_High Quality Audio (US), Spotify (US), and YouTube_Subscription (US). No preview for any partners.
+00790692880867	No Album Only restriction. Do not deliver to iTunes_Audio (US), ITunes_High Quality Audio (US), Spotify (US), and YouTube_Subscription (US). No preview for any partners.
+00790692880966	No Album Only restriction. Do not deliver to iTunes_Audio (US), Spotify (US), and YouTube_Subscription (US). No preview for any partners.
+00790692903368	Not found.
+00790692963317	Not found.
+00790692964413	Not found.
+00790692969166	No Album Only restriction. Do not deliver to iTunes_Audio (US). No preview for any partners.
+00790692969562	No Album Only restriction.
+00790692969968	Not found.
+00790692970261	No Album Only restriction. No preview for any partners.
+00790692970469	No Album Only restriction.
+00790692972616	Not found.
+00790692972661	No Album Only restriction. No preview for any partners.
+00790692977369	No Album Only restriction. Do not deliver to iTunes_Audio (US). Expires for YouTube_Subscription (US) on 2/19/2014. No preview for any partners.
+00790692977567	No Album Only restriction. Do not deliver to iTunes_Audio (US). Expires for YouTube_Subscription (US) on 2/19/2014. No preview for any partners.
+00790692977666	Restricted for MAKE YOUR OWN RINGTONE. No Album Only restriction. Do not deliver to iTunes_Audio (US). Expires for YouTube_Subscription (US) on 2/19/2014. No preview for any partners.
+00790692977765	No Album Only restriction. Do not deliver to iTunes_Audio (US). Expires for YouTube_Subscription (US) on 2/19/2014. No preview for any partners.
+00790692978465	No Album Only restriction. Do not deliver to iTunes_Audio (US). Expires for YouTube_Subscription (US) on 2/19/2014. No preview for any partners.
+00790692978564	No Album Only restriction. Do not deliver to iTunes_Audio (US). Expires for YouTube_Subscription (US) on 2/19/2014. No preview for any partners.
+00790692978663	No Album Only restriction. Do not deliver to iTunes_Audio (US). Expires for YouTube_Subscription (US) on 2/19/2014. No preview for any partners.
+00790692978762	No Album Only restriction. Do not deliver to iTunes_Audio (US). No preview for any partners.
+00790692978861	No Album Only restriction. Do not deliver to iTunes_Audio (US). Expires for YouTube_Subscription (US) on 2/19/2014. No preview for any partners.
+00790692979066	No Album Only restriction. Do not deliver to iTunes_Audio (US). No preview for any partners.
+00790692979165	No Album Only restriction. Do not deliver to iTunes Applications (US), iTunes_Audio (US), and ITunes_High Quality Audio (US). Expires for YouTube_Subscription (US) on 2/19/2014 and Amazon (US) on 3/11/2014. No preview for any partners.
+00790692979264	No Album Only restriction. Do not deliver to iTunes_Audio (US). No preview for any partners.
+00790692979363	No Album Only restriction. Do not deliver to iTunes Applications (US), iTunes_Audio (US), and ITunes_High Quality Audio (US). Expires for YouTube_Subscription (US) on 2/19/2014. No preview for any partners.
+00790692979424	Not found.
+00790692979561	No Album Only restriction. Do not deliver to iTunes Applications (US), iTunes_Audio (US), and ITunes_High Quality Audio (US). Expires for YouTube_Subscription (US) on 2/19/2014. No preview for any partners.
+00790692979615	Not found.
+00790692979714	Not found.
+00790692979967	No Album Only restriction. Do not deliver to iTunes Applications (US), iTunes_Audio (US), ITunes_High Quality Audio (US), iTunes_Streaming_Video (US), and YouTube_Subscription (US). No preview for any partners.
+00790692980062	No Album Only restriction. Do not deliver to iTunes Applications (US), iTunes_Audio (US), ITunes_High Quality Audio (US), iTunes_Streaming_Video (US), and YouTube_Subscription (US). No preview for any partners.
+00790692980260	No Album Only restriction. Do not deliver to iTunes Applications (US), iTunes_Audio (US), ITunes_High Quality Audio (US), and YouTube_Subscription (US). No preview for any partners.
+00790692980567	No Album Only restriction. Do not deliver to iTunes Applications (US), iTunes_Audio (US), ITunes_High Quality Audio (US), iTunes_Streaming_Video (US), and YouTube_Subscription (US). No preview for any partners.
+00790692980765	No Album Only restriction. Do not deliver to iTunes Applications (US), iTunes_Audio (US), ITunes_High Quality Audio (US), and YouTube_Subscription (US). No preview for any partners.
+00790692980864	No Album Only restriction. Do not deliver to Amazon (US), iTunes_Audio (US), Spotify (US), and YouTube_Subscription (US). No preview for any partners.
+00790692980963	No Album Only restriction. Do not deliver to iTunes Applications (US), iTunes_Audio (US), ITunes_High Quality Audio (US), and YouTube_Subscription (US). Expires for Amazon (US) on 8/19/2014. No preview for any partners.
+00791022150124	Not found.
+00791022150223	Not found.
+00791022150421	Not found.
+00791022150520	Not found.
+00791022150728	Not found.
+00791022150995	Not found.
+00791022151220	Not found.
+00791022151329	Not found.
+00791022151527	Not found.
+00791022151725	Not found.
+00802097005520	No Album Only restriction.
+00802097006725	No Album Only restriction.
+00802097009825	Unknown for COND. DL, DISC ON DEMAND, DOWNLOAD, JUKEBOX, KIOSK, MAKE YOUR OWN RINGTONE, and STREAMING. No Album Only restriction.
+00802097010623	No Album Only restriction.
+00802097010722	No Album Only restriction.
+00802097126720	No Album Only restriction. No preview for any partners.
+00802097138020	No Album Only restriction. No preview for any partners.
+00802097145721	No Album Only restriction. Expires for all partners on 6/13/2014. No preview for any partners.
+00802097162322	No Album Only restriction. No preview for any partners.
+00802097162421	No Album Only restriction. No preview for any partners.
+00802097162520	Unknown for DISC ON DEMAND, DOWNLOAD, JUKEBOX, KIOSK, and STREAMING. No Album Only restriction. No preview for any partners.
+00802097162629	No Album Only restriction. No preview for any partners.
+00802097162728	No Album Only restriction. No preview for any partners.
+00802097162827	No Album Only restriction. Exclusive to VEVO.com_Video (US) from 12/11/2013 to 12/25/2013. No preview for any partners. To all digital partners. World.
+00802097162926	No Album Only restriction. No preview for any partners. To all digital partners. World.
+00802097163022	No Album Only restriction. No preview for any partners.
+00802097163121	No Album Only restriction. No preview for any partners.
+00802097163220	No Album Only restriction. No preview for any partners.
+00802097163329	No Album Only restriction. No preview for any partners.
+00802097163428	No Album Only restriction. No preview for any partners.
+00802097163527	No Album Only restriction. No preview for any partners.
+00802097163626	No Album Only restriction. No preview for any partners.
+00802097163725	No Album Only restriction. No preview for any partners.
+00802097163824	No Album Only restriction. No preview for any partners.
+00802097164029	No Album Only restriction. No preview for any partners.
+00802097164128	No Album Only restriction. No preview for any partners.
+00802097164227	No Album Only restriction. No preview for any partners.
+00802097164326	No Album Only restriction. No preview for any partners.
+00802097164425	No Album Only restriction. No preview for any partners.
+00802097164524	No Album Only restriction. No preview for any partners.
+00802097164623	No Album Only restriction. No preview for any partners.
+00802097164722	No Album Only restriction. No preview for any partners.
+00802097164821	No Album Only restriction. No preview for any partners.
+00802097164920	No Album Only restriction. No preview for any partners.
+00802097165026	No Album Only restriction. No preview for any partners.
+00802097165224	Not found.
+00802097165422	No Album Only restriction. No preview for any partners.
+00802097165521	No Album Only restriction. No preview for any partners.
+00802097165620	No Album Only restriction. No preview for any partners.
+00802097165729	No Album Only restriction. No preview for any partners.
+00802097165828	No Album Only restriction. No preview for any partners.
+00802097165927	No Album Only restriction. No preview for any partners.
+00802097166023	No Album Only restriction. No preview for any partners.
+00802097166122	No Album Only restriction. No preview for any partners.
+00802097166221	No Album Only restriction. No preview for any partners.
+00802097166320	No Album Only restriction. No preview for any partners.
+00802097166429	No Album Only restriction. No preview for any partners.
+00802097166528	No Album Only restriction. No preview for any partners.
+00802097166726	No Album Only restriction. No preview for any partners.
+00802097166825	No Album Only restriction. No preview for any partners.
+00802097166924	No Album Only restriction. No preview for any partners.
+00802097167020	No Album Only restriction. No preview for any partners.
+00802097167129	No Album Only restriction. No preview for any partners.
+00802097167327	No Album Only restriction. Expires for all partners on 4/9/2014. No preview for any partners.
+00802097167426	No Album Only restriction. No preview for any partners.
+00802097167525	No Album Only restriction. No preview for any partners.
+00802097167624	No Album Only restriction. No preview for any partners.
+00802097167723	No Album Only restriction. No preview for any partners.
+00802097167822	No Album Only restriction. No preview for any partners.
+00802097167921	No Album Only restriction. No preview for any partners.
+00802097168027	No Album Only restriction. No preview for any partners.
+00802097168225	No Album Only restriction. No preview for any partners.
+00802097168324	No Album Only restriction. No preview for any partners.
+00802097168423	No Album Only restriction. No preview for any partners.
+00802097168522	No Album Only restriction. No preview for any partners.
+00802097168621	No Album Only restriction. No preview for any partners.
+00802097168720	No Album Only restriction. Expires for all partners on 5/16/2014. No preview for any partners.
+00802097168829	No Album Only restriction. No preview for any partners.
+00802097168928	No Album Only restriction. No preview for any partners.
+00802097169024	No Album Only restriction. No preview for any partners.
+00802097169123	No Album Only restriction. No preview for any partners.
+00802097169925	No Album Only restriction. No preview for any partners.
+00802097170020	No Album Only restriction. Expires for all partners on 9/10/2014. No preview for any partners.
+00802097170129	No Album Only restriction. Expires for all partners on 9/10/2014. No preview for any partners.
+00802097170327	No Album Only restriction. No preview for any partners.
+00802097170426	No Album Only restriction. No preview for any partners.
+00802097170525	No Album Only restriction. No preview for any partners.
+00802097170624	No Album Only restriction. No preview for any partners.
+00802097170723	No Album Only restriction. No preview for any partners.
+00802097170822	No Album Only restriction. No preview for any partners.
+00802097170921	No Album Only restriction. No preview for any partners.
+00802097171027	No Album Only restriction. No preview for any partners.
+00802097171126	No Album Only restriction. No preview for any partners.
+00802097171225	No Album Only restriction. No preview for any partners.
+00802097171324	No Album Only restriction. No preview for any partners.
+00802097171423	No Album Only restriction. No preview for any partners.
+00802097171522	No Album Only restriction. No preview for any partners.
+00802097171621	No Album Only restriction. No preview for any partners.
+00802097171720	No Album Only restriction. No preview for any partners.
+00802097171829	No Album Only restriction. No preview for any partners.
+00802097171928	No Album Only restriction. No preview for any partners.
+00802097172024	No Album Only restriction. No preview for any partners.
+00802097172123	No Album Only restriction. No preview for any partners.
+00802097172222	No Album Only restriction. No preview for any partners.
+00802097172321	No Album Only restriction. No preview for any partners.
+00802097172420	No Album Only restriction. No preview for any partners.
+00802097172529	No Album Only restriction. No preview for any partners.
+00802097172628	No Album Only restriction. No preview for any partners.
+00802097172727	No Album Only restriction. No preview for any partners.
+00802097172826	No Album Only restriction. No preview for any partners.
+00802097172925	No Album Only restriction. No preview for any partners.
+00802097173021	No Album Only restriction. No preview for any partners.
+00802097173120	No Album Only restriction. No preview for any partners.
+00802097173229	No Album Only restriction. No preview for any partners.
+00802097173328	No Album Only restriction. No preview for any partners.
+00802097173427	No Album Only restriction. No preview for any partners.
+00802097173526	No Album Only restriction. No preview for any partners.
+00802097173625	No Album Only restriction. No preview for any partners.
+00802097173724	No Album Only restriction. No preview for any partners.
+00802097173823	No Album Only restriction. No preview for any partners.
+00802097173922	No Album Only restriction. No preview for any partners.
+00802097174028	No Album Only restriction. No preview for any partners.
+00802097174127	No Album Only restriction. No preview for any partners.
+00802097174226	No Album Only restriction. No preview for any partners.
+00802097174325	No Album Only restriction. No preview for any partners.
+00802097174622	No Album Only restriction. No preview for any partners.
+00802097174721	No Album Only restriction. No preview for any partners.
+00802097174820	No Album Only restriction. No preview for any partners.
+00802097174929	No Album Only restriction. No preview for any partners.
+00802097175322	No Album Only restriction. No preview for any partners.
+00802097175421	No Album Only restriction. No preview for any partners.
+00802097175520	No Album Only restriction. No preview for any partners.
+00802097175629	No Album Only restriction. No preview for any partners.
+00802097175728	No Album Only restriction. No preview for any partners.
+00802097175827	No Album Only restriction. No preview for any partners.
+00802097175926	No Album Only restriction. No preview for any partners.
+00802097176022	No Album Only restriction. No preview for any partners.
+00802097176121	No Album Only restriction. No preview for any partners.
+00802097176220	No Album Only restriction. No preview for any partners.
+00802097176329	No Album Only restriction. No preview for any partners.
+00802097176428	No Album Only restriction. No preview for any partners.
+00802097176527	No Album Only restriction. No preview for any partners.
+00802097176626	No Album Only restriction. No preview for any partners.
+00802097176725	No Album Only restriction. No preview for any partners.
+00802097176824	No Album Only restriction. No preview for any partners.
+00802097176923	No Album Only restriction. No preview for any partners.
+00802097177029	No Album Only restriction. No preview for any partners.
+00802097177128	No Album Only restriction. No preview for any partners.
+00802097177227	No Album Only restriction. No preview for any partners.
+00802097177326	No Album Only restriction. No preview for any partners.
+00802097177425	No Album Only restriction. No preview for any partners.
+00802097177524	No Album Only restriction. No preview for any partners.
+00802097177623	No Album Only restriction. No preview for any partners.
+00802097177722	No Album Only restriction. No preview for any partners.
+00802097177821	No Album Only restriction. No preview for any partners.
+00802097177920	No Album Only restriction. No preview for any partners.
+00802097178026	No Album Only restriction. No preview for any partners.
+00802097178125	No Album Only restriction. No preview for any partners.
+00802097178224	No Album Only restriction. No preview for any partners.
+00802097178323	No Album Only restriction. No preview for any partners.
+00802097178422	No Album Only restriction. No preview for any partners.
+00802097178521	No Album Only restriction. No preview for any partners.
+00802097178620	No Album Only restriction. No preview for any partners.
+00802097178729	No Album Only restriction. No preview for any partners.
+00802097178828	No Album Only restriction. No preview for any partners.
+00802097178927	No Album Only restriction. No preview for any partners.
+00802097179023	No Album Only restriction. No preview for any partners.
+00802097179122	No Album Only restriction. No preview for any partners.
+00802097179221	No Album Only restriction. No preview for any partners.
+00802097179320	No Album Only restriction. No preview for any partners.
+00802097179429	No Album Only restriction. No preview for any partners.
+00802097179528	No Album Only restriction. No preview for any partners.
+00802097179627	No Album Only restriction. No preview for any partners.
+00802097179726	No Album Only restriction. No preview for any partners.
+00802097179825	No Album Only restriction. No preview for any partners.
+00802097179924	No Album Only restriction. No preview for any partners.
+00802097180029	No Album Only restriction. No preview for any partners.
+00802097180128	No Album Only restriction. No preview for any partners.
+00802097180227	No Album Only restriction. No preview for any partners.
+00802097180326	No Album Only restriction. No preview for any partners.
+00802097180425	No Album Only restriction. No preview for any partners.
+00802097180524	No Album Only restriction. No preview for any partners.
+00802097180623	No Album Only restriction. No preview for any partners.
+00802097180722	No Album Only restriction. No preview for any partners.
+00802097180821	No Album Only restriction. No preview for any partners.
+00802097180920	No Album Only restriction. No preview for any partners.
+00802097181026	No Album Only restriction. No preview for any partners.
+00802097181125	No Album Only restriction. No preview for any partners.
+00802097181224	No Album Only restriction. No preview for any partners.
+00802097181323	No Album Only restriction. No preview for any partners.
+00802097181422	No Album Only restriction. No preview for any partners.
+00802097181521	No Album Only restriction. No preview for any partners.
+00802097181620	No Album Only restriction. No preview for any partners.
+00802097181729	No Album Only restriction. No preview for any partners.
+00802097181828	No Album Only restriction. No preview for any partners.
+00802097182122	No Album Only restriction. No preview for any partners.
+00802097182429	No Album Only restriction. No preview for any partners.
+00802097182528	No Album Only restriction. Expires for all partners on 7/1/2014. No preview for any partners.
+00802097182726	No Album Only restriction. No preview for any partners.
+00802097182825	No Album Only restriction. No preview for any partners.
+00802097182924	No Album Only restriction. No preview for any partners.
+00802097183020	No Album Only restriction. No preview for any partners.
+00802097183129	No Album Only restriction. No preview for any partners.
+00802097183228	No Album Only restriction. No preview for any partners.
+00802097183327	No Album Only restriction. No preview for any partners.
+00802097183426	No Album Only restriction. No preview for any partners.
+00802097183525	No Album Only restriction. No preview for any partners.
+00802097184027	No Album Only restriction. No preview for any partners.
+00802097184126	No Album Only restriction. No preview for any partners.
+00802097184225	No Album Only restriction. No preview for any partners.
+00802097184324	No Album Only restriction. No preview for any partners.
+00802097184423	No Album Only restriction. No preview for any partners.
+00802097184522	No Album Only restriction. No preview for any partners.
+00802097184621	No Album Only restriction. No preview for any partners.
+00802097184720	No Album Only restriction. No preview for any partners.
+00802097184829	No Album Only restriction. No preview for any partners.
+00802097184928	No Album Only restriction. No preview for any partners.
+00802097185024	No Album Only restriction. No preview for any partners.
+00802097185123	No Album Only restriction. No preview for any partners.
+00802097185222	No Album Only restriction. Exclusive to VEVO.com_Video (US) from 8/20/2014 to 9/2/2014. No preview for any partners.
+00802097185321	No Album Only restriction. No preview for any partners.
+00802097185420	No Album Only restriction. No preview for any partners.
+00802097185727	No Album Only restriction. No preview for any partners.
+00802097185826	No Album Only restriction. No preview for any partners.
+00802097185925	No Album Only restriction. Automatic Preorder for Amazon (US), Google Music (US), and iTunes_Audio (US) on 9/23/2014. No preview for any partners. 9/23 pre order for iTunes and Amazon
+00802097186021	No Album Only restriction. No preview for any partners.
+00802097186120	No Album Only restriction. No preview for any partners.
+00802097186229	No Album Only restriction. No preview for any partners.
+00802097186427	No Album Only restriction. No preview for any partners.
+00802097186526	No Album Only restriction. No preview for any partners.
+00802097186625	No Album Only restriction. No preview for any partners.
+00802097186724	No Album Only restriction. No preview for any partners.
+00802097186823	No Album Only restriction. No preview for any partners.
+00802097186922	No Album Only restriction. No preview for any partners.
+00802097187028	No Album Only restriction. No preview for any partners.
+00802097187127	No Album Only restriction. No preview for any partners.
+00802097187226	No Album Only restriction. No preview for any partners.
+00802097187325	No Album Only restriction. No preview for any partners.
+00802097187424	No Album Only restriction. No preview for any partners.
+00802097187523	No Album Only restriction. No preview for any partners.
+00802097187622	No Album Only restriction. No preview for any partners.
+00802097187721	No Album Only restriction. No preview for any partners.
+00802097187820	No Album Only restriction. No preview for any partners.
+00802097187929	No Album Only restriction. No preview for any partners.
+00802097188124	No Album Only restriction. No preview for any partners.
+00802097188322	No Album Only restriction. No preview for any partners.
+00802097188421	No Album Only restriction. No preview for any partners.
+00802097188520	No Album Only restriction. Automatic Preorder for Amazon (US), Google Music (US), and iTunes_Audio (US) on 11/10/2014. No preview for any partners.
+00802097188629	No Album Only restriction. No preview for any partners.
+00802097188728	No Album Only restriction. No preview for any partners.
+00802097188827	No Album Only restriction. No preview for any partners.
+00802097188926	No Album Only restriction. No preview for any partners.
+00802097189022	No Album Only restriction. No preview for any partners.
+00802097189121	No Album Only restriction. No preview for any partners.
+00802097189220	No Album Only restriction. No preview for any partners.
+00802097189329	No Album Only restriction. No preview for any partners.
+00802097189428	No Album Only restriction. No preview for any partners.
+00802097189527	No Album Only restriction. No preview for any partners.
+00803341100626	Not found.
+00803341109124	Not found.
+00803341109827	Not found.
+00803341111325	Not found.
+00803341111424	Not found.
+00803341115729	Not found.
+00803341121027	Not found.
+00803341121225	Not found.
+00803341127524	Not found.
+00803341143524	Not found.
+00803341147621	Not found.
+00803341158023	Not found.
+00803341160620	Not found.
+00803341167421	Not found.
+00803341168428	Not found.
+00803341169524	Not found.
+00803341172920	Not found.
+00803341174023	Not found.
+00803341174122	Not found.
+00803341174221	Not found.
+00803341174320	Not found.
+00803341181328	Not found.
+00803341184626	Not found.
+00803341185326	Not found.
+00803341185524	Not found.
+00803341189621	Not found.
+00803341191327	Not found.
+00803341216020	Not found.
+00803341216129	Not found.
+00803341217423	Not found.
+00803341223721	Not found.
+00803341225022	Not found.
+00803341226500	Not found.
+00803341226548	Not found.
+00803341226616	Not found.
+00803341226685	Not found.
+00803341228375	Not found.
+00803341228429	Not found.
+00803341228467	Not found.
+00803341228924	Not found.
+00803341230125	Not found.
+00803341230194	Not found.
+00803341231146	Not found.
+00803341231191	Not found.
+00803341231375	Not found.
+00803341231733	Not found.
+00803341231740	Not found.
+00803341231757	Not found.
+00803341231764	Not found.
+00803341231771	Not found.
+00803341231788	Not found.
+00803341232235	Not found.
+00803341232358	Not found.
+00803341232365	Not found.
+00803341232372	Not found.
+00803341233249	Not found.
+00803341233270	Not found.
+00803341233782	Not found.
+00803341234260	Not found.
+00803341250505	Not found.
+00803341250529	Not found.
+00803341250574	Not found.
+00803341250581	Not found.
+00803341250628	Not found.
+00803341250642	Not found.
+00803341250734	Not found.
+00803341251083	Not found.
+00803341251120	Not found.
+00803341251151	Not found.
+00803341253940	Not found.
+00803341304819	Not found.
+00803341304833	Not found.
+00803341305830	Not found.
+00803341305847	Not found.
+00803341309036	Not found.
+00803341312821	Not found.
+00803341312838	Not found.
+00803341317857	Not found.
+00803341319806	Not found.
+00803341319813	Not found.
+00803341322875	Not found.
+00803341322905	Not found.
+00803341323391	Not found.
+00803341323711	Not found.
+00803341325593	Not found.
+00803341326705	Not found.
+00803341328075	Not found.
+00803341328082	Not found.
+00803341329478	Not found.
+00803341331082	Not found.
+00803341331099	Not found.
+00803341331105	Not found.
+00803341336490	Not found.
+00803341336544	Not found.
+00803341336605	Not found.
+00803341338234	Not found.
+00803341343764	Not found.
+00803341344327	Not found.
+00803341344334	Not found.
+00803341344341	Not found.
+00803341344358	Not found.
+00803341344365	Not found.
+00803341344372	Not found.
+00803341344389	Not found.
+00803341344396	Not found.
+00803341345942	Not found.
+00803341346987	Not found.
+00803341349032	Not found.
+00803341350717	Not found.
+00803341350748	Not found.
+00803341350762	Not found.
+00803341355996	Not found.
+00803341356214	Not found.
+00803341356221	Not found.
+00803341356238	Not found.
+00803341356245	Not found.
+00803341356252	Not found.
+00803341357273	Not found.
+00803341357280	Not found.
+00803341362239	Not found.
+00803341362710	Not found.
+00803341362734	Not found.
+00803341363267	Not found.
+00803341367517	Not found.
+00803341369337	Not found.
+00803341370357	Not found.
+00803341370371	Not found.
+00803341370388	Not found.
+00803341374003	Not found.
+00803341374072	No Album Only restriction. No preview for any partners.
+00803341377011	Not found.
+00803341377028	Not found.
+00803341385177	Not found.
+00803341385184	Not found.
+00803341385191	Not found.
+00803341385481	Not found.
+00803341385498	Not found.
+00803341385511	Not found.
+00803341385535	Not found.
+00803341385559	Not found.
+00803341385573	Not found.
+00803341385597	Not found.
+00803341385634	Not found.
+00803341385672	Not found.
+00803341385733	Not found.
+00803341387744	Not found.
+00803341391109	Not found.
+00803341391154	Not found.
+00803341391161	Not found.
+00803341391192	Not found.
+00803341391727	Not found.
+00803341391734	Not found.
+00803341391741	Not found.
+00803341392175	Not found.
+00803341392205	Not found.
+00803341392281	Not found.
+00803341392960	Not found.
+00803341393479	No Album Only restriction. No preview for any partners.
+00803341393486	No Album Only restriction. No preview for any partners.
+00803341393677	No Album Only restriction. No preview for any partners.
+00803341393684	No Album Only restriction. No preview for any partners.
+00803341393691	No Album Only restriction. No preview for any partners.
+00803341394049	Not found.
+00803341394711	Not found.
+00803341396470	Not found.
+00803341400719	No Album Only restriction. No preview for any partners.
+00803341400740	No Album Only restriction. No preview for any partners.
+00803341400757	No Album Only restriction. No preview for any partners.
+00803341400764	No Album Only restriction. No preview for any partners.
+00803341401136	Not found.
+00803341403826	Not found.
+00803341405332	Not found.
+00803341405769	Not found.
+00803341406933	No Album Only restriction. No preview for any partners.
+00803341406940	No Album Only restriction. No preview for any partners.
+00803341406957	No Album Only restriction. No preview for any partners.
+00803341406964	No Album Only restriction. No preview for any partners.
+00803341406971	No Album Only restriction. No preview for any partners.
+00803341406988	No Album Only restriction. Automatic Preorder for iTunes_Audio (US) on 9/17/2013. No preview for any partners.
+00803341406995	No Album Only restriction. Automatic Preorder for iTunes_Audio (US) on 10/8/2013. No preview for any partners.
+00803341407008	No Album Only restriction. No preview for any partners.
+00803341419032	Not found.
+00803341420427	No Album Only restriction. Instant Gratification for: Titan. Automatic Preorder for iTunes_Audio (US) on 1/7/2014. No preview for any partners.
+00803341420434	No Album Only restriction. Automatic Preorder for iTunes_Audio (US) on 1/14/2014. No preview for any partners.
+00803341420441	No Album Only restriction. Automatic Preorder for iTunes_Audio (US) on 2/11/2014. No preview for any partners.
+00803341420458	No Album Only restriction. Instant Gratification for: The Morbid Glare. Automatic Preorder for iTunes_Audio (US) on 1/21/2014. No preview for any partners.
+00803341420533	Not found.
+00803341420762	No Album Only restriction. Do not deliver to iTunes_Audio (US). No preview for any partners.
+00803341421400	No Album Only restriction.
+00803341421462	Not found.
+00803341421530	Not found.
+00803341422001	Not found.
+00803341422315	No Album Only restriction. No preview for any partners.
+00803341422322	Unknown for COND. DL, DISC ON DEMAND, DOWNLOAD, JUKEBOX, KIOSK, MAKE YOUR OWN RINGTONE, and STREAMING. No Album Only restriction. No preview for any partners.
+00803341422377	No Album Only restriction. Do not deliver to iTunes Applications (US), iTunes_Audio (US), and ITunes_High Quality Audio (US). No preview for any partners.
+00803341422742	Not found.
+00803341422759	Not found.
+00803341423435	Not found.
+00803341423459	Not found.
+00803341423473	Not found.
+00803341423480	No Album Only restriction. Automatic Preorder for Amazon (US) and iTunes_Audio (US) on 4/8/2014. No preview for any partners.
+00803341423503	Not found.
+00803341423510	No Album Only restriction. Automatic Preorder for Amazon (US) and iTunes_Audio (US) on 4/8/2014. No preview for any partners.
+00803341423527	Not found.
+00803341423534	Not found.
+00803341423596	Not found.
+00803341425927	No Album Only restriction. Automatic Preorder for iTunes_Audio (US) on 2/25/2014. No preview for any partners.
+00803341425934	No Album Only restriction. Automatic Preorder for iTunes_Audio (US) on 2/25/2014. No preview for any partners.
+00803341425941	No Album Only restriction. Automatic Preorder for iTunes_Audio (US) on 2/25/2014. No preview for any partners.
+00803341426207	No Album Only restriction. No preview for any partners.
+00803341426894	Not found.
+00803341429512	Not found.
+00803341429901	Not found.
+00803341430402	Not found.
+00803341432536	No Album Only restriction. Automatic Preorder for iTunes_Audio (US) on 4/29/2014. No preview for any partners.
+00803341432543	No Album Only restriction.
+00803341432550	No Album Only restriction. Instant Gratification for: On Your Way. Automatic Preorder for iTunes_Audio (US) on 5/13/2014. No preview for any partners.
+00803341432574	No Album Only restriction. Automatic Preorder for Amazon (US) and iTunes_Audio (US) on 7/1/2014. No preview for any partners.
+00803341434158	Not found.
+00803341434936	Not found.
+00803341435582	No Album Only restriction. Do not deliver to iTunes Applications (US), iTunes_Audio (US), ITunes_High Quality Audio (US), and iTunes_Streaming_Video (US). No preview for any partners.
+00803341438330	Not found.
+00803341438477	No Album Only restriction. Automatic Preorder for Amazon (US) and iTunes_Audio (US) on 8/5/2014. No preview for any partners.
+00803341438484	No Album Only restriction. Automatic Preorder for Amazon (US) and iTunes_Audio (US) on 9/2/2014. No preview for any partners.
+00803341438491	No Album Only restriction. Automatic Preorder for Amazon (US) and iTunes_Audio (US) on 8/5/2014. No preview for any partners.
+00803341444942	No Album Only restriction. Do not deliver to Amazon (US) and iTunes_Audio (US).
+00803341451452	No Album Only restriction. Instant Gratification for: The Devil's Whip. Automatic Preorder for Amazon (US) and iTunes_Audio (US) on 8/25/2014. Preview allowed only for Amazon (US) and iTunes_Audio (US).
+00811790020006	No Album Only restriction. Exclusive to Rdio Subscription (US) and Rdio_Download (US) from 12/10/2013 to 1/14/2014. No preview for any partners.
+00811790020020	No Album Only restriction. Instant Gratification for: Nothing To Lose But Your Head. Exclusive in Perpetuity to ITunes_High Quality Audio (US) from 2/4/2014. Automatic Preorder for ITunes_High Quality Audio (US) on 12/10/2013.
+00811790020044	Not found.
+00811790021805	Unknown for DISC ON DEMAND, DOWNLOAD, JUKEBOX, KIOSK, and STREAMING. No Album Only restriction. No preview for any partners.
+00811790021812	Unknown for DISC ON DEMAND, DOWNLOAD, JUKEBOX, KIOSK, and STREAMING. No Album Only restriction. No preview for any partners.
+00811790021829	Unknown for DISC ON DEMAND, DOWNLOAD, JUKEBOX, KIOSK, and STREAMING. No Album Only restriction. No preview for any partners.
+00811790021836	Unknown for DISC ON DEMAND, DOWNLOAD, JUKEBOX, KIOSK, and STREAMING. No Album Only restriction. No preview for any partners.
+00825084975323	No Album Only restriction. Instant Gratification for: Waiting All Night.  Instant Gratification starting 05/27/2014 for: The Line. Exclusive in Perpetuity to ITunes_High Quality Audio (US) from 6/24/2014. Automatic Preorder for ITunes_High Quality Audio (US) on 5/15/2014. No preview for any partners.
+00825084976023	No Album Only restriction. Instant Gratification for: The Line and Waiting All Night. Exclusive in Perpetuity to Acoustic Sounds (US), Amazon (US), Rdio Subscription (US), and Rdio_Download (US) from 6/24/2014. Automatic Preorder for Amazon (US) on 6/10/2014. No preview for any partners.
+00825084976320	No Album Only restriction. Do not deliver to Acoustic Sounds (US), Amazon (US), iTunes_Audio (US), Rdio Subscription (US), and Rdio_Download (US). No preview for any partners.
+00857235002015	Unknown for COND. DL, DISC ON DEMAND, DOWNLOAD, JUKEBOX, KIOSK, MAKE YOUR OWN RINGTONE, and STREAMING. No Album Only restriction. No preview for any partners.
+00857235002039	Not found.
+00857235002046	Not found.
+00857235002060	No Album Only restriction. Expires for all partners on 4/7/2014. No preview for any partners.
+00857235002077	No Album Only restriction. No preview for any partners.
+00857235002084	No Album Only restriction. Do not deliver to iTunes_Audio (US). No preview for any partners.
+00857235002091	No Album Only restriction. Exclusive in Perpetuity to ITunes_High Quality Audio (US) from 2/25/2014. No preview for any partners.
+00857235002107	Unknown for COND. DL, DISC ON DEMAND, DOWNLOAD, JUKEBOX, KIOSK, MAKE YOUR OWN RINGTONE, and STREAMING. No Album Only restriction. No preview for any partners.
+00857235002121	No Album Only restriction. No preview for any partners.
+00857235002138	Unknown for COND. DL, DISC ON DEMAND, DOWNLOAD, JUKEBOX, KIOSK, MAKE YOUR OWN RINGTONE, and STREAMING. No Album Only restriction. No preview for any partners.
+00857235002145	Unknown for COND. DL, DISC ON DEMAND, DOWNLOAD, JUKEBOX, KIOSK, MAKE YOUR OWN RINGTONE, and STREAMING. No Album Only restriction. No preview for any partners.
+00857235002152	Not found.
+00857235002169	No Album Only restriction. No preview for any partners.
+00857235002176	No Album Only restriction. Do not deliver to iTunes_Audio (US). No preview for any partners.
+00857235002183	No Album Only restriction. Instant Gratification for: Cold Feet Killer. Exclusive in Perpetuity to ITunes_High Quality Audio (US) from 6/24/2014. Automatic Preorder for ITunes_High Quality Audio (US) on 6/3/2014. No preview for any partners.
+00857235002190	No Album Only restriction. Instant Gratification for: No Idea, My Place, and Sykia. Do not deliver to Google Music (US) and iTunes_Audio (US). No preview for any partners. World, ex-iTunes/Google Play, 10/14 Amazon Preorder+ 3 IG: No Idea, My Place, Sykia (all 10/14)
+00857235002206	No Album Only restriction. Instant Gratification for: No Idea, My Place, and Sykia. Exclusive in Perpetuity to ITunes_High Quality Audio (US) from 2/17/2015. No preview for any partners. World, MFiT, 10/14 Preorder+ 3 IG: No Idea, My Place, Sykia (all 10/14)
+00857235002213	Not found.
+00857235002220	Not found.
+00857235002237	No Album Only restriction. Do not deliver to iTunes_Audio (US). No preview for any partners.
+00857235002244	No Album Only restriction. Exclusive in Perpetuity to ITunes_High Quality Audio (US) from 4/15/2014. No preview for any partners.
+00857235002251	Unknown for DISC ON DEMAND, DOWNLOAD, JUKEBOX, KIOSK, and STREAMING. No Album Only restriction. No preview for any partners.
+00857235002268	Unknown for DISC ON DEMAND, DOWNLOAD, JUKEBOX, KIOSK, and STREAMING. No Album Only restriction. No preview for any partners.
+00857235002275	Unknown for DISC ON DEMAND, DOWNLOAD, JUKEBOX, KIOSK, and STREAMING. No Album Only restriction. No preview for any partners.
+00857235002282	No Album Only restriction. Exclusive in Perpetuity to ITunes_High Quality Audio (US) from 7/8/2014. No preview for any partners.
+00857235002299	No Album Only restriction. Do not deliver to iTunes_Audio (US). No preview for any partners.
+00857235002305	No Album Only restriction. No preview for any partners.
+00857235002329	No Album Only restriction. Exclusive in Perpetuity to Spotify (US) from 5/19/2014. No preview for any partners.
+00857235002336	No Album Only restriction. Instant Gratification for: I Want A Taste, We Can't Ever Die, Nobody Cares, and Leave It Alone. Do not deliver to iTunes_Audio (US). Automatic Preorder for Amazon (US) on 8/25/2014. No preview for any partners. US/CA/MX
+00857235002343	No Album Only restriction. Instant Gratification for: I Want A Taste, We Can't Ever Die, Nobody Cares, and Leave It Alone. Exclusive in Perpetuity to ITunes_High Quality Audio (US) from 9/16/2014. Automatic Preorder for ITunes_High Quality Audio (US) on 8/25/2014. No preview for any partners. US/CA/MX
+00857235002350	Not found.
+00857235002367	Not found.
+00857235002374	No Album Only restriction. Do not deliver to iTunes_Audio (US). Expires for all partners on 9/16/2014, Expires for Amazon (US) on 9/9/2014. No preview for any partners.
+00857235002381	No Album Only restriction. Exclusive in Perpetuity to ITunes_High Quality Audio (US) from 6/10/2014. Expires for ITunes_High Quality Audio (US) on 9/9/2014. No preview for any partners.
+00857235002411	No Album Only restriction. Do not deliver to iTunes_Audio (US). Expires for all partners on 9/16/2014, Expires for Amazon (US) on 9/9/2014. No preview for any partners.
+00857235002428	No Album Only restriction. Exclusive in Perpetuity to ITunes_High Quality Audio (US) from 6/24/2014. Expires for ITunes_High Quality Audio (US) on 9/9/2014. No preview for any partners.
+00857235002473	Unknown for DISC ON DEMAND, DOWNLOAD, JUKEBOX, KIOSK, and STREAMING. No Album Only restriction. No preview for any partners.
+00857235002480	Unknown for DISC ON DEMAND, DOWNLOAD, JUKEBOX, KIOSK, and STREAMING. No Album Only restriction. No preview for any partners.
+00857235002497	Unknown for DISC ON DEMAND, DOWNLOAD, JUKEBOX, KIOSK, and STREAMING. No Album Only restriction. No preview for any partners.
+00857235002503	Unknown for DISC ON DEMAND, DOWNLOAD, JUKEBOX, KIOSK, and STREAMING. No Album Only restriction. No preview for any partners.
+00857235002510	Unknown for DISC ON DEMAND, DOWNLOAD, JUKEBOX, KIOSK, and STREAMING. No Album Only restriction. No preview for any partners.
+00857235002527	Not found.
+00857235002541	No Album Only restriction. Exclusive in Perpetuity to ITunes_High Quality Audio (US) from 7/22/2014. Expires for ITunes_High Quality Audio (US) on 9/9/2014. No preview for any partners.
+00857235002558	No Album Only restriction. Do not deliver to iTunes_Audio (US). Expires for all partners on 9/16/2014, Expires for Amazon (US) on 9/9/2014. No preview for any partners.
+00857235002589	No Album Only restriction. No preview for any partners.
+00857235002596	No Album Only restriction. No preview for any partners.
+00857235002602	No Album Only restriction. Exclusive in Perpetuity to Google Music (US) from 9/16/2014. Automatic Preorder for Google Music (US) on 9/2/2014. US/CA/MX, Google Play XCL, 9/2 preorder
+00857235002619	No Album Only restriction. Do not deliver to iTunes_Audio (US). No preview for any partners. US/CA/MX/Europe, excludes iTunes
+00857235002626	No Album Only restriction. Exclusive in Perpetuity to ITunes_High Quality Audio (US) from 10/21/2014. No preview for any partners. US/CA/MX/Europe, MFiT
+00857235002633	No Album Only restriction. Exclusive in Perpetuity to Google Music (US) from 2/17/2015. No preview for any partners. World, Google Play XCL, 10/14 preorder
+00857235002640	Unknown for DISC ON DEMAND, DOWNLOAD, JUKEBOX, KIOSK, and STREAMING. No Album Only restriction. No preview for any partners.
+00857235002664	No Album Only restriction. Exclusive in Perpetuity to VEVO.com_Video (US) from 10/10/2014. No preview for any partners. MANUAL UPLOAD TO VEVO FOR 10/10
+00857235002671	Not found.
+00857235002688	Not found.
+00857235002695	Not found.
+00857235002725	No Album Only restriction. Exclusive to Spotify (US) from 12/2/2014 to 1/2/2015. No preview for any partners.
+00857235002732	No Album Only restriction. Do not deliver to iTunes_Audio (US) and ITunes_High Quality Audio (US). No preview for any partners.
+00857235002787	No Album Only restriction. Exclusive in Perpetuity to ITunes_High Quality Audio (US) from 12/9/2014. No preview for any partners.
+00857235002794	Unknown for COND. DL, DISC ON DEMAND, DOWNLOAD, JUKEBOX, KIOSK, MAKE YOUR OWN RINGTONE, and STREAMING. No Album Only restriction. No preview for any partners.
+00859705941404	No Album Only restriction. No preview for any partners.
+00880882151928	Not found.
+00880882152024	Not Restricted/Unknown for MAKE YOUR OWN RINGTONE. No Album Only restriction. No preview for any partners.
+00880882152123	Not found.
+00880882152727	Not found.
+00880882152826	Not found.
+00880882153717	Not found.
+00880882153823	Not found.
+00880882154127	Not found.
+00880882154721	Not found.
+00880882155520	Not found.
+00880882155629	Not found.
+00880882155711	Not found.
+00880882155728	Not found.
+00880882155926	Not found.
+00880882156022	Not found.
+00880882157425	Not found.
+00880882157654	No Album Only restriction. Do not deliver to iTunes_Audio (US). Expires for all partners on 11/25/2013. No preview for any partners.
+00880882158026	Not found.
+00880882158293	Not found.
+00880882158491	Not found.
+00880882158521	Not found.
+00880882159726	Not found.
+00880882159825	Not found.
+00880882159917	Not found.
+00880882159924	Not found.
+00880882160111	Not found.
+00880882160128	Not found.
+00880882160326	Not found.
+00880882160456	No Album Only restriction. No preview for any partners.
+00880882160494	Not found.
+00880882161125	Not found.
+00880882161613	Not found.
+00880882162115	Not found.
+00880882162412	Not found.
+00880882162429	Not Restricted/Unknown for MAKE YOUR OWN RINGTONE. No Album Only restriction.
+00880882162610	Not found.
+00880882162627	Not found.
+00880882162719	Not found.
+00880882162726	Not found.
+00880882163020	Not found.
+00880882163525	Not found.
+00880882163822	Not Restricted/Unknown for MAKE YOUR OWN RINGTONE. No Album Only restriction.
+00880882164324	Not found.
+00880882164522	Not found.
+00880882165314	Not found.
+00880882165321	Not found.
+00880882165628	Not found.
+00880882166021	Not found.
+00880882166717	Not found.
+00880882166724	Not found.
+00880882167226	Not found.
+00880882167516	Not found.
+00880882167523	Not found.
+00880882167615	Not found.
+00880882167622	Not found.
+00880882167820	Not found.
+00880882168025	Not found.
+00880882168728	Not found.
+00880882170110	Not found.
+00880882170127	Not Restricted/Unknown for MAKE YOUR OWN RINGTONE. No Album Only restriction.
+00880882170219	Not found.
+00880882170226	Not Restricted/Unknown for MAKE YOUR OWN RINGTONE. No Album Only restriction.
+00880882170325	Not Restricted/Unknown for MAKE YOUR OWN RINGTONE. No Album Only restriction.
+00880882170417	Not found.
+00880882171117	Not found.
+00880882171124	Restricted/Unknown for MAKE YOUR OWN RINGTONE. No Album Only restriction. No preview for any partners.
+00880882171315	Not found.
+00880882171322	Not found.
+00880882171452	No Album Only restriction. Do not deliver to iTunes_Audio (US). No preview for any partners.
+00880882171711	Not found.
+00880882171728	Not found.
+00880882171810	Not found.
+00880882172015	Not found.
+00880882172022	Not found.
+00880882172114	Not found.
+00880882172121	Not found.
+00880882172220	Not found.
+00880882172725	Not found.
+00880882172893	Not found.
+00880882173012	Not found.
+00880882173029	Not found.
+00880882173319	Not found.
+00880882173326	Not found.
+00880882173425	Not found.
+00880882173456	No Album Only restriction. Do not deliver to iTunes_Audio (US). No preview for any partners.
+00880882173623	Not found.
+00880882173715	Not found.
+00880882173722	Not found.
+00880882173753	No Album Only restriction. Do not deliver to iTunes_Audio (US). No preview for any partners.
+00880882174019	Not found.
+00880882174118	Not found.
+00880882174224	Unknown for COND. DL, DISC ON DEMAND, DOWNLOAD, JUKEBOX, KIOSK, MAKE YOUR OWN RINGTONE, and STREAMING. No Album Only restriction. No preview for any partners.
+00880882174255	No Album Only restriction. Do not deliver to iTunes_Audio (US). No preview for any partners.
+00880882174453	No Album Only restriction. No preview for any partners.
+00880882174521	Not found.
+00880882175016	Not found.
+00880882175023	Unknown for COND. DL, DISC ON DEMAND, DOWNLOAD, JUKEBOX, KIOSK, MAKE YOUR OWN RINGTONE, and STREAMING. No Album Only restriction. No preview for any partners.
+00880882175054	No Album Only restriction. Do not deliver to iTunes_Audio (US). No preview for any partners.
+00880882175122	Not found.
+00880882175214	Not found.
+00880882175221	Not found.
+00880882175252	No Album Only restriction. Do not deliver to iTunes_Audio (US). No preview for any partners.
+00880882175313	Not found.
+00880882175320	Not found.
+00880882175559	No Album Only restriction. Do not deliver to iTunes_Audio (US). No preview for any partners.
+00880882175610	Not found.
+00880882175627	Unknown for COND. DL, DISC ON DEMAND, DOWNLOAD, JUKEBOX, KIOSK, MAKE YOUR OWN RINGTONE, and STREAMING. No Album Only restriction. No preview for any partners.
+00880882175825	Not found.
+00880882176310	Not found.
+00880882176327	Unknown for COND. DL, DISC ON DEMAND, DOWNLOAD, JUKEBOX, KIOSK, MAKE YOUR OWN RINGTONE, and STREAMING. No Album Only restriction. No preview for any partners.
+00880882177218	Not found.
+00880882177225	Unknown for COND. DL, DISC ON DEMAND, DOWNLOAD, JUKEBOX, KIOSK, MAKE YOUR OWN RINGTONE, and STREAMING. No Album Only restriction. No preview for any partners.
+00880882177928	Unknown for COND. DL, DISC ON DEMAND, DOWNLOAD, JUKEBOX, KIOSK, MAKE YOUR OWN RINGTONE, and STREAMING. No Album Only restriction. No preview for any partners.
+00880882177959	No Album Only restriction. Do not deliver to Amazon (US) and iTunes_Audio (US). No preview for any partners.
+00880882178024	Not found.
+00880882178055	No Album Only restriction. No preview for any partners.
+00880882178116	Not found.
+00880882178123	Unknown for COND. DL, DISC ON DEMAND, DOWNLOAD, JUKEBOX, KIOSK, MAKE YOUR OWN RINGTONE, and STREAMING. No Album Only restriction. No preview for any partners.
+00880882178154	No Album Only restriction. Do not deliver to Amazon (US), iTunes_Audio (US), and Rdio_Download (US). No preview for any partners.
+00880882178222	Not found.
+00880882178611	Not found.
+00880882178628	Unknown for COND. DL, DISC ON DEMAND, DOWNLOAD, JUKEBOX, KIOSK, MAKE YOUR OWN RINGTONE, and STREAMING. No Album Only restriction. No preview for any partners.
+00880882178659	No Album Only restriction. Do not deliver to iTunes_Audio (US). No preview for any partners.
+00880882178710	Not found.
+00880882178727	Unknown for COND. DL, DISC ON DEMAND, DOWNLOAD, JUKEBOX, KIOSK, MAKE YOUR OWN RINGTONE, and STREAMING. No Album Only restriction. No preview for any partners.
+00880882178758	No Album Only restriction. Do not deliver to Amazon (US) and iTunes_Audio (US). No preview for any partners.
+00880882178826	Not found.
+00880882179922	Not found.
+00880882180225	Unknown for COND. DL, DISC ON DEMAND, DOWNLOAD, JUKEBOX, KIOSK, MAKE YOUR OWN RINGTONE, and STREAMING. No Album Only restriction. No preview for any partners.
+00880882180256	No Album Only restriction. Do not deliver to iTunes_Audio (US). No preview for any partners.
+00880882180324	Not found.
+00880882180416	Not found.
+00880882180423	Unknown for COND. DL, DISC ON DEMAND, DOWNLOAD, JUKEBOX, KIOSK, MAKE YOUR OWN RINGTONE, and STREAMING. No Album Only restriction. No preview for any partners.
+00880882180713	Not found.
+00880882180720	Unknown for COND. DL, DISC ON DEMAND, DOWNLOAD, JUKEBOX, KIOSK, MAKE YOUR OWN RINGTONE, and STREAMING. No Album Only restriction. No preview for any partners.
+00880882180751	No Album Only restriction. Do not deliver to iTunes_Audio (US). No preview for any partners.
+00880882180911	Not found.
+00880882181017	Not found.
+00880882181024	Unknown for COND. DL, DISC ON DEMAND, DOWNLOAD, JUKEBOX, KIOSK, MAKE YOUR OWN RINGTONE, and STREAMING. No Album Only restriction. No preview for any partners.
+00880882181055	No Album Only restriction. Do not deliver to iTunes_Audio (US). No preview for any partners.
+00880882181116	Not found.
+00880882181123	Unknown for COND. DL, DISC ON DEMAND, DOWNLOAD, JUKEBOX, KIOSK, MAKE YOUR OWN RINGTONE, and STREAMING. No Album Only restriction. No preview for any partners.
+00880882181154	No Album Only restriction. Do not deliver to iTunes_Audio (US). No preview for any partners.
+00880882181215	Not found.
+00880882181222	Unknown for COND. DL, DISC ON DEMAND, DOWNLOAD, JUKEBOX, KIOSK, MAKE YOUR OWN RINGTONE, and STREAMING. No Album Only restriction. No preview for any partners.
+00880882181253	No Album Only restriction. Do not deliver to Amazon (US) and iTunes_Audio (US). No preview for any partners.
+00880882181321	Not found.
+00880882181611	Not found.
+00880882181628	Not found.
+00880882181659	No Album Only restriction. Do not deliver to iTunes_Audio (US). No preview for any partners.
+00880882181819	Not found.
+00880882181826	Unknown for COND. DL, DISC ON DEMAND, DOWNLOAD, JUKEBOX, KIOSK, MAKE YOUR OWN RINGTONE, and STREAMING. No Album Only restriction. No preview for any partners.
+00880882181857	No Album Only restriction. Do not deliver to Amazon (US) and iTunes_Audio (US). No preview for any partners.
+00880882181956	No Album Only restriction. Do not deliver to iTunes_Audio (US). No preview for any partners.
+00880882182014	Not found.
+00880882182021	Unknown for COND. DL, DISC ON DEMAND, DOWNLOAD, JUKEBOX, KIOSK, MAKE YOUR OWN RINGTONE, and STREAMING. No Album Only restriction. No preview for any partners.
+00880882182052	No Album Only restriction. Do not deliver to iTunes_Audio (US). No preview for any partners.
+00880882182212	Not found.
+00880882182229	Unknown for COND. DL, DISC ON DEMAND, DOWNLOAD, JUKEBOX, KIOSK, MAKE YOUR OWN RINGTONE, and STREAMING. No Album Only restriction. No preview for any partners.
+00880882182250	No Album Only restriction. Do not deliver to iTunes_Audio (US). No preview for any partners.
+00880882182311	Not found.
+00880882182410	Not found.
+00880882183424	Unknown for COND. DL, DISC ON DEMAND, DOWNLOAD, JUKEBOX, KIOSK, MAKE YOUR OWN RINGTONE, and STREAMING. No Album Only restriction. No preview for any partners.
+00880882183455	No Album Only restriction. Do not deliver to Amazon (US) and iTunes_Audio (US). No preview for any partners.
+00880882183516	Not found.
+00880882183523	Not found.
+00880882183554	No Album Only restriction. Do not deliver to iTunes_Audio (US). No preview for any partners.
+00880882183615	Not found.
+00880882183622	Unknown for COND. DL, DISC ON DEMAND, DOWNLOAD, JUKEBOX, KIOSK, MAKE YOUR OWN RINGTONE, and STREAMING. No Album Only restriction. No preview for any partners.
+00880882183653	No Album Only restriction. Do not deliver to iTunes_Audio (US). No preview for any partners.
+00880882184018	Not found.
+00880882184025	Unknown for COND. DL, DISC ON DEMAND, DOWNLOAD, JUKEBOX, KIOSK, MAKE YOUR OWN RINGTONE, and STREAMING. No Album Only restriction. No preview for any partners.
+00880882184056	No Album Only restriction. Do not deliver to Amazon (US) and iTunes_Audio (US). No preview for any partners.
+00880882184414	Not found.
+00880882184421	Unknown for COND. DL, DISC ON DEMAND, DOWNLOAD, JUKEBOX, KIOSK, MAKE YOUR OWN RINGTONE, and STREAMING. No Album Only restriction. No preview for any partners.
+00880882184452	No Album Only restriction. Do not deliver to iTunes_Audio (US). No preview for any partners.
+00880882184810	Not found.
+00880882184827	Unknown for COND. DL, DISC ON DEMAND, DOWNLOAD, JUKEBOX, KIOSK, MAKE YOUR OWN RINGTONE, and STREAMING. No Album Only restriction. No preview for any partners.
+00880882184858	No Album Only restriction. Do not deliver to iTunes_Audio (US). No preview for any partners.
+00880882184919	Not found.
+00880882184926	Not found.
+00880882184957	No Album Only restriction. Do not deliver to iTunes_Audio (US). No preview for any partners.
+00880882186111	Not found.
+00880882186128	Unknown for COND. DL, DISC ON DEMAND, DOWNLOAD, JUKEBOX, KIOSK, MAKE YOUR OWN RINGTONE, and STREAMING. No Album Only restriction. No preview for any partners.
+00880882186159	Restricted for STREAMING. No tracks can be sold individually. Do not deliver to iTunes_Audio (US). No preview for any partners.
+00880882187811	Not found.
+00880882187828	Not found.
+00880882187859	No Album Only restriction. Exclusive in Perpetuity to Amazon (US) and iTunes_Audio (US) from 9/10/2013. Automatic Preorder for iTunes_Audio (US) on 8/13/2013. No preview for any partners.
+00880882187910	Not found.
+00880882187927	Not found.
+00880882187958	No Album Only restriction. Do not deliver to iTunes_Audio (US). No preview for any partners.
+00880882188016	Not found.
+00880882188023	Not found.
+00880882188054	No Album Only restriction. Do not deliver to iTunes_Audio (US). No preview for any partners.
+00880882188115	Not found.
+00880882188122	Not found.
+00880882188153	No Album Only restriction. Do not deliver to iTunes_Audio (US). No preview for any partners.
+00880882188412	Not found.
+00880882188429	Not found.
+00880882188450	No Album Only restriction. Instant Gratification for: Listen To The Mockingbird. Exclusive in Perpetuity to Amazon (US), iTunes_Audio (US), Rdio Subscription (US), and Rdio_Download (US) from 11/5/2013. Automatic Preorder for iTunes_Audio (US) on 10/15/2013. No preview for any partners.
+00880882188511	Not found.
+00880882188528	Not found.
+00880882188658	No Album Only restriction. Instant Gratification for: Lost Innocent World. Exclusive in Perpetuity to ITunes_High Quality Audio (US) from 7/23/2013. Automatic Preorder for ITunes_High Quality Audio (US) on 6/25/2013. No preview for any partners.
+00880882188726	Not found.
+00880882188856	No Album Only restriction. Exclusive in Perpetuity to Spotify (US) from 6/25/2013. No preview for any partners.
+00880882188955	No Album Only restriction. Do not deliver to iTunes_Audio (US). No preview for any partners.
+00880882189112	Not found.
+00880882189259	No Album Only restriction. Instant Gratification for: Down Down The Deep River. Exclusive in Perpetuity to ITunes_High Quality Audio (US) from 9/3/2013. Automatic Preorder for ITunes_High Quality Audio (US) on 7/16/2013. No preview for any partners.
+00880882189556	No Album Only restriction. Instant Gratification for: Heavy Bells. Exclusive in Perpetuity to ITunes_High Quality Audio (US) from 9/10/2013. Automatic Preorder for ITunes_High Quality Audio (US) on 7/23/2013. No preview for any partners.
+00880882189952	No Album Only restriction. Do not deliver to iTunes_Audio (US). No preview for any partners.
+00880882190156	No Album Only restriction. Do not deliver to iTunes_Audio (US). Expires for all partners on 9/3/2013. No preview for any partners.
+00880882190255	No Album Only restriction. No preview for any partners.
+00880882190316	Not found.
+00880882190453	No Album Only restriction. Do not deliver to iTunes_Audio (US). Expires for all partners on 9/10/2013. No preview for any partners.
+00880882190828	Not found.
+00880882190910	Not found.
+00880882190927	Not found.
+00880882190958	No Album Only restriction. Instant Gratification for: Antiphon. Exclusive in Perpetuity to Amazon (US), iTunes_Audio (US), Rdio Subscription (US), and Rdio_Download (US) from 11/5/2013. Automatic Preorder for iTunes_Audio (US) on 9/17/2013. No preview for any partners.
+00880882191016	Not found.
+00880882191153	Unknown for DISC ON DEMAND, DOWNLOAD, JUKEBOX, KIOSK, and STREAMING. No Album Only restriction. No preview for any partners.
+00880882191252	Unknown for DISC ON DEMAND, DOWNLOAD, JUKEBOX, KIOSK, and STREAMING. No Album Only restriction. No preview for any partners.
+00880882191320	Not found.
+00880882191351	No Album Only restriction. Exclusive in Perpetuity to Amazon (US), iTunes_Audio (US), Rdio Subscription (US), and Rdio_Download (US) from 11/5/2013. Automatic Preorder for iTunes_Audio (US) on 10/15/2013. No preview for any partners.
+00880882191450	No Album Only restriction. No preview for any partners.
+00880882191559	No Album Only restriction. No preview for any partners.
+00880882191658	No Album Only restriction. No preview for any partners.
+00880882191856	No Album Only restriction. No preview for any partners.
+00880882191955	No Album Only restriction. Do not deliver to iTunes_Audio (US), Rdio Subscription (US), and Rdio_Download (US). No preview for any partners.
+00880882192051	No Album Only restriction. Do not deliver to iTunes_Audio (US). Expires for all partners on 11/5/2013. No preview for any partners.
+00880882192150	No Album Only restriction. No preview for any partners.
+00880882192358	No Album Only restriction. No preview for any partners.
+00880882192518	Not found.
+00880882192525	Not found.
+00880882192655	No Album Only restriction. Exclusive in Perpetuity to Spotify (US) from 10/8/2013. No preview for any partners.
+00880882192754	No Album Only restriction. Do not deliver to Amazon (US), iTunes_Audio (US), Rdio Subscription (US), and Rdio_Download (US). No preview for any partners.
+00880882192853	No Album Only restriction. Do not deliver to Amazon (US), iTunes_Audio (US), Rdio Subscription (US), and Rdio_Download (US). No preview for any partners.
+00880882192952	Unknown for COND. DL, DISC ON DEMAND, DOWNLOAD, JUKEBOX, KIOSK, MAKE YOUR OWN RINGTONE, and STREAMING. No Album Only restriction. No preview for any partners.
+00880882193058	Unknown for COND. DL, DISC ON DEMAND, DOWNLOAD, JUKEBOX, KIOSK, MAKE YOUR OWN RINGTONE, and STREAMING. No Album Only restriction. No preview for any partners.
+00880882193157	No Album Only restriction. Exclusive in Perpetuity to Amazon (US) from 10/22/2013. Expires for Amazon (US) on 10/21/2013. No preview for any partners.
+00880882193553	No Album Only restriction. Exclusive in Perpetuity to Amazon (US), iTunes_Audio (US), Rdio Subscription (US), and Rdio_Download (US) from 10/29/2013. No preview for any partners.
+00880882193652	No Album Only restriction. Do not deliver to Amazon (US), iTunes_Audio (US), Rdio Subscription (US), and Rdio_Download (US). No preview for any partners.
+00880882193713	Not found.
+00880882193720	Not found.
+00880882193959	No Album Only restriction. No preview for any partners.
+00880882194253	No Album Only restriction. No preview for any partners.
+00880882194352	No Album Only restriction. No preview for any partners.
+00880882194451	No Album Only restriction. Exclusive in Perpetuity to Beatport (US) from 11/5/2013. No preview for any partners.
+00880882194659	No Album Only restriction. Do not deliver to iTunes_Audio (US). No preview for any partners.
+00880882194758	Unknown for DISC ON DEMAND, DOWNLOAD, JUKEBOX, KIOSK, and STREAMING. No Album Only restriction. No preview for any partners.
+00880882194857	Unknown for DISC ON DEMAND, DOWNLOAD, JUKEBOX, KIOSK, and STREAMING. No Album Only restriction. No preview for any partners.
+00880882194956	No Album Only restriction. Exclusive in Perpetuity to Amazon (US), Rdio Subscription (US), and Rdio_Download (US) from 3/25/2014. No preview for any partners.
+00880882195052	No Album Only restriction. Do not deliver to Amazon (US), iTunes_Audio (US), Rdio Subscription (US), and Rdio_Download (US). No preview for any partners.
+00880882195151	No Album Only restriction. Instant Gratification for: Jerry Was A Race Car Driver. Exclusive in Perpetuity to Amazon (US), iTunes_Audio (US), Rdio Subscription (US), and Rdio_Download (US) from 2/4/2014. Automatic Preorder for iTunes_Audio (US) on 12/17/2013. No preview for any partners.
+00880882195250	No Album Only restriction. Do not deliver to Amazon (US), iTunes_Audio (US), Rdio Subscription (US), and Rdio_Download (US). No preview for any partners.
+00880882195359	No Album Only restriction. Instant Gratification for: I Know It's Wrong (But That's Alright). Exclusive in Perpetuity to Amazon (US), iTunes_Audio (US), Rdio Subscription (US), and Rdio_Download (US) from 2/11/2014. Automatic Preorder for iTunes_Audio (US) on 12/10/2013. No preview for any partners.
+00880882195458	No Album Only restriction. Do not deliver to Amazon (US), iTunes_Audio (US), Rdio Subscription (US), and Rdio_Download (US). No preview for any partners.
+00880882195557	Unknown for DISC ON DEMAND, DOWNLOAD, JUKEBOX, KIOSK, and STREAMING. No Album Only restriction. No preview for any partners.
+00880882195755	No Album Only restriction. Instant Gratification for: Ashes. Exclusive in Perpetuity to ITunes_High Quality Audio (US) from 3/25/2014. Automatic Preorder for ITunes_High Quality Audio (US) on 1/14/2014. No preview for any partners.
+00880882195953	No Album Only restriction. Exclusive in Perpetuity to Rdio Subscription (US) and Rdio_Download (US) from 11/19/2013. No preview for any partners.
+00880882196011	Not found.
+00880882196028	Not found.
+00880882196158	Album Only restriction for: Wiggle Wiggle. Do not deliver to Amazon (US), iTunes_Audio (US), Rdio Subscription (US), and Rdio_Download (US). No preview for any partners.
+00880882196257	Album Only restriction for: Wiggle Wiggle. Exclusive in Perpetuity to Amazon (US), Rdio Subscription (US), and Rdio_Download (US) from 3/25/2014. No preview for any partners.
+00880882196417	Not found.
+00880882196424	Not found.
+00880882196516	Not found.
+00880882196523	Not found.
+00880882196653	No Album Only restriction. Instant Gratification for: Yarmouth Road. Exclusive in Perpetuity to Amazon (US), iTunes_Audio (US), Rdio Subscription (US), and Rdio_Download (US) from 2/25/2014. Automatic Preorder for iTunes_Audio (US) on 1/14/2014. No preview for any partners.
+00880882196752	No Album Only restriction. Do not deliver to Amazon (US), iTunes_Audio (US), Rdio Subscription (US), and Rdio_Download (US). No preview for any partners.
+00880882196851	No Album Only restriction. No preview for any partners.
+00880882196950	No Album Only restriction. Do not deliver to iTunes_Audio (US). No preview for any partners.
+00880882197018	Not found.
+00880882197025	Not found.
+00880882197254	No Album Only restriction. Do not deliver to iTunes_Audio (US).
+00880882197353	No Album Only restriction. Exclusive in Perpetuity to Amazon (US), Rdio Subscription (US), and Rdio_Download (US) from 3/3/2014. No preview for any partners.
+00880882197452	No Album Only restriction. Do not deliver to Amazon (US), iTunes_Audio (US), Rdio Subscription (US), and Rdio_Download (US). No preview for any partners.
+00880882197551	No Album Only restriction. Instant Gratification for: Pauline Hawkins. Exclusive in Perpetuity to ITunes_High Quality Audio (US) from 3/3/2014. Automatic Preorder for ITunes_High Quality Audio (US) on 1/14/2014. No preview for any partners.
+00880882197711	Not found.
+00880882197858	No Album Only restriction. Instant Gratification for: Bows & Arrows. Exclusive in Perpetuity to ITunes_High Quality Audio (US) from 4/1/2014. Automatic Preorder for ITunes_High Quality Audio (US) on 1/14/2014.
+00880882198053	No Album Only restriction. Do not deliver to iTunes_Audio (US). No preview for any partners.
+00880882198152	Album Only restriction for: Wiggle Wiggle. Instant Gratification for: Jokerman. Exclusive in Perpetuity to ITunes_High Quality Audio (US) from 3/25/2014. Automatic Preorder for ITunes_High Quality Audio (US) on 2/4/2014. No preview for any partners.
+00880882198251	Album Only restriction for: Wiggle Wiggle. Instant Gratification for: Jokerman. Exclusive in Perpetuity to ITunes_High Quality Audio (US) from 3/25/2014. Automatic Preorder for ITunes_High Quality Audio (US) on 2/4/2014. No preview for any partners.
+00880882198350	Unknown for COND. DL, DISC ON DEMAND, DOWNLOAD, JUKEBOX, KIOSK, MAKE YOUR OWN RINGTONE, and STREAMING. No Album Only restriction. No preview for any partners.
+00880882198411	Not found.
+00880882198428	Not found.
+00880882198558	No Album Only restriction. Do not deliver to iTunes_Audio (US). Expires for all partners on 5/8/2014. No preview for any partners.
+00880882198657	Unknown for COND. DL, DISC ON DEMAND, DOWNLOAD, JUKEBOX, KIOSK, MAKE YOUR OWN RINGTONE, and STREAMING. No Album Only restriction. No preview for any partners.
+00880882198718	Not found.
+00880882198725	Not found.
+00880882199050	No Album Only restriction. Do not deliver to iTunes_Audio (US). No preview for any partners.
+00880882199111	Not found.
+00880882199128	Not found.
+00880882199258	No Album Only restriction. Instant Gratification for: The Soundmaker. Exclusive in Perpetuity to ITunes_High Quality Audio (US) from 4/29/2014. Automatic Preorder for ITunes_High Quality Audio (US) on 2/18/2014. No preview for any partners.
+00880882199357	No Album Only restriction. No preview for any partners.
+00880882199418	Not found.
+00880882199517	Not found.
+00880882199654	No Album Only restriction. Exclusive in Perpetuity to Amazon (US), Rdio Subscription (US), and Rdio_Download (US) from 4/29/2014. No preview for any partners.
+00880882199753	No Album Only restriction. Do not deliver to Amazon (US), iTunes_Audio (US), Rdio Subscription (US), and Rdio_Download (US). No preview for any partners.
+00880882199852	No Album Only restriction. Do not deliver to iTunes_Audio (US). No preview for any partners.
+00880882199913	Not found.
+00880882200015	Not found.
+00880882200022	Not found.
+00880882200312	Not found.
+00880882200459	No Album Only restriction. Instant Gratification for: I Wanna Love You. Exclusive in Perpetuity to ITunes_High Quality Audio (US) from 4/15/2014. Automatic Preorder for ITunes_High Quality Audio (US) on 2/25/2014. No preview for any partners.
+00880882200558	No Album Only restriction. Exclusive in Perpetuity to Amazon (US), Rdio Subscription (US), and Rdio_Download (US) from 4/15/2014. No preview for any partners.
+00880882200657	No Album Only restriction. Do not deliver to Amazon (US), iTunes_Audio (US), Rdio Subscription (US), and Rdio_Download (US). No preview for any partners.
+00880882200756	No Album Only restriction. Exclusive in Perpetuity to Spotify (US) from 2/14/2014. No preview for any partners.
+00880882200855	No Album Only restriction. Do not deliver to iTunes_Audio (US). No preview for any partners.
+00880882200954	No Album Only restriction. Expires for all partners on 4/1/2014. No preview for any partners.
+00880882201050	No Album Only restriction. Do not deliver to iTunes_Audio (US). Expires for all partners on 4/1/2014. No preview for any partners.
+00880882201159	No Album Only restriction. Exclusive in Perpetuity to VEVO.com_Video (US) from 2/13/2014. No preview for any partners.
+00880882201258	No Album Only restriction. Do not deliver to Acoustic Sounds (US), Amazon (US), iTunes_Audio (US), Rdio Subscription (US), and Rdio_Download (US). No preview for any partners.
+00880882201357	No Album Only restriction. Instant Gratification for: Longer Than You've Been Alive. Exclusive in Perpetuity to Acoustic Sounds (US), Amazon (US), iTunes_Audio (US), Rdio Subscription (US), and Rdio_Download (US) from 4/29/2014. Automatic Preorder for iTunes_Audio (US) on 3/11/2014. No preview for any partners.
+00880882201456	No Album Only restriction. No preview for any partners.
+00880882201555	Restricted for DOWNLOAD. No Album Only restriction. No preview for any partners.
+00880882201623	Not found.
+00880882201852	No Album Only restriction. Do not deliver to iTunes_Audio (US). No preview for any partners.
+00880882201951	Restricted for DOWNLOAD. No Album Only restriction. Expires for iTunes_Video (US) on 5/2/2014. No preview for any partners.
+00880882202156	No Album Only restriction. Do not deliver to iTunes_Audio (US). Expires for all partners on 4/1/2014. No preview for any partners.
+00880882202255	No Album Only restriction. Do not deliver to iTunes_Audio (US). No preview for any partners.
+00880882202552	No Album Only restriction. No preview for any partners.
+00880882202651	No Album Only restriction. No preview for any partners.
+00880882202750	No Album Only restriction. No preview for any partners.
+00880882202859	No Album Only restriction. No preview for any partners.
+00880882202958	No Album Only restriction. No preview for any partners.
+00880882203054	No Album Only restriction. No preview for any partners.
+00880882203153	No Album Only restriction. No preview for any partners.
+00880882203252	No Album Only restriction. No preview for any partners.
+00880882203351	No Album Only restriction. No preview for any partners.
+00880882203450	No Album Only restriction. No preview for any partners.
+00880882203559	No Album Only restriction. Expires for iTunes_Audio (US) on 4/30/2014. No preview for any partners.
+00880882203757	No Album Only restriction. No preview for any partners.
+00880882203856	No Album Only restriction. No preview for any partners.
+00880882204112	Not found.
+00880882204129	Not found.
+00880882204259	No Album Only restriction. No preview for any partners.
+00880882204358	No Album Only restriction. No preview for any partners.
+00880882204457	No Album Only restriction. No preview for any partners.
+00880882204556	No Album Only restriction. Instant Gratification for: The Soundmaker (Volume 1 Track 1). Exclusive in Perpetuity to ITunes_High Quality Audio (US) from 4/29/2014. No preview for any partners.
+00880882204655	No Album Only restriction. Instant Gratification for: Sweet Amarillo. Exclusive in Perpetuity to ITunes_High Quality Audio (US) from 7/1/2014. Automatic Preorder for ITunes_High Quality Audio (US) on 4/29/2014. No preview for any partners.
+00880882204754	No Album Only restriction. Exclusive in Perpetuity to Acoustic Sounds (US), Amazon (US), Rdio Subscription (US), and Rdio_Download (US) from 7/1/2014. No preview for any partners.
+00880882204853	No Album Only restriction. Do not deliver to Acoustic Sounds (US), Amazon (US), iTunes_Audio (US), Rdio Subscription (US), and Rdio_Download (US). No preview for any partners.
+00880882204914	Not found.
+00880882204921	Not found.
+00880882205058	No Album Only restriction. Instant Gratification for: Your Song and I Believe.  Instant Gratification starting 07/08/2014 for: Shadow.  Instant Gratification starting 07/22/2014 for: Easier. Exclusive in Perpetuity to ITunes_High Quality Audio (US) from 8/12/2014. Automatic Preorder for ITunes_High Quality Audio (US) on 6/17/2014. No preview for any partners.
+00880882205157	No Album Only restriction. Instant Gratification for: Your Song and I Believe.  Instant Gratification starting 07/08/2014 for: Shadow.  Instant Gratification starting 07/22/2014 for: Easier. Exclusive in Perpetuity to Acoustic Sounds (US), Amazon (US), Rdio Subscription (US), and Rdio_Download (US) from 8/12/2014. Automatic Preorder for Amazon (US) on 6/17/2014. No preview for any partners.
+00880882205256	No Album Only restriction. Do not deliver to Acoustic Sounds (US), Amazon (US), iTunes_Audio (US), Rdio Subscription (US), and Rdio_Download (US). No preview for any partners.
+00880882205355	No Album Only restriction. Expires for iTunes_Audio (US) on 7/18/2014. No preview for any partners.
+00880882205416	Not found.
+00880882205454	No Album Only restriction. Expires for iTunes_Audio (US) on 4/29/2014. No preview for any partners.
+00880882205553	No Album Only restriction. Exclusive in Perpetuity to Amazon_Mixed Bundles from 4/29/2014. No preview for any partners.
+00880882205751	Restricted for DOWNLOAD. No Album Only restriction. No preview for any partners.
+00880882205850	No Album Only restriction. No preview for any partners.
+00880882205959	No Album Only restriction. No preview for any partners.
+00880882206055	No Album Only restriction. No preview for any partners.
+00880882206154	No Album Only restriction. No preview for any partners.
+00880882206253	Restricted for DOWNLOAD. No Album Only restriction. No preview for any partners.
+00880882206352	No Album Only restriction. Instant Gratification for: Violent Shiver. Exclusive in Perpetuity to ITunes_High Quality Audio (US) from 8/19/2014. Automatic Preorder for ITunes_High Quality Audio (US) on 4/29/2014. No preview for any partners.
+00880882206451	No Album Only restriction. Exclusive in Perpetuity to Acoustic Sounds (US), Amazon (US), Rdio Subscription (US), and Rdio_Download (US) from 8/19/2014. No preview for any partners.
+00880882206550	No Album Only restriction. Do not deliver to Acoustic Sounds (US), Amazon (US), iTunes_Audio (US), Rdio Subscription (US), and Rdio_Download (US). Automatic Preorder for Google Music (US) on 8/12/2014. No preview for any partners.
+00880882206659	No Album Only restriction. No preview for any partners.
+00880882206956	No Album Only restriction. No preview for any partners.
+00880882207052	No Album Only restriction. No preview for any partners.
+00880882207151	No Album Only restriction. No preview for any partners.
+00880882207250	No Album Only restriction. No preview for any partners.
+00880882207359	No Album Only restriction. No preview for any partners.
+00880882207458	No Album Only restriction. No preview for any partners.
+00880882207557	No Album Only restriction. No preview for any partners.
+00880882207656	No Album Only restriction. No preview for any partners.
+00880882207755	No Album Only restriction. No preview for any partners.
+00880882207854	No Album Only restriction. No preview for any partners.
+00880882207953	No Album Only restriction. No preview for any partners.
+00880882208059	No Album Only restriction. No preview for any partners.
+00880882208158	No Album Only restriction. No preview for any partners.
+00880882208257	No Album Only restriction. No preview for any partners.
+00880882208356	No Album Only restriction. No preview for any partners.
+00880882208455	No Album Only restriction. No preview for any partners.
+00880882208554	No Album Only restriction. No preview for any partners.
+00880882208752	No Album Only restriction. No preview for any partners.
+00880882208851	No Album Only restriction. No preview for any partners.
+00880882208950	No Album Only restriction. No preview for any partners.
+00880882209056	No Album Only restriction. No preview for any partners.
+00880882209155	No Album Only restriction. No preview for any partners.
+00880882209254	No Album Only restriction. No preview for any partners.
+00880882209353	No Album Only restriction. Exclusive in Perpetuity to VEVO.com_Video (US) from 6/9/2014. No preview for any partners.
+00880882209452	No Album Only restriction. Do not deliver to iTunes_Audio (US). Expires for all partners on 6/30/2014. No preview for any partners.
+00880882209551	No Album Only restriction. Do not deliver to iTunes_Audio (US). No preview for any partners.
+00880882209650	No Album Only restriction. No preview for any partners.
+00880882209759	No Album Only restriction. No preview for any partners.
+00880882209858	No Album Only restriction. No preview for any partners.
+00880882209957	No Album Only restriction. No preview for any partners.
+00880882210052	No Album Only restriction. No preview for any partners.
+00880882210151	No Album Only restriction. No preview for any partners.
+00880882210250	No Album Only restriction. No preview for any partners.
+00880882210311	Not found.
+00880882210458	No Album Only restriction. No preview for any partners.
+00880882210557	No Album Only restriction. No preview for any partners.
+00880882210656	No Album Only restriction. No preview for any partners.
+00880882210755	No Album Only restriction. Exclusive in Perpetuity to Brightcove_Video (US) and VEVO.com_Video (US) from 5/16/2014. No preview for any partners.
+00880882210823	Not found.
+00880882210953	No Album Only restriction. Do not deliver to iTunes_Audio (US). No preview for any partners.
+00880882211059	No Album Only restriction. Do not deliver to iTunes_Audio (US). No preview for any partners.
+00880882211158	No Album Only restriction. Do not deliver to iTunes_Audio (US). No preview for any partners.
+00880882211257	No Album Only restriction. Exclusive in Perpetuity to VEVO.com_Video (US) from 6/17/2014. No preview for any partners.
+00880882211356	No Album Only restriction. Expires for all partners on 5/29/2014. No preview for any partners.
+00880882211455	Restricted for DOWNLOAD. No Album Only restriction. Exclusive in Perpetuity to Brightcove_Video (US) and VEVO.com_Video (US) from 6/12/2014. No preview for any partners.
+00880882211554	No Album Only restriction. No preview for any partners.
+00880882211653	No Album Only restriction. No preview for any partners.
+00880882211752	No Album Only restriction. No preview for any partners.
+00880882211851	No Album Only restriction. No preview for any partners.
+00880882212018	Not found.
+00880882212025	Not found.
+00880882212223	Not found.
+00880882212650	No Album Only restriction. No preview for any partners.
+00880882212858	Restricted for DOWNLOAD. No Album Only restriction. Exclusive in Perpetuity to Brightcove_Video (US) and VEVO.com_Video (US) from 7/11/2014. No preview for any partners.
+00880882212957	Restricted for DOWNLOAD. No Album Only restriction. Exclusive in Perpetuity to Brightcove_Video (US) and VEVO.com_Video (US) from 7/8/2014. No preview for any partners.
+00880882213053	Restricted for DOWNLOAD. No Album Only restriction. Exclusive in Perpetuity to Brightcove_Video (US) and VEVO.com_Video (US) from 7/4/2014. No preview for any partners.
+00880882213114	Not found.
+00880882213121	Not found.
+00880882213251	Album Only restriction for: Lermaninoff. Instant Gratification for: Pure Imagination. Do not deliver to iTunes_Audio (US). Automatic Preorder for Amazon (US) on 9/2/2014. No preview for any partners. US, ex-iTunes, 9/2 Amazon Preorder + IG: Pure Imagination
+00880882213459	Album Only restriction for: Lermaninoff. Instant Gratification for: Pure Imagination. Exclusive in Perpetuity to ITunes_High Quality Audio (US) from 10/21/2014. Automatic Preorder for ITunes_High Quality Audio (US) on 7/29/2014. No preview for any partners. US, MFiT
+00880882213510	Not found.
+00880882213527	Not found.
+00880882213657	No Album Only restriction. Expires for all partners on 8/19/2014. No preview for any partners.
+00880882213756	No Album Only restriction. Exclusive in Perpetuity to VEVO.com_Video (US) from 7/25/2014. No preview for any partners.
+00880882213855	No Album Only restriction. Instant Gratification for: Your Song, I Believe, Easier, and Shadow. Exclusive in Perpetuity to iTunes_Audio (US) from 8/12/2014. Automatic Preorder for iTunes_Audio (US) on 8/5/2014. Expires for iTunes_Audio (US) on 10/13/2014. No preview for any partners.
+00880882213916	Not found.
+00880882214050	No Album Only restriction. Exclusive in Perpetuity to VEVO.com_Video (US) from 7/25/2014 and Brightcove_Video (US) from 7/29/2014. No preview for any partners.
+00880882214159	No Album Only restriction. Do not deliver to iTunes_Audio (US). No preview for any partners.
+00880882214258	No Album Only restriction. No preview for any partners.
+00880882214456	Restricted for DOWNLOAD. No Album Only restriction. Exclusive in Perpetuity to VEVO.com_Video (US) from 8/8/2014. No preview for any partners.
+00880882214517	Not found.
+00880882214524	Not found.
+00880882214654	No Album Only restriction. Instant Gratification for: From The Night.  Instant Gratification starting 09/30/2014 for: No One Is Lost. Exclusive in Perpetuity to ITunes_High Quality Audio (US) from 10/14/2014. Automatic Preorder for ITunes_High Quality Audio (US) on 8/12/2014. No preview for any partners. US, MFiT, 8/12 preorder + 2 IG: From The Night (8/12), No One is Lost (9/16)
+00880882214753	No Album Only restriction. Instant Gratification for: From The Night.  Instant Gratification starting 09/30/2014 for: No One Is Lost. Exclusive in Perpetuity to Acoustic Sounds (US), Amazon (US), Rdio Subscription (US), and Rdio_Download (US) from 10/14/2014. Automatic Preorder for Amazon (US) on 8/12/2014. No preview for any partners. US, booklet,  8/12 Amazon preorder + 2 IG: From The Night (8/12), No One is Lost (9/16)
+00880882214852	No Album Only restriction. Do not deliver to Acoustic Sounds (US), Amazon (US), iTunes_Audio (US), Rdio Subscription (US), and Rdio_Download (US). Automatic Preorder for Google Music (US) on 8/12/2014. No preview for any partners. US, no booklet, 8/12 Google preorder
+00880882215057	No Album Only restriction. Do not deliver to Amazon (US) and iTunes_Audio (US). No preview for any partners. US, ex-itunes/Amazon
+00880882215156	No Album Only restriction. Do not deliver to Amazon (US) and iTunes_Audio (US). No preview for any partners.
+00880882215354	No Album Only restriction. No preview for any partners.
+00880882215453	No Album Only restriction. Exclusive in Perpetuity to VEVO.com_Video (US) from 8/26/2014. No preview for any partners. US, VEVO XCL
+00880882215552	No Album Only restriction. Exclusive in Perpetuity to VEVO.com_Video (US) from 8/26/2014. No preview for any partners. US, VEVO XCL
+00880882215651	No Album Only restriction. Exclusive in Perpetuity to VEVO.com_Video (US) from 8/26/2014. No preview for any partners. US, VEVO XCL
+00880882215750	No Album Only restriction. Exclusive in Perpetuity to VEVO.com_Video (US) from 8/26/2014. No preview for any partners. US, VEVO XCL
+00880882215859	No Album Only restriction. Exclusive in Perpetuity to VEVO.com_Video (US) from 8/26/2014. No preview for any partners. US, VEVO XCL
+00880882215958	No Album Only restriction. Exclusive in Perpetuity to VEVO.com_Video (US) from 8/26/2014. No preview for any partners. US, VEVO XCL
+00880882216054	No Album Only restriction. Exclusive in Perpetuity to VEVO.com_Video (US) from 8/26/2014. No preview for any partners. US, VEVO XCL
+00880882216153	No Album Only restriction. Exclusive in Perpetuity to VEVO.com_Video (US) from 8/26/2014. No preview for any partners. US, VEVO XCL
+00880882216252	No Album Only restriction. Exclusive in Perpetuity to VEVO.com_Video (US) from 8/26/2014. No preview for any partners. US, VEVO XCL
+00880882216351	No Album Only restriction. Exclusive in Perpetuity to VEVO.com_Video (US) from 8/26/2014. No preview for any partners. US, VEVO XCL
+00880882216450	No Album Only restriction. Exclusive in Perpetuity to VEVO.com_Video (US) from 8/26/2014. No preview for any partners. US, VEVO XCL
+00880882216559	No Album Only restriction. Exclusive in Perpetuity to VEVO.com_Video (US) from 8/26/2014. No preview for any partners. US, VEVO XCL
+00880882216658	No Album Only restriction. Exclusive in Perpetuity to VEVO.com_Video (US) from 8/26/2014. No preview for any partners. US, VEVO XCL
+00880882216757	No Album Only restriction. Instant Gratification for: All Over The Place. Exclusive in Perpetuity to ITunes_High Quality Audio (US) from 10/7/2014. Automatic Preorder for ITunes_High Quality Audio (US) on 9/2/2014. No preview for any partners. US, MFiT, 9/2 preorder + IG: All Over The Place
+00880882216955	No Album Only restriction. Instant Gratification for: All Over The Place. Do not deliver to iTunes_Audio (US). Automatic Preorder for Amazon (US) on 9/2/2014. No preview for any partners. US, Excludes iTunes, 9/2 Amazon preorder + IG: All Over The Place
+00880882217051	No Album Only restriction. Exclusive in Perpetuity to VEVO.com_Video (US) from 8/29/2014. No preview for any partners. US, VEVO XCL
+00880882217150	No Album Only restriction. Exclusive in Perpetuity to VEVO.com_Video (US) from 9/30/2014. No preview for any partners. Vevo XCL
+00880882217259	No Album Only restriction. Do not deliver to Amazon (US) and iTunes_Audio (US). Expires for all partners on 10/7/2014. No preview for any partners. US, Excludes iTunes/Amazon, expires for all partners 10/7/14
+00880882217358	No Album Only restriction. Instant Gratification for: Horse's Mouth and Medicine Hat.  Instant Gratification starting 09/30/2014 for: Stepping Stone. Exclusive in Perpetuity to Amazon (US), Rdio Subscription (US), Rdio_Download (US), and Vervelife (US) from 10/14/2014. Automatic Preorder for Amazon (US) on 9/16/2014. No preview for any partners. US, booklet partners, 9/16 Amazon preorder + 3 IG: 9/16 - Horse's mouth and medicine hat.  9/30 - Stepping Stone
+00880882217457	No Album Only restriction. Do not deliver to Amazon (US), iTunes_Audio (US), Rdio Subscription (US), Rdio_Download (US), and Vervelife (US). Automatic Preorder for Google Music (US) on 9/16/2014. No preview for any partners. US, non-booklet partners, 9/16 preorder
+00880882217655	No Album Only restriction. Instant Gratification for: Horse's Mouth.  Instant Gratification starting 09/16/2014 for: Medicine Hat.  Instant Gratification starting 09/30/2014 for: Stepping Stone. Do not deliver to iTunes_Audio (US). Automatic Preorder for Amazon (US) on 9/9/2014. No preview for any partners. US, Excludes iTunes, 9/9 Amazon preorder + 3 IG:
+9.9 – Horse's Mouth
+9.16 – Medicine Hat
+9.30 – Stepping Stone
+00880882217754	No Album Only restriction. Do not deliver to Amazon (US) and iTunes_Audio (US). Expires for all partners on 10/14/2014. No preview for any partners. US, Excludes iTunes/Amazon, expires for all partners 10/14/14
+00880882217853	No Album Only restriction. Do not deliver to Amazon (US) and iTunes_Audio (US). Expires for all partners on 10/14/2014. No preview for any partners. US, Excludes iTunes/Amazon, expires for all partners 10/14/14
+00880882217952	No Album Only restriction. Do not deliver to Amazon (US) and iTunes_Audio (US). Expires for all partners on 9/16/2014. No preview for any partners. US, Excludes iTunes/Amazon, expires for all partners 10/14/14
+00880882218010	Not found.
+00880882218027	Not found.
+00880882218256	No Album Only restriction. Exclusive in Perpetuity to VEVO.com_Video (US) from 8/28/2014. No preview for any partners. US, VEVO XCL
+00880882218454	No Album Only restriction. Exclusive in Perpetuity to Google Music (US) from 10/7/2014. Automatic Preorder for Google Music (US) on 9/9/2014. No preview for any partners. US, Google Play XCL, 9/9 preorder
+00880882218553	No Album Only restriction. Exclusive in Perpetuity to Spotify (US) from 9/2/2014. No preview for any partners. US, Spotify XCL
+00880882218652	No Album Only restriction. Instant Gratification for: Horse's Mouth.  Instant Gratification starting 09/16/2014 for: Medicine Hat.  Instant Gratification starting 09/30/2014 for: Stepping Stone. Exclusive in Perpetuity to ITunes_High Quality Audio (US) from 10/14/2014. Automatic Preorder for ITunes_High Quality Audio (US) on 9/9/2014. No preview for any partners. US, MFiT, 9/9 preorder + 3 IG:
+ 9.9 – Horse's Mouth
+ 9.16 – Medicine Hat 
+9.30 – Stepping Stone
+TL8 preorder pricing
+00880882218751	No Album Only restriction. Instant Gratification for: Horse's Mouth and Medicine Hat.  Instant Gratification starting 09/30/2014 for: Stepping Stone. Exclusive in Perpetuity to ITunes_High Quality Audio (US) from 10/14/2014. Automatic Preorder for ITunes_High Quality Audio (US) on 9/16/2014. No preview for any partners. US, MFiT, 9/16 preorder + 3 IG: 9/16 - Horse's mouth and medicine hat.  9/30 - Stepping Stone
+00880882218850	No Album Only restriction. No preview for any partners. World excluding Brazil, Europe, Australia, New Zealand, Mexico
+00880882218959	No Album Only restriction. No preview for any partners. World ex Canada, Mexico, Europe, Australia, New Zealand
+00880882219123	Not found.
+00880882219253	No Album Only restriction. No preview for any partners.
+00880882219352	No Album Only restriction. Do not deliver to Amazon (US) and iTunes_Audio (US). Expires for all partners on 10/14/2014. No preview for any partners. US, ex-iTunes/Amazon, expires 10/14/14
+00880882219451	No Album Only restriction. No preview for any partners.
+00880882219550	No Album Only restriction. Exclusive in Perpetuity to VEVO.com_Video (US) from 9/9/2014. No preview for any partners.
+00880882219659	No Album Only restriction. Exclusive in Perpetuity to Spotify (US) from 9/23/2014. No preview for any partners.
+00880882219758	Unknown for COND. DL, DISC ON DEMAND, DOWNLOAD, JUKEBOX, KIOSK, MAKE YOUR OWN RINGTONE, and STREAMING. No Album Only restriction. No preview for any partners.
+00880882219857	Unknown for COND. DL, DISC ON DEMAND, DOWNLOAD, JUKEBOX, KIOSK, MAKE YOUR OWN RINGTONE, and STREAMING. No Album Only restriction. No preview for any partners.
+00880882219956	Unknown for COND. DL, DISC ON DEMAND, DOWNLOAD, JUKEBOX, KIOSK, MAKE YOUR OWN RINGTONE, and STREAMING. No Album Only restriction. No preview for any partners.
+00880882220051	Unknown for COND. DL, DISC ON DEMAND, DOWNLOAD, JUKEBOX, KIOSK, MAKE YOUR OWN RINGTONE, and STREAMING. No Album Only restriction. No preview for any partners.
+00880882220259	No Album Only restriction. Instant Gratification for: New Beat.  Instant Gratification starting 10/14/2014 for: Everything Twice. Exclusive in Perpetuity to Amazon (US), iTunes_Audio (US), Rdio Subscription (US), Rdio_Download (US), and Vervelife (US) from 11/4/2014. Automatic Preorder for Amazon (US) and iTunes_Audio (US) on 9/23/2014. No preview for any partners. US, booklet partners, 9/23 iTunes/Amazon preorder + 2 IG: New Beat (9/23), Everything Twice (10/7)
+00880882220358	No Album Only restriction. Do not deliver to Amazon (US), Digiplug Connected Model (US), iTunes_Audio (US), Rdio Subscription (US), Rdio_Download (US), and Vervelife (US). Automatic Preorder for Google Music (US) on 9/23/2014. No preview for any partners. US, non-booklet partners, 9/23 Google Play preorder
+00880882220457	Restricted for DOWNLOAD. No Album Only restriction. No preview for any partners. US, stream only
+00880882220556	No Album Only restriction. Exclusive in Perpetuity to Spotify (US) from 9/30/2014. Expires for Spotify (US) on 10/9/2014. No preview for any partners. US, Spotify XCL
+00880882220754	No Album Only restriction. Do not deliver to Amazon (US) and iTunes_Audio (US). Expires for all partners on 9/23/2014. No preview for any partners. US, ex-iTunes/Amazon
+00880882220853	No Album Only restriction. Do not deliver to Amazon (US) and iTunes_Audio (US). No preview for any partners. US, ex-iTunes/Amazon
+00880882220952	No Album Only restriction. Exclusive in Perpetuity to VEVO.com_Video (US) from 9/23/2014. No preview for any partners. US, VEVO XCL
+00880882221058	No Album Only restriction. Exclusive in Perpetuity to VEVO.com_Video (US) from 11/4/2014. No preview for any partners. US, VEVO XCL
+00880882221157	No Album Only restriction. No preview for any partners.
+00880882221256	Unknown for DISC ON DEMAND, DOWNLOAD, JUKEBOX, KIOSK, and STREAMING. No Album Only restriction. No preview for any partners.
+00880882221355	Unknown for DISC ON DEMAND, DOWNLOAD, JUKEBOX, KIOSK, and STREAMING. No Album Only restriction. No preview for any partners.
+00880882221454	No Album Only restriction. Instant Gratification for: Shit Shots Count (Volume 1 Track 21). Exclusive in Perpetuity to ITunes_High Quality Audio (US) from 11/17/2014. Automatic Preorder for ITunes_High Quality Audio (US) on 10/14/2014. No preview for any partners. US, MFiT, 10/7 preorder + IG: Shit Shots Count (Live From the 40 Watt Club)
+00880882221553	No Album Only restriction. Exclusive in Perpetuity to Rdio Subscription (US), Rdio_Download (US), and Vervelife (US) from 11/17/2014. No preview for any partners. US, booklet partners
+00880882221652	No Album Only restriction. Do not deliver to iTunes_Audio (US), Rdio Subscription (US), Rdio_Download (US), and Vervelife (US). Automatic Preorder for Amazon (US) and Google Music (US) on 10/14/2014. No preview for any partners. US, non-booklet partners, 10/7 Google Play preorder
+00880882221751	Album Only restriction for: Black Ice Vérité. Instant Gratification for: Shit Shots Count (Volume 1 Track 21). Exclusive in Perpetuity to Amazon_Mixed Bundles from 11/18/2014. Automatic Preorder for Amazon_Mixed Bundles on 10/7/2014. No preview for any partners. US, Amazon XCL, 10/7 preorder + IG: Shit Shots Count (Live at the 40 Watt Club)
+00880882221850	No Album Only restriction. Do not deliver to Amazon (US) and iTunes_Audio (US). No preview for any partners.
+00880882222154	No Album Only restriction. Exclusive in Perpetuity to Spotify (US) from 10/27/2014. No preview for any partners.
+00880882222253	No Album Only restriction. No preview for any partners. US
+00880882222352	No Album Only restriction. Exclusive in Perpetuity to VEVO.com_Video (US) from 10/7/2014. No preview for any partners. US, Vevo XCL
+00880882222451	No Album Only restriction. Exclusive in Perpetuity to Spotify (US) from 10/7/2014. No preview for any partners. US, Spotify XCL
+00880882222659	No Album Only restriction. Exclusive in Perpetuity to VEVO.com_Video (US) from 10/15/2014. No preview for any partners.
+00880882222956	No Album Only restriction. Exclusive in Perpetuity to VEVO.com_Video (US) from 10/29/2014. No preview for any partners.
+00880882223151	No Album Only restriction. No preview for any partners.
+00880882223250	No Album Only restriction. No preview for any partners. VEVO via Approved Manual upload.
+00880882223359	No Album Only restriction. Exclusive to VEVO.com_Video (US) from 10/22/2014 to 10/28/2014.
+00880882223557	No Album Only restriction. Exclusive in Perpetuity to VEVO.com_Video (US) from 11/4/2014. No preview for any partners.
+00880882223854	No Album Only restriction. No preview for any partners.
+00880882223953	No Album Only restriction. Instant Gratification for: We Are Undone.  Instant Gratification starting 01/19/2015 for: Incidental. Do not deliver to iTunes_Audio (US) and ITunes_High Quality Audio (US). Automatic Preorder for Amazon (US) and Google Music (US) on 11/18/2014. No preview for any partners.
+00880882224059	No Album Only restriction. Instant Gratification for: We Are Undone.  Instant Gratification starting 01/19/2015 for: Incidental. Exclusive in Perpetuity to ITunes_High Quality Audio (US) from 2/3/2015. Automatic Preorder for ITunes_High Quality Audio (US) on 11/18/2014. No preview for any partners.
+00880882224158	No Album Only restriction. Do not deliver to Amazon (US), iTunes_Audio (US), and ITunes_High Quality Audio (US). No preview for any partners.
+00880882224257	No Album Only restriction. Do not deliver to Amazon (US), iTunes_Audio (US), and ITunes_High Quality Audio (US). No preview for any partners.
+00884977489644	No Album Only restriction. No preview for any partners.
+00884977493702	No Album Only restriction. No preview for any partners.
+00884977536041	No Album Only restriction. No preview for any partners.
+00884977543919	No Album Only restriction. No preview for any partners.
+00884977592368	No Album Only restriction. No preview for any partners.
+00884977617740	No Album Only restriction. No preview for any partners.
+00884977625097	No Album Only restriction. No preview for any partners.
+00884977712612	No Album Only restriction. No preview for any partners.
+00884977722062	No Album Only restriction. No preview for any partners.
+00884977723922	No Album Only restriction. Exclusive in Perpetuity to Amazon (US) and iTunes_Audio (US) from 7/1/2013. No preview for any partners.
+00884977878752	No Album Only restriction.
+00884977885439	No Album Only restriction. No preview for any partners.
+00884977888171	No Album Only restriction. Exclusive in Perpetuity to iTunes_Audio (US) from 7/8/2013. No preview for any partners.
+00884977888225	No Album Only restriction. Expires for Muzak_Radio (US) on 6/17/2013. No preview for any partners.
+00884977893519	No Album Only restriction. No preview for any partners.
+00884977919646	No Album Only restriction. No preview for any partners.
+00884977995282	No Album Only restriction. Expires for Muzak_Radio (US) on 6/17/2013. No preview for any partners.
+00886443001596	No Album Only restriction. No preview for any partners.
+00886443010956	Not Restricted/Unknown for DOWNLOAD, JUKEBOX, KIOSK, and STREAMING. No Album Only restriction. Exclusive in Perpetuity to iTunes_Audio (US) from 9/5/2013. No preview for any partners.
+00886443014794	No Album Only restriction. No preview for any partners.
+00886443019133	No Album Only restriction. No preview for any partners.
+00886443019164	No Album Only restriction. Exclusive in Perpetuity to Amazon (US) and iTunes_Audio (US) from 7/1/2013. No preview for any partners.
+00886443038912	No Album Only restriction. No preview for any partners.
+00886443084117	No Album Only restriction. No preview for any partners.
+00886443086197	No Album Only restriction. Exclusive in Perpetuity to Amazon (US) and iTunes_Audio (US) from 7/1/2013. No preview for any partners.
+00886443092679	No Album Only restriction. No preview for any partners.
+00886443123441	No Album Only restriction. No preview for any partners.
+00886443147782	No Album Only restriction. Exclusive in Perpetuity to Amazon (US) and iTunes_Audio (US) from 7/1/2013. No preview for any partners.
+00886443150096	No Album Only restriction. Exclusive in Perpetuity to Amazon (US) and iTunes_Audio (US) from 7/1/2013. No preview for any partners.
+00886443151758	No Album Only restriction. Exclusive in Perpetuity to Amazon (US) and iTunes_Audio (US) from 7/1/2013. Expires for Amazon (US) and iTunes_Audio (US) on 11/25/2013. No preview for any partners.
+00886443155732	No Album Only restriction. No preview for any partners.
+00886443156463	No Album Only restriction. Exclusive in Perpetuity to Amazon (US) and iTunes_Audio (US) from 7/1/2013. No preview for any partners.
+00886443174771	No Album Only restriction. No preview for any partners.
+00886443174788	No Album Only restriction. No preview for any partners.
+00886443224971	No Album Only restriction. No preview for any partners.
+00886443263314	No Album Only restriction. Exclusive in Perpetuity to Amazon (US) and iTunes_Audio (US) from 7/1/2013. No preview for any partners.
+00886443306851	No Album Only restriction. Exclusive in Perpetuity to iTunes_Audio (US) from 7/1/2013. No preview for any partners.
+00886443308534	No Album Only restriction. Exclusive in Perpetuity to iTunes_Audio (US) from 7/30/2013. No preview for any partners.
+00886443323537	No Album Only restriction. Exclusive in Perpetuity to Amazon (US), iTunes_Audio (US), and Rdio_Download (US) from 7/1/2013. No preview for any partners.
+00886443343481	No Album Only restriction. No preview for any partners.
+00886443354920	No Album Only restriction. No preview for any partners.
+00886443356863	No Album Only restriction. Exclusive in Perpetuity to Amazon (US) and iTunes_Audio (US) from 7/1/2013. No preview for any partners.
+00886443359796	No Album Only restriction. No preview for any partners.
+00886443382145	No Album Only restriction. Exclusive in Perpetuity to Amazon (US) and iTunes_Audio (US) from 7/1/2013. No preview for any partners.
+00886443441897	No Album Only restriction. No preview for any partners.
+00886443502901	No Album Only restriction. No preview for any partners.
+00886443503434	No Album Only restriction. Exclusive in Perpetuity to Amazon (US) and iTunes_Audio (US) from 7/1/2013. No preview for any partners.
+00886443503472	No Album Only restriction. No preview for any partners.
+00886443504721	No Album Only restriction. Exclusive in Perpetuity to Amazon (US) and iTunes_Audio (US) from 7/1/2013. No preview for any partners.
+00886443534926	No Album Only restriction. No preview for any partners.
+00886443561816	No Album Only restriction. No preview for any partners.
+00886443564442	No Album Only restriction. Exclusive in Perpetuity to Amazon (US) and iTunes_Audio (US) from 7/1/2013. No preview for any partners.
+00886443575400	No Album Only restriction. No preview for any partners.
+00886443593343	No Album Only restriction. Exclusive in Perpetuity to Amazon (US) and iTunes_Audio (US) from 7/1/2013. No preview for any partners.
+00886443596481	No Album Only restriction. Exclusive in Perpetuity to Amazon (US) and iTunes_Audio (US) from 7/1/2013. No preview for any partners.
+00886443625990	No Album Only restriction. Exclusive in Perpetuity to Amazon (US) and iTunes_Audio (US) from 7/1/2013. No preview for any partners.
+00886443633476	No Album Only restriction. Exclusive in Perpetuity to Spotify (US) from 7/1/2013. Expires for Spotify (US) on 10/31/2013. No preview for any partners.
+00886443643451	No Album Only restriction. Exclusive in Perpetuity to Amazon (US) and iTunes_Audio (US) from 7/1/2013. No preview for any partners.
+00886443659520	No Album Only restriction. No preview for any partners.
+00886443689688	No Album Only restriction. Exclusive in Perpetuity to iTunes_Audio (US) from 7/1/2013. No preview for any partners.
+00886443718975	No Album Only restriction. Exclusive in Perpetuity to ITunes_High Quality Audio (US) from 7/30/2013. No preview for any partners.
+00886443729506	No Album Only restriction. No preview for any partners.
+00886443755505	No Album Only restriction. Exclusive in Perpetuity to iTunes_Audio (US) from 7/1/2013. No preview for any partners.
+00886443776623	No Album Only restriction. Exclusive in Perpetuity to Amazon (US) and iTunes_Audio (US) from 7/1/2013. No preview for any partners.
+00886443809697	No Album Only restriction. Exclusive in Perpetuity to Amazon (US) and iTunes_Audio (US) from 7/1/2013. No preview for any partners.
+00886443832800	No Album Only restriction. Exclusive in Perpetuity to ITunes_High Quality Audio (US) from 7/1/2013. No preview for any partners.
+00886443835146	No Album Only restriction. Exclusive in Perpetuity to Spotify (US) from 7/1/2013. No preview for any partners.
+00886443837379	No Album Only restriction. Exclusive in Perpetuity to Spotify (US) from 7/1/2013. No preview for any partners.
+00886443839960	No Album Only restriction. Exclusive in Perpetuity to iTunes_Audio (US) from 7/1/2013. No preview for any partners.
+00886443843042	No Album Only restriction. Exclusive in Perpetuity to iTunes_Audio (US) from 7/1/2013. No preview for any partners.
+00886443861930	No Album Only restriction. Exclusive in Perpetuity to ITunes_High Quality Audio (US) from 7/1/2013. No preview for any partners.
+00886443861947	No Album Only restriction. Exclusive in Perpetuity to Amazon (US) and iTunes_Audio (US) from 7/1/2013. No preview for any partners.
+00886443871380	No Album Only restriction. Exclusive in Perpetuity to Spotify (US) from 7/1/2013. No preview for any partners.
+00886443889798	No Album Only restriction. Exclusive in Perpetuity to Amazon (US) and iTunes_Audio (US) from 7/1/2013. No preview for any partners.
+00886443940345	No Album Only restriction. Exclusive in Perpetuity to Rdio Subscription (US) and Rdio_Download (US) from 7/1/2013. No preview for any partners.
+00886443953673	No tracks can be sold individually. Exclusive in Perpetuity to Amazon (US) and iTunes_Audio (US) from 7/1/2013. No preview for any partners.
+00886443971448	No Album Only restriction. No preview for any partners.
+00886443971455	No Album Only restriction. No preview for any partners.
+00886443975040	No Album Only restriction. Exclusive in Perpetuity to Spotify (US) from 7/1/2013. Expires for Spotify (US) on 10/16/2013. No preview for any partners.
+00886443983380	No Album Only restriction. No preview for any partners.
+05050954415981	Unknown for COND. DL, DISC ON DEMAND, DOWNLOAD, JUKEBOX, KIOSK, MAKE YOUR OWN RINGTONE, and STREAMING. No Album Only restriction. No preview for any partners.
+05053723003013	Not found.
+05053723003020	Not found.
+05099962360609	Not found.
+05099972929223	Not found.
+05099972929292	Not found.
+05099972930090	Not found.
+05099974116812	Not found.
+05099974116911	Not found.
+05099974117611	Not found.
+05099974117710	Not found.
+05099974118120	Not found.
+05099974118229	Not found.
+05099974118328	Not found.
+08024391002933	Not found.
+08024391003237	Not found.
+08024391003435	Not found.
+08024391003534	Not found.
+08024391003633	Not found.
+08024391003831	Not found.
+08024391042526	Not found.
+08024391042922	Not found.
+08024391045626	Not found.
+08024391046722	Not found.
+08024391050927	Not found.
+08024391050941	Not found.
+08024391051092	Not found.
+08024391051320	Not found.
+08024391051429	Not found.
+08024391051528	Not found.
+08024391051627	Not found.
+08024391051641	Not found.
+08024391051658	Not found.
+08024391051757	Not found.
+08024391051825	Not found.
+08024391051849	Not found.
+08024391051856	Not found.
+08024391051924	Not found.
+08024391052020	Not found.
+08024391052044	Not found.
+08024391052143	Not found.
+08024391052228	Not found.
+08024391052426	Not found.
+08024391052525	Not found.
+08024391052624	Not found.
+08024391052747	Not found.
+08024391052754	Not found.
+08024391052822	Not found.
+08024391052921	Not found.
+08024391053027	Not found.
+08024391053126	Not found.
+08024391054529	Not found.
+08024391054727	Not found.
+08024391055021	Not found.
+08024391055625	Not found.
+08024391056042	Not found.
+08024391056127	Not found.
+08024391056295	Not found.
+08024391056721	Not found.
+08024391056745	Not found.
+08024391056899	Not found.
+08024391057070	Not found.
+08024391057124	Not found.
+08024391058725	Not found.
+08024391058824	Not found.
+08024391058923	Not found.
+08024391059043	Not found.
+08024391059227	Not found.
+08024391059326	Not found.
+08024391059425	Not found.
+08024391059623	Not found.
+08024391059883	Not found.
+08024391060025	Unknown for COND. DL, DISC ON DEMAND, DOWNLOAD, JUKEBOX, KIOSK, MAKE YOUR OWN RINGTONE, and STREAMING. No Album Only restriction. No preview for any partners.
+08024391060049	Not found.
+08024391060124	Not found.
+08024391060223	Not found.
+08024391060322	Not found.
+08024391060421	Not found.
+08024391060520	Not found.
+08024391060544	Not found.
+08024391060629	Not found.
+08024391060728	Not found.
+08024391060827	Not found.
+08024391060926	Not found.
+08024391061022	Not found.
+08024391061121	Not found.
+08024391061220	Not found.
+08024391061329	Not found.
+08024391061428	Not found.
+08024391061527	Not found.
+08024391061626	Not found.
+08024391061640	Not found.
+08024391061749	Not found.
+08024391061848	Not found.
+08024391061886	Not found.
+08024391061923	Not found.
+08024391062043	Not found.
+08024391062081	Not found.
+08024391062098	Not found.
+08024391062227	Not found.
+08024391062241	Not found.
+08024391062326	Not found.
+08024391062425	Not found.
+08024391062548	Not found.
+08024391062586	Not found.
+08024391062623	Not found.
+08024391062722	Not found.
+08024391062821	Not found.
+08024391062944	Not found.
+08024391063026	Not found.
+08024391063040	Not found.
+08024391063125	Not found.
+08024391063149	Not found.
+08024391063224	Not found.
+08024391063323	Not found.
+08024391063347	Not found.
+08024391063422	Not found.
+08024391063545	Not found.
+08024391063583	Not found.
+08024391063620	Not found.
+08024391063743	Not found.
+08024391063828	Not found.
+08024391063927	Not found.
+08024391064047	Not found.
+08024391064122	Not found.
+08024391064221	Not found.
+08024391064245	Not found.
+08024391064320	Not found.
+08024391064344	Not found.
+08024391064429	Not found.
+08024391064528	Not found.
+08024391064627	Not found.
+08024391064641	Not found.
+08024391064726	Not found.
+08024391064825	Not found.
+08024391064849	Not found.
+08024391064870	Not found.
+08024391065020	Not found.
+08024391065129	Not found.
+08024391065228	Not found.
+08024391065327	Not found.
+08024391065372	Not found.
+08024391065426	Not found.
+08024391065525	Not found.
+08024391065624	Not found.
+08024391065723	Not found.
+08024391065846	Not found.
+08024391065945	Not found.
+08024391066027	Not found.
+08024391066126	Not found.
+08024391066225	Not found.
+08024391066324	Not found.
+08024391066423	Not found.
+08024391066546	Not found.
+08024391066584	Not found.
+08024391066621	Not found.
+08024391066720	Not found.
+08024391066843	Not found.
+08024391066881	Not found.
+08024391066942	Not found.
+08024391067024	Not found.
+08024391067246	Not found.
+08024391067284	Not found.
+08024391067321	Not found.

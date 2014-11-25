@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://schemas.datacontract.org/2004/07/UMG.D2.Server.Business.DataContract.Term" elementFormDefault="qualified" targetNamespace="http://schemas.datacontract.org/2004/07/UMG.D2.Server.Business.DataContract.Term" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:complexType name="ProductTerritories">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Items" nillable="true" type="tns:ArrayOfProductTerritoriesProductTerritory" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ProductTerritories" nillable="true" type="tns:ProductTerritories" />
+  <xs:complexType name="ArrayOfProductTerritoriesProductTerritory">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="ProductTerritoriesProductTerritory" nillable="true" type="tns:ProductTerritoriesProductTerritory" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfProductTerritoriesProductTerritory" nillable="true" type="tns:ArrayOfProductTerritoriesProductTerritory" />
+  <xs:complexType name="ProductTerritoriesProductTerritory">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Value" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ProductTerritoriesProductTerritory" nillable="true" type="tns:ProductTerritoriesProductTerritory" />
+  <xs:complexType name="D2Types">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Items" nillable="true" type="tns:ArrayOfD2Type" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="D2Types" nillable="true" type="tns:D2Types" />
+  <xs:complexType name="ArrayOfD2Type">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="D2Type" nillable="true" type="tns:D2Type" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfD2Type" nillable="true" type="tns:ArrayOfD2Type" />
+  <xs:complexType name="D2Type">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Code" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Description" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Seq_no" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Type" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Type_Id" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="D2Type" nillable="true" type="tns:D2Type" />
+  <xs:complexType name="Countries">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Items" nillable="true" type="tns:ArrayOfCountriesCountry" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="Countries" nillable="true" type="tns:Countries" />
+  <xs:complexType name="ArrayOfCountriesCountry">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="CountriesCountry" nillable="true" type="tns:CountriesCountry" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfCountriesCountry" nillable="true" type="tns:ArrayOfCountriesCountry" />
+  <xs:complexType name="CountriesCountry">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="OwningRow" type="xs:boolean" />
+      <xs:element minOccurs="0" name="Value" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="CountriesCountry" nillable="true" type="tns:CountriesCountry" />
+  <xs:complexType name="Product">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Artist" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Assets" nillable="true" type="tns:ArrayOfProductAssetsAsset" />
+      <xs:element minOccurs="0" name="Boxset" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Cached" type="xs:boolean" />
+      <xs:element minOccurs="0" name="CachedSpecified" type="xs:boolean" />
+      <xs:element minOccurs="0" name="ConfigDescription" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="ConfigId" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="CountryId" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Ingested" type="xs:boolean" />
+      <xs:element minOccurs="0" name="IngestedSpecified" type="xs:boolean" />
+      <xs:element minOccurs="0" name="IntlLock" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Locked" type="xs:boolean" />
+      <xs:element minOccurs="0" name="LockedReason" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="LockedSpecified" type="xs:boolean" />
+      <xs:element minOccurs="0" name="OwningCountry" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="OwningRow" type="xs:boolean" />
+      <xs:element minOccurs="0" name="OwningRowSpecified" type="xs:boolean" />
+      <xs:element minOccurs="0" name="PreIngested" type="xs:boolean" />
+      <xs:element minOccurs="0" name="PreIngestedSpecified" type="xs:boolean" />
+      <xs:element minOccurs="0" name="ProductLocalId" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="ReleaseDate" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Terms" nillable="true" type="tns:ArrayOfTermsTerm" />
+      <xs:element minOccurs="0" name="Title" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Upc" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="VersionTitle" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="Product" nillable="true" type="tns:Product" />
+  <xs:complexType name="ArrayOfProductAssetsAsset">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="ProductAssetsAsset" nillable="true" type="tns:ProductAssetsAsset" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfProductAssetsAsset" nillable="true" type="tns:ArrayOfProductAssetsAsset" />
+  <xs:complexType name="ProductAssetsAsset">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Artist" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="AssetType" type="tns:AssetTypes" />
+      <xs:element minOccurs="0" name="AssetTypeSpecified" type="xs:boolean" />
+      <xs:element minOccurs="0" name="ComponentUPC" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="CountryId" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="DTI" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="ISRC" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="LicensedInDate" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="ProductAssetLocalId" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="RecordingTime" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="SourceISRC" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Terms" nillable="true" type="tns:ArrayOfTermsTerm" />
+      <xs:element minOccurs="0" name="Title" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="TrackNumber" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Upc" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="VersionTitle" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Volume" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ProductAssetsAsset" nillable="true" type="tns:ProductAssetsAsset" />
+  <xs:simpleType name="AssetTypes">
+    <xs:restriction base="xs:string">
+      <xs:enumeration value="Unknown" />
+      <xs:enumeration value="Audio" />
+      <xs:enumeration value="CoverArt" />
+      <xs:enumeration value="Wallpaper" />
+      <xs:enumeration value="UMGPDF" />
+      <xs:enumeration value="PublicityPhoto" />
+      <xs:enumeration value="Video" />
+      <xs:enumeration value="iTunesPDF" />
+      <xs:enumeration value="VideoCoverArt" />
+    </xs:restriction>
+  </xs:simpleType>
+  <xs:element name="AssetTypes" nillable="true" type="tns:AssetTypes" />
+  <xs:complexType name="ArrayOfTermsTerm">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="TermsTerm" nillable="true" type="tns:TermsTerm" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfTermsTerm" nillable="true" type="tns:ArrayOfTermsTerm" />
+  <xs:complexType name="TermsTerm">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="AlbumOnly" nillable="true" type="tns:ArrayOfTermsTermAlbumOnly" />
+      <xs:element minOccurs="0" name="Artist" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="CCDescription" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="CCReasonCode" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="CCType" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="ClosedCaption" type="xs:int" />
+      <xs:element minOccurs="0" name="ConfirmComplete" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="DistributionChannelGroups" nillable="true" type="tns:ArrayOfTermsTermDistributionChannelGroupsDistributionChannelGroup" />
+      <xs:element minOccurs="0" name="DistributionChannels" nillable="true" type="tns:ArrayOfTermsTermDistributionChannelsDistributionChannel" />
+      <xs:element minOccurs="0" name="DraStatusID" type="xs:int" />
+      <xs:element minOccurs="0" name="ExternalSystemDesc" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="ExternalSystemID" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="FirstName" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="LastName" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="LicensedInDate" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="LogonID" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="MakeYourOwnRingTone" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Notes" nillable="true" type="tns:ArrayOfTermsTermNotesNote" />
+      <xs:element minOccurs="0" name="ParentalAdvisory" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="PreOrderDate" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="PreOrderOnly" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="PreOrderOnlyReadOnly" type="xs:boolean" />
+      <xs:element minOccurs="0" name="PreOrderOnlyReadOnlySpecified" type="xs:boolean" />
+      <xs:element minOccurs="0" name="ReadOnly" type="xs:boolean" />
+      <xs:element minOccurs="0" name="ReadOnlySpecified" type="xs:boolean" />
+      <xs:element minOccurs="0" name="SalesStartDate" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="TerritoryRights" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Title" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Type" type="tns:TermTypes" />
+      <xs:element minOccurs="0" name="TypeSpecified" type="xs:boolean" />
+      <xs:element minOccurs="0" name="UpdateDate" type="xs:dateTime" />
+      <xs:element minOccurs="0" name="UpdateDateSpecified" type="xs:boolean" />
+      <xs:element minOccurs="0" name="UpdateDateString" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="UpdateUser" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="VersionTitle" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="WorkflowStatus" nillable="true" type="tns:ArrayOfWorkflowStatus" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="TermsTerm" nillable="true" type="tns:TermsTerm" />
+  <xs:complexType name="ArrayOfTermsTermAlbumOnly">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="TermsTermAlbumOnly" nillable="true" type="tns:TermsTermAlbumOnly" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfTermsTermAlbumOnly" nillable="true" type="tns:ArrayOfTermsTermAlbumOnly" />
+  <xs:complexType name="TermsTermAlbumOnly">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Id" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Value" type="tns:AlbumOnlyTypes" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="TermsTermAlbumOnly" nillable="true" type="tns:TermsTermAlbumOnly" />
+  <xs:simpleType name="AlbumOnlyTypes">
+    <xs:restriction base="xs:string">
+      <xs:enumeration value="Unknown" />
+      <xs:enumeration value="Yes" />
+      <xs:enumeration value="No" />
+    </xs:restriction>
+  </xs:simpleType>
+  <xs:element name="AlbumOnlyTypes" nillable="true" type="tns:AlbumOnlyTypes" />
+  <xs:complexType name="ArrayOfTermsTermDistributionChannelGroupsDistributionChannelGroup">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="TermsTermDistributionChannelGroupsDistributionChannelGroup" nillable="true" type="tns:TermsTermDistributionChannelGroupsDistributionChannelGroup" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfTermsTermDistributionChannelGroupsDistributionChannelGroup" nillable="true" type="tns:ArrayOfTermsTermDistributionChannelGroupsDistributionChannelGroup" />
+  <xs:complexType name="TermsTermDistributionChannelGroupsDistributionChannelGroup">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="GroupId" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Name" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Status" nillable="true" type="tns:ArrayOfStatus" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="TermsTermDistributionChannelGroupsDistributionChannelGroup" nillable="true" type="tns:TermsTermDistributionChannelGroupsDistributionChannelGroup" />
+  <xs:complexType name="ArrayOfStatus">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="Status" nillable="true" type="tns:Status" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfStatus" nillable="true" type="tns:ArrayOfStatus" />
+  <xs:complexType name="Status">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Id" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Value" type="tns:TermsOfUseRestrictionTypes" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="Status" nillable="true" type="tns:Status" />
+  <xs:simpleType name="TermsOfUseRestrictionTypes">
+    <xs:restriction base="xs:string">
+      <xs:enumeration value="Unknown" />
+      <xs:enumeration value="Restricted" />
+      <xs:enumeration value="PartiallyRestricted" />
+      <xs:enumeration value="NotRestricted" />
+    </xs:restriction>
+  </xs:simpleType>
+  <xs:element name="TermsOfUseRestrictionTypes" nillable="true" type="tns:TermsOfUseRestrictionTypes" />
+  <xs:complexType name="ArrayOfTermsTermDistributionChannelsDistributionChannel">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="TermsTermDistributionChannelsDistributionChannel" nillable="true" type="tns:TermsTermDistributionChannelsDistributionChannel" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfTermsTermDistributionChannelsDistributionChannel" nillable="true" type="tns:ArrayOfTermsTermDistributionChannelsDistributionChannel" />
+  <xs:complexType name="TermsTermDistributionChannelsDistributionChannel">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="ExternalSystemID" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="GroupId" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="GroupName" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Id" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Name" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="ShortName" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Status" nillable="true" type="tns:ArrayOfStatus" />
+      <xs:element minOccurs="0" name="UpdateDate" type="xs:dateTime" />
+      <xs:element minOccurs="0" name="UpdateDateSpecified" type="xs:boolean" />
+      <xs:element minOccurs="0" name="WorkflowStatus" nillable="true" type="tns:ArrayOfWorkflowStatus" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="TermsTermDistributionChannelsDistributionChannel" nillable="true" type="tns:TermsTermDistributionChannelsDistributionChannel" />
+  <xs:complexType name="ArrayOfWorkflowStatus">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="WorkflowStatus" nillable="true" type="tns:WorkflowStatus" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfWorkflowStatus" nillable="true" type="tns:ArrayOfWorkflowStatus" />
+  <xs:complexType name="WorkflowStatus">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Id" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Value" type="tns:WorkFlowStatusTypes" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="WorkflowStatus" nillable="true" type="tns:WorkflowStatus" />
+  <xs:simpleType name="WorkFlowStatusTypes">
+    <xs:restriction base="xs:string">
+      <xs:enumeration value="NotStarted" />
+      <xs:enumeration value="InProgress" />
+      <xs:enumeration value="Complete" />
+      <xs:enumeration value="NotApplicable" />
+    </xs:restriction>
+  </xs:simpleType>
+  <xs:element name="WorkFlowStatusTypes" nillable="true" type="tns:WorkFlowStatusTypes" />
+  <xs:complexType name="ArrayOfTermsTermNotesNote">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="TermsTermNotesNote" nillable="true" type="tns:TermsTermNotesNote" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfTermsTermNotesNote" nillable="true" type="tns:ArrayOfTermsTermNotesNote" />
+  <xs:complexType name="TermsTermNotesNote">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="AssetNodeId" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="FirstName" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="LastName" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="LogonID" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="NoteType" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="NoteTypeId" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="UpdateDate" type="xs:dateTime" />
+      <xs:element minOccurs="0" name="UpdateDateSpecified" type="xs:boolean" />
+      <xs:element minOccurs="0" name="UpdateDateString" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="UpdateUser" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="UserId" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Value" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="TermsTermNotesNote" nillable="true" type="tns:TermsTermNotesNote" />
+  <xs:simpleType name="TermTypes">
+    <xs:restriction base="xs:string">
+      <xs:enumeration value="Legal" />
+      <xs:enumeration value="Marketing" />
+    </xs:restriction>
+  </xs:simpleType>
+  <xs:element name="TermTypes" nillable="true" type="tns:TermTypes" />
+  <xs:complexType name="CopyTermToOtherTerritoryRequest">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="includeLegal" type="xs:boolean" />
+      <xs:element minOccurs="0" name="includeMarketing" type="xs:boolean" />
+      <xs:element minOccurs="0" name="sourceTerritory" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="targetTerritories" nillable="true" type="tns:Countries" />
+      <xs:element minOccurs="0" name="upc" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="CopyTermToOtherTerritoryRequest" nillable="true" type="tns:CopyTermToOtherTerritoryRequest" />
+  <xs:complexType name="MarketingTermHistory">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Product" nillable="true" type="tns:ArrayOfProduct" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="MarketingTermHistory" nillable="true" type="tns:MarketingTermHistory" />
+  <xs:complexType name="ArrayOfProduct">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="Product" nillable="true" type="tns:Product" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfProduct" nillable="true" type="tns:ArrayOfProduct" />
+</xs:schema>
