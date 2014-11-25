@@ -219,6 +219,28 @@ namespace UnitTests
         }
 
         [TestMethod]
+        public void GenerateRestrictionsReportFor100Items()
+        {
+            var inputPath = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "../../Files/UPCs.txt");
+            var outputPath = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "../../Files/Results.txt");
+
+            var lines = UtilFile.GetTextLines(inputPath);
+            var response = GetRestrictionsAsync(lines.Take(100).ToList(), "US");
+
+            using (var sw = new StreamWriter(outputPath))
+            {
+                foreach (var item in response.Result)
+                {
+                    sw.WriteLine(item.Upc + "\t" + item.Restrictions);
+                }
+                sw.Flush();
+                sw.Close();
+            }
+
+        }
+
+
+        [TestMethod]
         public void GenerateFinalReport()
         {
             var inputPath = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "../../Files/UPCs.txt");

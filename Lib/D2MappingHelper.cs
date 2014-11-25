@@ -1640,6 +1640,11 @@ namespace Lib
             if (dd.PreviewRestriction != "")
                 list.Add(dd.PreviewRestriction);
 
+            foreach (var partner in dd.D2PartnerList)
+            {
+                list.Add("SSD " + partner.SalesStartDate.Value.ToString("M/d/yy") + " for: " + partner.Name + ".");
+            }
+
             if (list.Count > 0)
                 partnerRestrictions = string.Join(" ", list.ToArray());
 
