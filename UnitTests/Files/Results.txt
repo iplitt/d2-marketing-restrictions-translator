@@ -2,7 +2,7 @@
 00015707827720	Not found.
 00015707829120	Not found.
 00015707830454	No Album Only restriction. No preview for any partners.
-00015707831154	Restricted for STREAMING. No Album Only restriction. Exclusive in Perpetuity to iTunes_Video (US) from 4/16/2013. No preview for any partners.
+00015707831154	Restricted for STREAMING. No Album Only restriction. Exclusive in Perpetuity to iTunes_Video (US) from 4/16/2013. No preview for any partners. SSD 4/16/13 for: iTunes_Video (US).
 00015707831352	No Album Only restriction. No preview for any partners.
 00015707831451	No Album Only restriction. No preview for any partners.
 00015707831550	No Album Only restriction. No preview for any partners.
@@ -130,7 +130,7 @@
 00075679955869	No Album Only restriction. No preview for any partners.
 00075679956316	No Album Only restriction. No preview for any partners.
 00075679958464	No Album Only restriction. No preview for any partners.
-00075679961693	No Album Only restriction. Exclusive in Perpetuity to iTunes_Audio (US) from 2/18/2014. No preview for any partners.
+00075679961693	No Album Only restriction. Exclusive in Perpetuity to iTunes_Audio (US) from 2/18/2014. No preview for any partners. SSD 2/18/14 for: iTunes_Audio (US).
 00075679962980	No Album Only restriction. No preview for any partners.
 00075679964250	No Album Only restriction. No preview for any partners.
 00075679965417	No Album Only restriction. No preview for any partners.
@@ -365,7 +365,7 @@
 00790692080762	No Album Only restriction. Do not deliver to iTunes_Audio (US), ITunes_High Quality Audio (US), Spotify (US), and YouTube_Subscription (US). No preview for any partners.
 00790692080816	Not found.
 00790692080823	Not found.
-00790692080861	No Album Only restriction. Instant Gratification for: Spacecrafts. Do not deliver to Google Music (US), iTunes_Audio (US), Spotify (US), and YouTube_Subscription (US). Automatic Preorder for Amazon (US) on 9/9/2014. No preview for any partners.
+00790692080861	No Album Only restriction. Instant Gratification for: Spacecrafts. Do not deliver to Google Music (US), iTunes_Audio (US), Spotify (US), and YouTube_Subscription (US). Automatic Preorder for Amazon (US) on 9/9/2014. No preview for any partners. SSD 10/28/14 for: Pono_SD (US). SSD 10/28/14 for: zUMG_GDB_Test5 (US). SSD 10/28/14 for: New Media_DPP and Reporting (US). SSD 10/28/14 for: ArkivMusic (US). SSD 10/28/14 for: Neurotic Media_Walmart (US). SSD 10/28/14 for: Acoustic Sounds (US). SSD 10/28/14 for: UMG Global D2C (US). SSD 10/28/14 for: Digiplug Connected Model (US). SSD 10/28/14 for: ProStudioMasters (US). SSD 10/28/14 for: Nokia Mix Radio (US). SSD 10/28/14 for: Christianbook.com (US). SSD 10/28/14 for: Integra Interactive (US). SSD 10/28/14 for: Sprint Music Plus_Livewire (US). SSD 10/28/14 for: Metro PCS_Livewire (US). SSD 10/28/14 for: MidWest Tape (US). SSD 10/28/14 for: Nokia Music_US. SSD 10/28/14 for: Beatport (US). SSD 10/28/14 for: Virgin Mobile_Livewire. SSD 10/28/14 for: Mediadrome (US). SSD 10/28/14 for: Livewire Mobile (US). SSD 10/28/14 for: I Heart Radio (US). SSD 10/28/14 for: Choose Digital (US). SSD 10/28/14 for: Beyond Oblivion (US). SSD 10/28/14 for: ITunes_High Quality Audio (US). SSD 10/28/14 for: RaRa (US). SSD 10/28/14 for: Sony Qriocity (US). SSD 10/28/14 for: Apple_Next Day_Video US. SSD 10/28/14 for: PCM Technologies (US). SSD 10/28/14 for: Omnifone (US). SSD 10/28/14 for: Cricket Muve Music. SSD 10/28/14 for: Rdio_Download (US). SSD 10/28/14 for: Rdio Subscription (US). SSD 10/28/14 for: Blockbuster OnDemand_Video. SSD 10/28/14 for: HD Tracks (US). SSD 10/28/14 for: Topspin Media_Audio (US). SSD 10/28/14 for: Guvera (US). SSD 10/28/14 for: Amazon_Film and TV (US). SSD 10/28/14 for: AT&T Music (US). SSD 10/28/14 for: Catch Media (US). SSD 10/28/14 for: Alexander Street Press (US). SSD 10/28/14 for: Microsoft_Zune (US). SSD 10/28/14 for: 7Digital (US). SSD 10/28/14 for: Mix and Burn (US). SSD 10/28/14 for: LastFM (US). SSD 10/28/14 for: Vervelife (US). SSD 10/28/14 for: Neurotic Media (US). SSD 10/28/14 for: Classical Archives (US). SSD 10/28/14 for: Rhapsody (US). SSD 10/28/14 for: PlayNetwork_Audio (US). SSD 10/28/14 for: Instant Media Network (US). SSD 10/28/14 for: Slacker (US). SSD 10/28/14 for: Mediaport (US). SSD 10/28/14 for: AMI (US). SSD 10/28/14 for: MediaNet (US). SSD 10/28/14 for: TouchTunes (US). SSD 10/28/14 for: Muzak_Radio (US). SSD 10/28/14 for: Pono_HD (US). SSD 10/28/14 for: Tidal (US). SSD 10/28/14 for: Deezer (US).
 00790692080915	Not found.
 00790692080922	Not found.
 00790692080960	No Album Only restriction. Instant Gratification for: Selfless. Do not deliver to Google Music (US), iTunes_Audio (US), ITunes_High Quality Audio (US), and YouTube_Subscription (US). Automatic Preorder for Amazon (US) on 8/19/2014. No preview for any partners.
@@ -380,11 +380,11 @@
 00790692210664	No Album Only restriction. Do not deliver to iTunes_Audio (US), ITunes_High Quality Audio (US), Spotify (US), and YouTube_Subscription (US). No preview for any partners.
 00790692210763	No Album Only restriction. Do not deliver to iTunes_Audio (US), ITunes_High Quality Audio (US), Spotify (US), and YouTube_Subscription (US). No preview for any partners.
 00790692210862	No Album Only restriction. Instant Gratification for: The Last Garrison. Do not deliver to Google Music (US), iTunes_Audio (US), ITunes_High Quality Audio (US), Spotify (US), and YouTube_Subscription (US). Automatic Preorder for Amazon (US) on 10/27/2014. No preview for any partners.
-00790692211067	No Album Only restriction. Do not deliver to Amazon (US), iTunes_Audio (US), ITunes_High Quality Audio (US), Spotify (US), and YouTube_Subscription (US). No preview for any partners.
+00790692211067	No Album Only restriction. Do not deliver to Amazon (US), iTunes_Audio (US), ITunes_High Quality Audio (US), Spotify (US), and YouTube_Subscription (US). No preview for any partners. SSD 10/28/14 for: Tidal (US). SSD 10/28/14 for: Deezer (US). SSD 10/28/14 for: BOOMio (US). SSD 10/28/14 for: Pono_HD (US). SSD 10/28/14 for: Pono_SD (US). SSD 10/28/14 for: Official FM (US). SSD 10/28/14 for: zUMG_GDB_Test5 (US). SSD 10/28/14 for: New Media_DPP and Reporting (US). SSD 10/28/14 for: ArkivMusic (US). SSD 10/28/14 for: Neurotic Media_Walmart (US). SSD 10/28/14 for: Acoustic Sounds (US). SSD 10/28/14 for: UMG Global D2C (US). SSD 10/28/14 for: Digiplug Connected Model (US). SSD 10/28/14 for: ProStudioMasters (US). SSD 10/28/14 for: Nokia Mix Radio (US). SSD 10/28/14 for: Christianbook.com (US). SSD 10/28/14 for: Integra Interactive (US). SSD 10/28/14 for: Sprint Music Plus_Livewire (US). SSD 10/28/14 for: Metro PCS_Livewire (US). SSD 10/28/14 for: MidWest Tape (US). SSD 10/28/14 for: Nokia Music_US. SSD 10/28/14 for: Beatport (US). SSD 10/28/14 for: Virgin Mobile_Livewire. SSD 10/28/14 for: Mediadrome (US). SSD 10/28/14 for: Livewire Mobile (US). SSD 10/28/14 for: I Heart Radio (US). SSD 10/28/14 for: Choose Digital (US). SSD 10/28/14 for: Beyond Oblivion (US). SSD 10/28/14 for: RaRa (US). SSD 10/28/14 for: Sony Qriocity (US). SSD 10/28/14 for: Apple_Next Day_Video US. SSD 10/28/14 for: Google Music (US). SSD 10/28/14 for: PCM Technologies (US). SSD 10/28/14 for: Omnifone (US). SSD 10/28/14 for: Cricket Muve Music. SSD 10/28/14 for: Rdio_Download (US). SSD 10/28/14 for: Rdio Subscription (US). SSD 10/28/14 for: Blockbuster OnDemand_Video. SSD 10/28/14 for: HD Tracks (US). SSD 10/28/14 for: Topspin Media_Audio (US). SSD 10/28/14 for: Guvera (US). SSD 10/28/14 for: Amazon_Film and TV (US). SSD 10/28/14 for: AT&T Music (US). SSD 10/28/14 for: Catch Media (US). SSD 10/28/14 for: Alexander Street Press (US). SSD 10/28/14 for: Microsoft_Zune (US). SSD 10/28/14 for: 7Digital (US). SSD 10/28/14 for: Mix and Burn (US). SSD 10/28/14 for: LastFM (US). SSD 10/28/14 for: Vervelife (US). SSD 10/28/14 for: Neurotic Media (US). SSD 10/28/14 for: Classical Archives (US). SSD 10/28/14 for: Rhapsody (US). SSD 10/28/14 for: PlayNetwork_Audio (US). SSD 10/28/14 for: Instant Media Network (US). SSD 10/28/14 for: Slacker (US). SSD 10/28/14 for: Mediaport (US). SSD 10/28/14 for: AMI (US). SSD 10/28/14 for: MediaNet (US). SSD 10/28/14 for: TouchTunes (US). SSD 10/28/14 for: Muzak_Radio (US).
 00790692211760	No Album Only restriction. Do not deliver to iTunes_Audio (US), Spotify (US), and YouTube_Subscription (US). No preview for any partners. Embargo, U.S. only, TL5, excl. iTunes, YouTube, VEVO, and Spotify.
 00790692211869	No Album Only restriction. Exclusive in Perpetuity to Google Music (US) from 1/20/2015. Automatic Preorder for Google Music (US) on 10/27/2014. No preview for any partners.
 00790692212163	No Album Only restriction. Instant Gratification for: Warning Sign. Do not deliver to iTunes_Audio (US), Spotify (US), and YouTube_Subscription (US). Automatic Preorder for Amazon (US) and Google Music (US) on 11/10/2014. No preview for any partners.
-00790692212262	Unknown for COND. DL, DISC ON DEMAND, DOWNLOAD, JUKEBOX, KIOSK, MAKE YOUR OWN RINGTONE, and STREAMING. No Album Only restriction. No preview for any partners.
+00790692212262	No Album Only restriction. Do not deliver to Amazon (US), iTunes_Audio (US), Spotify (US), and YouTube_Subscription (US). No preview for any partners. U.S. only, embargo, excl. iTunes, Amazon, YouTube, Vevo, Spotify
 00790692213665	No Album Only restriction. Do not deliver to iTunes_Audio (US), Spotify (US), and YouTube_Subscription (US). No preview for any partners. U.S., embargo, excl. iTunes, YouTube, VEVO, and Spotify.
 00790692410064	No Album Only restriction. No preview for any partners.
 00790692410163	Unknown for COND. DL, DISC ON DEMAND, DOWNLOAD, JUKEBOX, KIOSK, MAKE YOUR OWN RINGTONE, and STREAMING. No Album Only restriction. No preview for any partners.
@@ -498,7 +498,7 @@
 00802097162520	Unknown for DISC ON DEMAND, DOWNLOAD, JUKEBOX, KIOSK, and STREAMING. No Album Only restriction. No preview for any partners.
 00802097162629	No Album Only restriction. No preview for any partners.
 00802097162728	No Album Only restriction. No preview for any partners.
-00802097162827	No Album Only restriction. Exclusive to VEVO.com_Video (US) from 12/11/2013 to 12/25/2013. No preview for any partners. To all digital partners. World.
+00802097162827	No Album Only restriction. Exclusive to VEVO.com_Video (US) from 12/11/2013 to 12/25/2013. No preview for any partners. SSD 12/11/13 for: VEVO.com_Video (US). To all digital partners. World.
 00802097162926	No Album Only restriction. No preview for any partners. To all digital partners. World.
 00802097163022	No Album Only restriction. No preview for any partners.
 00802097163121	No Album Only restriction. No preview for any partners.
@@ -694,7 +694,7 @@
 00802097184928	No Album Only restriction. No preview for any partners.
 00802097185024	No Album Only restriction. No preview for any partners.
 00802097185123	No Album Only restriction. No preview for any partners.
-00802097185222	No Album Only restriction. Exclusive to VEVO.com_Video (US) from 8/20/2014 to 9/2/2014. No preview for any partners.
+00802097185222	No Album Only restriction. Exclusive to VEVO.com_Video (US) from 8/20/2014 to 9/2/2014. No preview for any partners. SSD 8/20/14 for: VEVO.com_Video (US).
 00802097185321	No Album Only restriction. No preview for any partners.
 00802097185420	No Album Only restriction. No preview for any partners.
 00802097185727	No Album Only restriction. No preview for any partners.
@@ -960,7 +960,7 @@
 00803341438491	No Album Only restriction. Automatic Preorder for Amazon (US) and iTunes_Audio (US) on 8/5/2014. No preview for any partners.
 00803341444942	No Album Only restriction. Do not deliver to Amazon (US) and iTunes_Audio (US).
 00803341451452	No Album Only restriction. Instant Gratification for: The Devil's Whip. Automatic Preorder for Amazon (US) and iTunes_Audio (US) on 8/25/2014. Preview allowed only for Amazon (US) and iTunes_Audio (US).
-00811790020006	No Album Only restriction. Exclusive to Rdio Subscription (US) and Rdio_Download (US) from 12/10/2013 to 1/14/2014. No preview for any partners.
+00811790020006	No Album Only restriction. Exclusive to Rdio Subscription (US) and Rdio_Download (US) from 12/10/2013 to 1/14/2014. No preview for any partners. SSD 12/10/13 for: Rdio_Download (US). SSD 12/10/13 for: Rdio Subscription (US).
 00811790020020	No Album Only restriction. Instant Gratification for: Nothing To Lose But Your Head. Exclusive in Perpetuity to ITunes_High Quality Audio (US) from 2/4/2014. Automatic Preorder for ITunes_High Quality Audio (US) on 12/10/2013.
 00811790020044	Not found.
 00811790021805	Unknown for DISC ON DEMAND, DOWNLOAD, JUKEBOX, KIOSK, and STREAMING. No Album Only restriction. No preview for any partners.
@@ -1025,7 +1025,7 @@
 00857235002671	Not found.
 00857235002688	Not found.
 00857235002695	Not found.
-00857235002725	No Album Only restriction. Exclusive to Spotify (US) from 12/2/2014 to 1/2/2015. No preview for any partners.
+00857235002725	No Album Only restriction. Exclusive to Spotify (US) from 12/2/2014 to 1/2/2015. No preview for any partners. SSD 12/2/14 for: Spotify (US).
 00857235002732	No Album Only restriction. Do not deliver to iTunes_Audio (US) and ITunes_High Quality Audio (US). No preview for any partners.
 00857235002787	No Album Only restriction. Exclusive in Perpetuity to ITunes_High Quality Audio (US) from 12/9/2014. No preview for any partners.
 00857235002794	Unknown for COND. DL, DISC ON DEMAND, DOWNLOAD, JUKEBOX, KIOSK, MAKE YOUR OWN RINGTONE, and STREAMING. No Album Only restriction. No preview for any partners.
@@ -1269,7 +1269,7 @@
 00880882192952	Unknown for COND. DL, DISC ON DEMAND, DOWNLOAD, JUKEBOX, KIOSK, MAKE YOUR OWN RINGTONE, and STREAMING. No Album Only restriction. No preview for any partners.
 00880882193058	Unknown for COND. DL, DISC ON DEMAND, DOWNLOAD, JUKEBOX, KIOSK, MAKE YOUR OWN RINGTONE, and STREAMING. No Album Only restriction. No preview for any partners.
 00880882193157	No Album Only restriction. Exclusive in Perpetuity to Amazon (US) from 10/22/2013. Expires for Amazon (US) on 10/21/2013. No preview for any partners.
-00880882193553	No Album Only restriction. Exclusive in Perpetuity to Amazon (US), iTunes_Audio (US), Rdio Subscription (US), and Rdio_Download (US) from 10/29/2013. No preview for any partners.
+00880882193553	No Album Only restriction. Exclusive in Perpetuity to Amazon (US), iTunes_Audio (US), Rdio Subscription (US), and Rdio_Download (US) from 10/29/2013. No preview for any partners. SSD 10/29/13 for: Rdio_Download (US). SSD 10/29/13 for: Rdio Subscription (US). SSD 10/29/13 for: Amazon (US). SSD 10/29/13 for: iTunes_Audio (US).
 00880882193652	No Album Only restriction. Do not deliver to Amazon (US), iTunes_Audio (US), Rdio Subscription (US), and Rdio_Download (US). No preview for any partners.
 00880882193713	Not found.
 00880882193720	Not found.
@@ -1340,7 +1340,7 @@
 00880882200855	No Album Only restriction. Do not deliver to iTunes_Audio (US). No preview for any partners.
 00880882200954	No Album Only restriction. Expires for all partners on 4/1/2014. No preview for any partners.
 00880882201050	No Album Only restriction. Do not deliver to iTunes_Audio (US). Expires for all partners on 4/1/2014. No preview for any partners.
-00880882201159	No Album Only restriction. Exclusive in Perpetuity to VEVO.com_Video (US) from 2/13/2014. No preview for any partners.
+00880882201159	No Album Only restriction. Exclusive in Perpetuity to VEVO.com_Video (US) from 2/13/2014. No preview for any partners. SSD 2/13/14 for: VEVO.com_Video (US).
 00880882201258	No Album Only restriction. Do not deliver to Acoustic Sounds (US), Amazon (US), iTunes_Audio (US), Rdio Subscription (US), and Rdio_Download (US). No preview for any partners.
 00880882201357	No Album Only restriction. Instant Gratification for: Longer Than You've Been Alive. Exclusive in Perpetuity to Acoustic Sounds (US), Amazon (US), iTunes_Audio (US), Rdio Subscription (US), and Rdio_Download (US) from 4/29/2014. Automatic Preorder for iTunes_Audio (US) on 3/11/2014. No preview for any partners.
 00880882201456	No Album Only restriction. No preview for any partners.
@@ -1446,7 +1446,7 @@
 00880882212650	No Album Only restriction. No preview for any partners.
 00880882212858	Restricted for DOWNLOAD. No Album Only restriction. Exclusive in Perpetuity to Brightcove_Video (US) and VEVO.com_Video (US) from 7/11/2014. No preview for any partners.
 00880882212957	Restricted for DOWNLOAD. No Album Only restriction. Exclusive in Perpetuity to Brightcove_Video (US) and VEVO.com_Video (US) from 7/8/2014. No preview for any partners.
-00880882213053	Restricted for DOWNLOAD. No Album Only restriction. Exclusive in Perpetuity to Brightcove_Video (US) and VEVO.com_Video (US) from 7/4/2014. No preview for any partners.
+00880882213053	Restricted for DOWNLOAD. No Album Only restriction. Exclusive in Perpetuity to Brightcove_Video (US) and VEVO.com_Video (US) from 7/4/2014. No preview for any partners. SSD 7/4/14 for: VEVO.com_Video (US). SSD 7/4/14 for: Brightcove_Video (US).
 00880882213114	Not found.
 00880882213121	Not found.
 00880882213251	Album Only restriction for: Lermaninoff. Instant Gratification for: Pure Imagination. Do not deliver to iTunes_Audio (US). Automatic Preorder for Amazon (US) on 9/2/2014. No preview for any partners. US, ex-iTunes, 9/2 Amazon Preorder + IG: Pure Imagination
@@ -1457,7 +1457,7 @@
 00880882213756	No Album Only restriction. Exclusive in Perpetuity to VEVO.com_Video (US) from 7/25/2014. No preview for any partners.
 00880882213855	No Album Only restriction. Instant Gratification for: Your Song, I Believe, Easier, and Shadow. Exclusive in Perpetuity to iTunes_Audio (US) from 8/12/2014. Automatic Preorder for iTunes_Audio (US) on 8/5/2014. Expires for iTunes_Audio (US) on 10/13/2014. No preview for any partners.
 00880882213916	Not found.
-00880882214050	No Album Only restriction. Exclusive in Perpetuity to VEVO.com_Video (US) from 7/25/2014 and Brightcove_Video (US) from 7/29/2014. No preview for any partners.
+00880882214050	No Album Only restriction. Exclusive in Perpetuity to VEVO.com_Video (US) from 7/25/2014 and Brightcove_Video (US) from 7/29/2014. No preview for any partners. SSD 7/29/14 for: Brightcove_Video (US).
 00880882214159	No Album Only restriction. Do not deliver to iTunes_Audio (US). No preview for any partners.
 00880882214258	No Album Only restriction. No preview for any partners.
 00880882214456	Restricted for DOWNLOAD. No Album Only restriction. Exclusive in Perpetuity to VEVO.com_Video (US) from 8/8/2014. No preview for any partners.
@@ -1510,7 +1510,7 @@ TL8 preorder pricing
 00880882218850	No Album Only restriction. No preview for any partners. World excluding Brazil, Europe, Australia, New Zealand, Mexico
 00880882218959	No Album Only restriction. No preview for any partners. World ex Canada, Mexico, Europe, Australia, New Zealand
 00880882219123	Not found.
-00880882219253	No Album Only restriction. No preview for any partners.
+00880882219253	No Album Only restriction. No preview for any partners. SSD 9/5/14 for: GodTube_Video (US). SSD 9/5/14 for: New Media_DPP and Reporting (US). SSD 9/5/14 for: Qello_Video (US). SSD 9/5/14 for: Video_Mirriad (US). SSD 9/5/14 for: Revolt TV_Video (US). SSD 9/5/14 for: Zuus Media_Video (US). SSD 9/5/14 for: AMI_Video (US). SSD 9/5/14 for: VidZone_Video (US). SSD 9/5/14 for: ATT Uverse_Country Deep_Video (US). SSD 9/5/14 for: Video_DJCity. SSD 9/5/14 for: Choose Digital_Video (US). SSD 9/5/14 for: Video_Music Choice_P&D. SSD 9/5/14 for: Apple_Next Day_Video US. SSD 9/5/14 for: PlayNetwork_Video (US). SSD 9/5/14 for: MTV_UMG Exceptions_Video (US). SSD 9/5/14 for: Blockbuster OnDemand_Video. SSD 9/5/14 for: Amazon_Film and TV (US). SSD 9/5/14 for: VEVO.com_Video (US). SSD 9/5/14 for: Catch Media (US). SSD 9/5/14 for: Microsoft_Zune_Video (US). SSD 9/5/14 for: Stingray_Video (US). SSD 9/5/14 for: Brightcove_Video (US). SSD 9/5/14 for: MusicChoice_Video (US). SSD 9/5/14 for: MTV P&D_Video (US). SSD 9/5/14 for: ClearChannel_Video (US). SSD 9/5/14 for: iTunes_Video (US). SSD 9/5/14 for: Muzak_Radio (US).
 00880882219352	No Album Only restriction. Do not deliver to Amazon (US) and iTunes_Audio (US). Expires for all partners on 10/14/2014. No preview for any partners. US, ex-iTunes/Amazon, expires 10/14/14
 00880882219451	No Album Only restriction. No preview for any partners.
 00880882219550	No Album Only restriction. Exclusive in Perpetuity to VEVO.com_Video (US) from 9/9/2014. No preview for any partners.
@@ -1532,7 +1532,7 @@ TL8 preorder pricing
 00880882221355	Unknown for DISC ON DEMAND, DOWNLOAD, JUKEBOX, KIOSK, and STREAMING. No Album Only restriction. No preview for any partners.
 00880882221454	No Album Only restriction. Instant Gratification for: Shit Shots Count (Volume 1 Track 21). Exclusive in Perpetuity to ITunes_High Quality Audio (US) from 11/17/2014. Automatic Preorder for ITunes_High Quality Audio (US) on 10/14/2014. No preview for any partners. US, MFiT, 10/7 preorder + IG: Shit Shots Count (Live From the 40 Watt Club)
 00880882221553	No Album Only restriction. Exclusive in Perpetuity to Rdio Subscription (US), Rdio_Download (US), and Vervelife (US) from 11/17/2014. No preview for any partners. US, booklet partners
-00880882221652	No Album Only restriction. Do not deliver to iTunes_Audio (US), Rdio Subscription (US), Rdio_Download (US), and Vervelife (US). Automatic Preorder for Amazon (US) and Google Music (US) on 10/14/2014. No preview for any partners. US, non-booklet partners, 10/7 Google Play preorder
+00880882221652	No Album Only restriction. Do not deliver to iTunes_Audio (US), Rdio Subscription (US), Rdio_Download (US), and Vervelife (US). Automatic Preorder for Amazon (US) and Google Music (US) on 10/14/2014. No preview for any partners. SSD 11/18/14 for: Metro PCS_Livewire (US). SSD 11/18/14 for: Acoustic Sounds (US). SSD 11/18/14 for: Mediadrome (US). SSD 11/18/14 for: LastFM (US). SSD 11/18/14 for: Beatport (US). SSD 11/18/14 for: Amazon_Film and TV (US). SSD 11/18/14 for: Virgin Mobile_Livewire. SSD 11/18/14 for: Alexander Street Press (US). SSD 11/18/14 for: RaRa (US). SSD 11/18/14 for: Rhapsody (US). SSD 11/18/14 for: Mix and Burn (US). SSD 11/18/14 for: Apple_Next Day_Video US. SSD 11/18/14 for: Cricket Muve Music. SSD 11/18/14 for: Slacker (US). SSD 11/18/14 for: Omnifone (US). SSD 11/18/14 for: Catch Media (US). SSD 11/18/14 for: ProStudioMasters (US). SSD 11/18/14 for: Microsoft_Zune (US). SSD 11/18/14 for: Digiplug Connected Model (US). SSD 11/18/14 for: Instant Media Network (US). SSD 11/18/14 for: Beyond Oblivion (US). SSD 11/18/14 for: Christianbook.com (US). SSD 11/18/14 for: MediaNet (US). SSD 11/18/14 for: Nokia Music_US. SSD 11/18/14 for: Pono_SD (US). SSD 11/18/14 for: AT&T Music (US). SSD 11/18/14 for: ITunes_High Quality Audio (US). SSD 11/18/14 for: ArkivMusic (US). SSD 11/18/14 for: New Media_DPP and Reporting (US). SSD 11/18/14 for: Neurotic Media_Walmart (US). SSD 11/18/14 for: TouchTunes (US). SSD 11/18/14 for: Spotify (US). SSD 11/18/14 for: Muzak_Radio (US). SSD 11/18/14 for: Deezer (US). SSD 11/18/14 for: YouTube_Subscription (US). SSD 11/18/14 for: Tidal (US). SSD 11/18/14 for: Integra Interactive (US). SSD 11/18/14 for: UMG Global D2C (US). SSD 11/18/14 for: AMI (US). SSD 11/18/14 for: Livewire Mobile (US). SSD 11/18/14 for: PlayNetwork_Audio (US). SSD 11/18/14 for: Pono_HD (US). SSD 11/18/14 for: Sprint Music Plus_Livewire (US). SSD 11/18/14 for: Mediaport (US). SSD 11/18/14 for: Blockbuster OnDemand_Video. SSD 11/18/14 for: PCM Technologies (US). SSD 11/18/14 for: HD Tracks (US). SSD 11/18/14 for: I Heart Radio (US). SSD 11/18/14 for: Guvera (US). SSD 11/18/14 for: Choose Digital (US). SSD 11/18/14 for: Nokia Mix Radio (US). SSD 11/18/14 for: zUMG_GDB_Test5 (US). SSD 11/18/14 for: 7Digital (US). SSD 11/18/14 for: Topspin Media_Audio (US). SSD 11/18/14 for: MidWest Tape (US). SSD 11/18/14 for: Classical Archives (US). SSD 11/18/14 for: Sony Qriocity (US). SSD 11/18/14 for: Neurotic Media (US). US, non-booklet partners, 10/7 Google Play preorder
 00880882221751	Album Only restriction for: Black Ice Vérité. Instant Gratification for: Shit Shots Count (Volume 1 Track 21). Exclusive in Perpetuity to Amazon_Mixed Bundles from 11/18/2014. Automatic Preorder for Amazon_Mixed Bundles on 10/7/2014. No preview for any partners. US, Amazon XCL, 10/7 preorder + IG: Shit Shots Count (Live at the 40 Watt Club)
 00880882221850	No Album Only restriction. Do not deliver to Amazon (US) and iTunes_Audio (US). No preview for any partners.
 00880882222154	No Album Only restriction. Exclusive in Perpetuity to Spotify (US) from 10/27/2014. No preview for any partners.
@@ -1543,7 +1543,7 @@ TL8 preorder pricing
 00880882222956	No Album Only restriction. Exclusive in Perpetuity to VEVO.com_Video (US) from 10/29/2014. No preview for any partners.
 00880882223151	No Album Only restriction. No preview for any partners.
 00880882223250	No Album Only restriction. No preview for any partners. VEVO via Approved Manual upload.
-00880882223359	No Album Only restriction. Exclusive to VEVO.com_Video (US) from 10/22/2014 to 10/28/2014.
+00880882223359	No Album Only restriction. Exclusive to VEVO.com_Video (US) from 10/22/2014 to 10/28/2014. SSD 10/22/14 for: VEVO.com_Video (US).
 00880882223557	No Album Only restriction. Exclusive in Perpetuity to VEVO.com_Video (US) from 11/4/2014. No preview for any partners.
 00880882223854	No Album Only restriction. No preview for any partners.
 00880882223953	No Album Only restriction. Instant Gratification for: We Are Undone.  Instant Gratification starting 01/19/2015 for: Incidental. Do not deliver to iTunes_Audio (US) and ITunes_High Quality Audio (US). Automatic Preorder for Amazon (US) and Google Music (US) on 11/18/2014. No preview for any partners.
@@ -1559,76 +1559,76 @@ TL8 preorder pricing
 00884977625097	No Album Only restriction. No preview for any partners.
 00884977712612	No Album Only restriction. No preview for any partners.
 00884977722062	No Album Only restriction. No preview for any partners.
-00884977723922	No Album Only restriction. Exclusive in Perpetuity to Amazon (US) and iTunes_Audio (US) from 7/1/2013. No preview for any partners.
+00884977723922	No Album Only restriction. Exclusive in Perpetuity to Amazon (US) and iTunes_Audio (US) from 7/1/2013. No preview for any partners. SSD 7/1/13 for: Amazon (US). SSD 7/1/13 for: iTunes_Audio (US).
 00884977878752	No Album Only restriction.
 00884977885439	No Album Only restriction. No preview for any partners.
-00884977888171	No Album Only restriction. Exclusive in Perpetuity to iTunes_Audio (US) from 7/8/2013. No preview for any partners.
+00884977888171	No Album Only restriction. Exclusive in Perpetuity to iTunes_Audio (US) from 7/8/2013. No preview for any partners. SSD 7/8/13 for: iTunes_Audio (US).
 00884977888225	No Album Only restriction. Expires for Muzak_Radio (US) on 6/17/2013. No preview for any partners.
 00884977893519	No Album Only restriction. No preview for any partners.
 00884977919646	No Album Only restriction. No preview for any partners.
 00884977995282	No Album Only restriction. Expires for Muzak_Radio (US) on 6/17/2013. No preview for any partners.
 00886443001596	No Album Only restriction. No preview for any partners.
-00886443010956	Not Restricted/Unknown for DOWNLOAD, JUKEBOX, KIOSK, and STREAMING. No Album Only restriction. Exclusive in Perpetuity to iTunes_Audio (US) from 9/5/2013. No preview for any partners.
+00886443010956	Not Restricted/Unknown for DOWNLOAD, JUKEBOX, KIOSK, and STREAMING. No Album Only restriction. Exclusive in Perpetuity to iTunes_Audio (US) from 9/5/2013. No preview for any partners. SSD 9/5/13 for: iTunes_Audio (US).
 00886443014794	No Album Only restriction. No preview for any partners.
 00886443019133	No Album Only restriction. No preview for any partners.
-00886443019164	No Album Only restriction. Exclusive in Perpetuity to Amazon (US) and iTunes_Audio (US) from 7/1/2013. No preview for any partners.
+00886443019164	No Album Only restriction. Exclusive in Perpetuity to Amazon (US) and iTunes_Audio (US) from 7/1/2013. No preview for any partners. SSD 7/1/13 for: Amazon (US). SSD 7/1/13 for: iTunes_Audio (US).
 00886443038912	No Album Only restriction. No preview for any partners.
 00886443084117	No Album Only restriction. No preview for any partners.
-00886443086197	No Album Only restriction. Exclusive in Perpetuity to Amazon (US) and iTunes_Audio (US) from 7/1/2013. No preview for any partners.
+00886443086197	No Album Only restriction. Exclusive in Perpetuity to Amazon (US) and iTunes_Audio (US) from 7/1/2013. No preview for any partners. SSD 7/1/13 for: Amazon (US). SSD 7/1/13 for: iTunes_Audio (US).
 00886443092679	No Album Only restriction. No preview for any partners.
 00886443123441	No Album Only restriction. No preview for any partners.
-00886443147782	No Album Only restriction. Exclusive in Perpetuity to Amazon (US) and iTunes_Audio (US) from 7/1/2013. No preview for any partners.
-00886443150096	No Album Only restriction. Exclusive in Perpetuity to Amazon (US) and iTunes_Audio (US) from 7/1/2013. No preview for any partners.
-00886443151758	No Album Only restriction. Exclusive in Perpetuity to Amazon (US) and iTunes_Audio (US) from 7/1/2013. Expires for Amazon (US) and iTunes_Audio (US) on 11/25/2013. No preview for any partners.
+00886443147782	No Album Only restriction. Exclusive in Perpetuity to Amazon (US) and iTunes_Audio (US) from 7/1/2013. No preview for any partners. SSD 7/1/13 for: Amazon (US). SSD 7/1/13 for: iTunes_Audio (US).
+00886443150096	No Album Only restriction. Exclusive in Perpetuity to Amazon (US) and iTunes_Audio (US) from 7/1/2013. No preview for any partners. SSD 7/1/13 for: Amazon (US). SSD 7/1/13 for: iTunes_Audio (US).
+00886443151758	No Album Only restriction. Exclusive in Perpetuity to Amazon (US) and iTunes_Audio (US) from 7/1/2013. Expires for Amazon (US) and iTunes_Audio (US) on 11/25/2013. No preview for any partners. SSD 7/1/13 for: Amazon (US). SSD 7/1/13 for: iTunes_Audio (US).
 00886443155732	No Album Only restriction. No preview for any partners.
-00886443156463	No Album Only restriction. Exclusive in Perpetuity to Amazon (US) and iTunes_Audio (US) from 7/1/2013. No preview for any partners.
+00886443156463	No Album Only restriction. Exclusive in Perpetuity to Amazon (US) and iTunes_Audio (US) from 7/1/2013. No preview for any partners. SSD 7/1/13 for: iTunes_Audio (US). SSD 7/1/13 for: Amazon (US).
 00886443174771	No Album Only restriction. No preview for any partners.
 00886443174788	No Album Only restriction. No preview for any partners.
 00886443224971	No Album Only restriction. No preview for any partners.
-00886443263314	No Album Only restriction. Exclusive in Perpetuity to Amazon (US) and iTunes_Audio (US) from 7/1/2013. No preview for any partners.
-00886443306851	No Album Only restriction. Exclusive in Perpetuity to iTunes_Audio (US) from 7/1/2013. No preview for any partners.
-00886443308534	No Album Only restriction. Exclusive in Perpetuity to iTunes_Audio (US) from 7/30/2013. No preview for any partners.
-00886443323537	No Album Only restriction. Exclusive in Perpetuity to Amazon (US), iTunes_Audio (US), and Rdio_Download (US) from 7/1/2013. No preview for any partners.
+00886443263314	No Album Only restriction. Exclusive in Perpetuity to Amazon (US) and iTunes_Audio (US) from 7/1/2013. No preview for any partners. SSD 7/1/13 for: Amazon (US). SSD 7/1/13 for: iTunes_Audio (US).
+00886443306851	No Album Only restriction. Exclusive in Perpetuity to iTunes_Audio (US) from 7/1/2013. No preview for any partners. SSD 7/1/13 for: iTunes_Audio (US).
+00886443308534	No Album Only restriction. Exclusive in Perpetuity to iTunes_Audio (US) from 7/30/2013. No preview for any partners. SSD 7/30/13 for: iTunes_Audio (US).
+00886443323537	No Album Only restriction. Exclusive in Perpetuity to Amazon (US), iTunes_Audio (US), and Rdio_Download (US) from 7/1/2013. No preview for any partners. SSD 7/1/13 for: Rdio_Download (US). SSD 7/1/13 for: Amazon (US). SSD 7/1/13 for: iTunes_Audio (US).
 00886443343481	No Album Only restriction. No preview for any partners.
 00886443354920	No Album Only restriction. No preview for any partners.
-00886443356863	No Album Only restriction. Exclusive in Perpetuity to Amazon (US) and iTunes_Audio (US) from 7/1/2013. No preview for any partners.
+00886443356863	No Album Only restriction. Exclusive in Perpetuity to Amazon (US) and iTunes_Audio (US) from 7/1/2013. No preview for any partners. SSD 7/1/13 for: Amazon (US). SSD 7/1/13 for: iTunes_Audio (US).
 00886443359796	No Album Only restriction. No preview for any partners.
-00886443382145	No Album Only restriction. Exclusive in Perpetuity to Amazon (US) and iTunes_Audio (US) from 7/1/2013. No preview for any partners.
+00886443382145	No Album Only restriction. Exclusive in Perpetuity to Amazon (US) and iTunes_Audio (US) from 7/1/2013. No preview for any partners. SSD 7/1/13 for: Amazon (US). SSD 7/1/13 for: iTunes_Audio (US).
 00886443441897	No Album Only restriction. No preview for any partners.
 00886443502901	No Album Only restriction. No preview for any partners.
-00886443503434	No Album Only restriction. Exclusive in Perpetuity to Amazon (US) and iTunes_Audio (US) from 7/1/2013. No preview for any partners.
+00886443503434	No Album Only restriction. Exclusive in Perpetuity to Amazon (US) and iTunes_Audio (US) from 7/1/2013. No preview for any partners. SSD 7/1/13 for: Amazon (US). SSD 7/1/13 for: iTunes_Audio (US).
 00886443503472	No Album Only restriction. No preview for any partners.
-00886443504721	No Album Only restriction. Exclusive in Perpetuity to Amazon (US) and iTunes_Audio (US) from 7/1/2013. No preview for any partners.
+00886443504721	No Album Only restriction. Exclusive in Perpetuity to Amazon (US) and iTunes_Audio (US) from 7/1/2013. No preview for any partners. SSD 7/1/13 for: Amazon (US). SSD 7/1/13 for: iTunes_Audio (US).
 00886443534926	No Album Only restriction. No preview for any partners.
 00886443561816	No Album Only restriction. No preview for any partners.
-00886443564442	No Album Only restriction. Exclusive in Perpetuity to Amazon (US) and iTunes_Audio (US) from 7/1/2013. No preview for any partners.
+00886443564442	No Album Only restriction. Exclusive in Perpetuity to Amazon (US) and iTunes_Audio (US) from 7/1/2013. No preview for any partners. SSD 7/1/13 for: Amazon (US). SSD 7/1/13 for: iTunes_Audio (US).
 00886443575400	No Album Only restriction. No preview for any partners.
-00886443593343	No Album Only restriction. Exclusive in Perpetuity to Amazon (US) and iTunes_Audio (US) from 7/1/2013. No preview for any partners.
-00886443596481	No Album Only restriction. Exclusive in Perpetuity to Amazon (US) and iTunes_Audio (US) from 7/1/2013. No preview for any partners.
-00886443625990	No Album Only restriction. Exclusive in Perpetuity to Amazon (US) and iTunes_Audio (US) from 7/1/2013. No preview for any partners.
-00886443633476	No Album Only restriction. Exclusive in Perpetuity to Spotify (US) from 7/1/2013. Expires for Spotify (US) on 10/31/2013. No preview for any partners.
-00886443643451	No Album Only restriction. Exclusive in Perpetuity to Amazon (US) and iTunes_Audio (US) from 7/1/2013. No preview for any partners.
+00886443593343	No Album Only restriction. Exclusive in Perpetuity to Amazon (US) and iTunes_Audio (US) from 7/1/2013. No preview for any partners. SSD 7/1/13 for: Amazon (US). SSD 7/1/13 for: iTunes_Audio (US).
+00886443596481	No Album Only restriction. Exclusive in Perpetuity to Amazon (US) and iTunes_Audio (US) from 7/1/2013. No preview for any partners. SSD 7/1/13 for: Amazon (US). SSD 7/1/13 for: iTunes_Audio (US).
+00886443625990	No Album Only restriction. Exclusive in Perpetuity to Amazon (US) and iTunes_Audio (US) from 7/1/2013. No preview for any partners. SSD 7/1/13 for: Amazon (US). SSD 7/1/13 for: iTunes_Audio (US).
+00886443633476	No Album Only restriction. Exclusive in Perpetuity to Spotify (US) from 7/1/2013. Expires for Spotify (US) on 10/31/2013. No preview for any partners. SSD 7/1/13 for: Spotify (US).
+00886443643451	No Album Only restriction. Exclusive in Perpetuity to Amazon (US) and iTunes_Audio (US) from 7/1/2013. No preview for any partners. SSD 7/1/13 for: Amazon (US). SSD 7/1/13 for: iTunes_Audio (US).
 00886443659520	No Album Only restriction. No preview for any partners.
-00886443689688	No Album Only restriction. Exclusive in Perpetuity to iTunes_Audio (US) from 7/1/2013. No preview for any partners.
-00886443718975	No Album Only restriction. Exclusive in Perpetuity to ITunes_High Quality Audio (US) from 7/30/2013. No preview for any partners.
+00886443689688	No Album Only restriction. Exclusive in Perpetuity to iTunes_Audio (US) from 7/1/2013. No preview for any partners. SSD 7/1/13 for: iTunes_Audio (US).
+00886443718975	No Album Only restriction. Exclusive in Perpetuity to ITunes_High Quality Audio (US) from 7/30/2013. No preview for any partners. SSD 7/30/13 for: ITunes_High Quality Audio (US).
 00886443729506	No Album Only restriction. No preview for any partners.
-00886443755505	No Album Only restriction. Exclusive in Perpetuity to iTunes_Audio (US) from 7/1/2013. No preview for any partners.
-00886443776623	No Album Only restriction. Exclusive in Perpetuity to Amazon (US) and iTunes_Audio (US) from 7/1/2013. No preview for any partners.
-00886443809697	No Album Only restriction. Exclusive in Perpetuity to Amazon (US) and iTunes_Audio (US) from 7/1/2013. No preview for any partners.
-00886443832800	No Album Only restriction. Exclusive in Perpetuity to ITunes_High Quality Audio (US) from 7/1/2013. No preview for any partners.
-00886443835146	No Album Only restriction. Exclusive in Perpetuity to Spotify (US) from 7/1/2013. No preview for any partners.
-00886443837379	No Album Only restriction. Exclusive in Perpetuity to Spotify (US) from 7/1/2013. No preview for any partners.
-00886443839960	No Album Only restriction. Exclusive in Perpetuity to iTunes_Audio (US) from 7/1/2013. No preview for any partners.
-00886443843042	No Album Only restriction. Exclusive in Perpetuity to iTunes_Audio (US) from 7/1/2013. No preview for any partners.
-00886443861930	No Album Only restriction. Exclusive in Perpetuity to ITunes_High Quality Audio (US) from 7/1/2013. No preview for any partners.
-00886443861947	No Album Only restriction. Exclusive in Perpetuity to Amazon (US) and iTunes_Audio (US) from 7/1/2013. No preview for any partners.
-00886443871380	No Album Only restriction. Exclusive in Perpetuity to Spotify (US) from 7/1/2013. No preview for any partners.
-00886443889798	No Album Only restriction. Exclusive in Perpetuity to Amazon (US) and iTunes_Audio (US) from 7/1/2013. No preview for any partners.
-00886443940345	No Album Only restriction. Exclusive in Perpetuity to Rdio Subscription (US) and Rdio_Download (US) from 7/1/2013. No preview for any partners.
-00886443953673	No tracks can be sold individually. Exclusive in Perpetuity to Amazon (US) and iTunes_Audio (US) from 7/1/2013. No preview for any partners.
+00886443755505	No Album Only restriction. Exclusive in Perpetuity to iTunes_Audio (US) from 7/1/2013. No preview for any partners. SSD 7/1/13 for: iTunes_Audio (US).
+00886443776623	No Album Only restriction. Exclusive in Perpetuity to Amazon (US) and iTunes_Audio (US) from 7/1/2013. No preview for any partners. SSD 7/1/13 for: Amazon (US). SSD 7/1/13 for: iTunes_Audio (US).
+00886443809697	No Album Only restriction. Exclusive in Perpetuity to Amazon (US) and iTunes_Audio (US) from 7/1/2013. No preview for any partners. SSD 7/1/13 for: Amazon (US). SSD 7/1/13 for: iTunes_Audio (US).
+00886443832800	No Album Only restriction. Exclusive in Perpetuity to ITunes_High Quality Audio (US) from 7/1/2013. No preview for any partners. SSD 7/1/13 for: ITunes_High Quality Audio (US).
+00886443835146	No Album Only restriction. Exclusive in Perpetuity to Spotify (US) from 7/1/2013. No preview for any partners. SSD 7/1/13 for: Spotify (US).
+00886443837379	No Album Only restriction. Exclusive in Perpetuity to Spotify (US) from 7/1/2013. No preview for any partners. SSD 7/1/13 for: Spotify (US).
+00886443839960	No Album Only restriction. Exclusive in Perpetuity to iTunes_Audio (US) from 7/1/2013. No preview for any partners. SSD 7/1/13 for: ITunes_High Quality Audio (US). SSD 7/1/13 for: iTunes_Audio (US).
+00886443843042	No Album Only restriction. Exclusive in Perpetuity to iTunes_Audio (US) from 7/1/2013. No preview for any partners. SSD 7/1/13 for: iTunes_Audio (US).
+00886443861930	No Album Only restriction. Exclusive in Perpetuity to ITunes_High Quality Audio (US) from 7/1/2013. No preview for any partners. SSD 7/1/13 for: ITunes_High Quality Audio (US).
+00886443861947	No Album Only restriction. Exclusive in Perpetuity to Amazon (US) and iTunes_Audio (US) from 7/1/2013. No preview for any partners. SSD 7/1/13 for: Amazon (US). SSD 7/1/13 for: iTunes_Audio (US).
+00886443871380	No Album Only restriction. Exclusive in Perpetuity to Spotify (US) from 7/1/2013. No preview for any partners. SSD 7/1/13 for: Spotify (US).
+00886443889798	No Album Only restriction. Exclusive in Perpetuity to Amazon (US) and iTunes_Audio (US) from 7/1/2013. No preview for any partners. SSD 7/1/13 for: Amazon (US). SSD 7/1/13 for: iTunes_Audio (US).
+00886443940345	No Album Only restriction. Exclusive in Perpetuity to Rdio Subscription (US) and Rdio_Download (US) from 7/1/2013. No preview for any partners. SSD 7/1/13 for: Rdio_Download (US). SSD 7/1/13 for: Rdio Subscription (US).
+00886443953673	No tracks can be sold individually. Exclusive in Perpetuity to Amazon (US) and iTunes_Audio (US) from 7/1/2013. No preview for any partners. SSD 7/1/13 for: Amazon (US). SSD 7/1/13 for: iTunes_Audio (US).
 00886443971448	No Album Only restriction. No preview for any partners.
 00886443971455	No Album Only restriction. No preview for any partners.
-00886443975040	No Album Only restriction. Exclusive in Perpetuity to Spotify (US) from 7/1/2013. Expires for Spotify (US) on 10/16/2013. No preview for any partners.
+00886443975040	No Album Only restriction. Exclusive in Perpetuity to Spotify (US) from 7/1/2013. Expires for Spotify (US) on 10/16/2013. No preview for any partners. SSD 7/1/13 for: Spotify (US).
 00886443983380	No Album Only restriction. No preview for any partners.
 05050954415981	Unknown for COND. DL, DISC ON DEMAND, DOWNLOAD, JUKEBOX, KIOSK, MAKE YOUR OWN RINGTONE, and STREAMING. No Album Only restriction. No preview for any partners.
 05053723003013	Not found.
