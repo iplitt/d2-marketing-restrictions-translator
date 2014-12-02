@@ -60,7 +60,6 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
-    <None Include="app.config" />
     <None Include="Files\Caroline_CDL_Release_Details.xlsx" />
   </ItemGroup>
   <ItemGroup>
