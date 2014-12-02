@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://schemas.datacontract.org/2004/07/UMGI.GRCS.BusinessEntities.Entities.NotificationEntities" elementFormDefault="qualified" targetNamespace="http://schemas.datacontract.org/2004/07/UMGI.GRCS.BusinessEntities.Entities.NotificationEntities" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:import schemaLocation="http://10.253.50.221:61231/Release/Release.svc?xsd=xsd4" namespace="http://schemas.datacontract.org/2004/07/UMGI.GRCS.BusinessEntities.Entities.BaseEntities" />
+  <xs:import schemaLocation="http://10.253.50.221:61231/Release/Release.svc?xsd=xsd1" namespace="http://schemas.microsoft.com/2003/10/Serialization/" />
+  <xs:complexType name="NotificationMessage">
+    <xs:complexContent mixed="false">
+      <xs:extension xmlns:q1="http://schemas.datacontract.org/2004/07/UMGI.GRCS.BusinessEntities.Entities.BaseEntities" base="q1:EntityInformation">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="ExternalUniqueId" type="xs:long" />
+          <xs:element minOccurs="0" name="NotificationType" type="tns:NotificationType" />
+          <xs:element minOccurs="0" name="NotificationXml" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="ReceivedTimeStamp" type="xs:dateTime" />
+          <xs:element minOccurs="0" name="UniqueId" type="xs:long" />
+        </xs:sequence>
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="NotificationMessage" nillable="true" type="tns:NotificationMessage" />
+  <xs:simpleType name="NotificationType">
+    <xs:restriction base="xs:string">
+      <xs:enumeration value="Invalid" />
+      <xs:enumeration value="R2Project" />
+      <xs:enumeration value="R2Release" />
+      <xs:enumeration value="R2ReleaseLocal" />
+      <xs:enumeration value="R2Resource" />
+      <xs:enumeration value="R2ResourceLocal" />
+      <xs:enumeration value="R2PcNoticeCompany" />
+      <xs:enumeration value="Gta" />
+      <xs:enumeration value="R2Artist" />
+      <xs:enumeration value="Cprs" />
+      <xs:enumeration value="Gdrs" />
+      <xs:enumeration value="MediaPortal" />
+      <xs:enumeration value="CprsPhysicalRelease" />
+      <xs:enumeration value="DSchedDigitalRelease" />
+      <xs:enumeration value="MediaPortalMigration" />
+      <xs:enumeration value="Contractrights">
+        <xs:annotation>
+          <xs:appinfo>
+            <EnumerationValue xmlns="http://schemas.microsoft.com/2003/10/Serialization/">34</EnumerationValue>
+          </xs:appinfo>
+        </xs:annotation>
+      </xs:enumeration>
+      <xs:enumeration value="Projectrights">
+        <xs:annotation>
+          <xs:appinfo>
+            <EnumerationValue xmlns="http://schemas.microsoft.com/2003/10/Serialization/">38</EnumerationValue>
+          </xs:appinfo>
+        </xs:annotation>
+      </xs:enumeration>
+      <xs:enumeration value="Resourcerights">
+        <xs:annotation>
+          <xs:appinfo>
+            <EnumerationValue xmlns="http://schemas.microsoft.com/2003/10/Serialization/">36</EnumerationValue>
+          </xs:appinfo>
+        </xs:annotation>
+      </xs:enumeration>
+      <xs:enumeration value="Releaserights">
+        <xs:annotation>
+          <xs:appinfo>
+            <EnumerationValue xmlns="http://schemas.microsoft.com/2003/10/Serialization/">35</EnumerationValue>
+          </xs:appinfo>
+        </xs:annotation>
+      </xs:enumeration>
+      <xs:enumeration value="Trackrights">
+        <xs:annotation>
+          <xs:appinfo>
+            <EnumerationValue xmlns="http://schemas.microsoft.com/2003/10/Serialization/">37</EnumerationValue>
+          </xs:appinfo>
+        </xs:annotation>
+      </xs:enumeration>
+      <xs:enumeration value="Artistrights">
+        <xs:annotation>
+          <xs:appinfo>
+            <EnumerationValue xmlns="http://schemas.microsoft.com/2003/10/Serialization/">107</EnumerationValue>
+          </xs:appinfo>
+        </xs:annotation>
+      </xs:enumeration>
+      <xs:enumeration value="ClearanceProject">
+        <xs:annotation>
+          <xs:appinfo>
+            <EnumerationValue xmlns="http://schemas.microsoft.com/2003/10/Serialization/">201</EnumerationValue>
+          </xs:appinfo>
+        </xs:annotation>
+      </xs:enumeration>
+      <xs:enumeration value="ClearanceRelease">
+        <xs:annotation>
+          <xs:appinfo>
+            <EnumerationValue xmlns="http://schemas.microsoft.com/2003/10/Serialization/">202</EnumerationValue>
+          </xs:appinfo>
+        </xs:annotation>
+      </xs:enumeration>
+      <xs:enumeration value="ClearanceResource">
+        <xs:annotation>
+          <xs:appinfo>
+            <EnumerationValue xmlns="http://schemas.microsoft.com/2003/10/Serialization/">203</EnumerationValue>
+          </xs:appinfo>
+        </xs:annotation>
+      </xs:enumeration>
+      <xs:enumeration value="EMIContractsRights">
+        <xs:annotation>
+          <xs:appinfo>
+            <EnumerationValue xmlns="http://schemas.microsoft.com/2003/10/Serialization/">204</EnumerationValue>
+          </xs:appinfo>
+        </xs:annotation>
+      </xs:enumeration>
+    </xs:restriction>
+  </xs:simpleType>
+  <xs:element name="NotificationType" nillable="true" type="tns:NotificationType" />
+  <xs:complexType name="NotificationProcessingResult">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Code" type="tns:NotificationResultCode" />
+      <xs:element minOccurs="0" name="ContractID" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="CreatedDate" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Details" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="EmiArtist" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Exception" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="ExceptionforSQL" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="GrcsArtist" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="InsertedContractID" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="MessageType" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="UniqueId" type="xs:long" />
+      <xs:element minOccurs="0" name="new_updateContract" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="warning" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="NotificationProcessingResult" nillable="true" type="tns:NotificationProcessingResult" />
+  <xs:simpleType name="NotificationResultCode">
+    <xs:restriction base="xs:string">
+      <xs:enumeration value="Success" />
+      <xs:enumeration value="SeriveUnAvailable" />
+      <xs:enumeration value="DatabaseUnAvailable" />
+      <xs:enumeration value="DatabaseIntegrityError" />
+      <xs:enumeration value="XmlSerializationError" />
+      <xs:enumeration value="InsufficientMemoryError" />
+      <xs:enumeration value="OtherFailures" />
+      <xs:enumeration value="ArtistMisMatchWithR2" />
+      <xs:enumeration value="ArtistMisMatchWithGRS" />
+      <xs:enumeration value="ContractIDNull" />
+      <xs:enumeration value="AdminCompanyMismatchwithGRS" />
+      <xs:enumeration value="AdminCompanyMismatchwitR2" />
+      <xs:enumeration value="SigningCompanyMismatchwitR2" />
+      <xs:enumeration value="SigningCompanyMismatchwitGRS" />
+      <xs:enumeration value="PCompanyMismatchwitR2" />
+      <xs:enumeration value="PCompanyCompanyMismatchwitGRS" />
+      <xs:enumeration value="ConsentPeriodType" />
+      <xs:enumeration value="IsRestricttypeConsent" />
+      <xs:enumeration value="IsRestricttype" />
+      <xs:enumeration value="IsRestrictfalse" />
+      <xs:enumeration value="IsTerritory" />
+    </xs:restriction>
+  </xs:simpleType>
+  <xs:element name="NotificationResultCode" nillable="true" type="tns:NotificationResultCode" />
+</xs:schema>

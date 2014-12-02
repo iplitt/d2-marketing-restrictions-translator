@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://schemas.datacontract.org/2004/07/UMGI.GRCS.BusinessEntities.Entities.ReleaseEntities" elementFormDefault="qualified" targetNamespace="http://schemas.datacontract.org/2004/07/UMGI.GRCS.BusinessEntities.Entities.ReleaseEntities" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:import schemaLocation="http://10.253.50.221:61231/Release/Release.svc?xsd=xsd3" namespace="http://schemas.datacontract.org/2004/07/UMGI.GRCS.BusinessEntities.Entities.RepertoireEntities" />
+  <xs:import schemaLocation="http://10.253.50.221:61231/Release/Release.svc?xsd=xsd4" namespace="http://schemas.datacontract.org/2004/07/UMGI.GRCS.BusinessEntities.Entities.BaseEntities" />
+  <xs:import schemaLocation="http://10.253.50.221:61231/Release/Release.svc?xsd=xsd7" namespace="http://schemas.datacontract.org/2004/07/UMGI.GRCS.BusinessEntities.Entities.ProjectEntities" />
+  <xs:import schemaLocation="http://10.253.50.221:61231/Release/Release.svc?xsd=xsd8" namespace="http://schemas.datacontract.org/2004/07/UMGI.GRCS.BusinessEntities.Entities.R2Entities" />
+  <xs:import schemaLocation="http://10.253.50.221:61231/Release/Release.svc?xsd=xsd5" namespace="http://schemas.datacontract.org/2004/07/UMGI.GRCS.BusinessEntities.Entities.ContractEntities" />
+  <xs:complexType name="ReleaseSearchCriteria">
+    <xs:complexContent mixed="false">
+      <xs:extension xmlns:q1="http://schemas.datacontract.org/2004/07/UMGI.GRCS.BusinessEntities.Entities.RepertoireEntities" base="q1:RepertoireSearchCriteriaBase">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="ConfigurationGroupCode" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="ConfigurationId" type="xs:long" />
+          <xs:element minOccurs="0" name="IsArtistExactSearch" type="xs:boolean" />
+          <xs:element minOccurs="0" name="ReleaseTitle" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="RowIndex" type="xs:long" />
+          <xs:element minOccurs="0" name="Upc" nillable="true" type="xs:string" />
+        </xs:sequence>
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="ReleaseSearchCriteria" nillable="true" type="tns:ReleaseSearchCriteria" />
+  <xs:complexType name="ReleaseSearchResult">
+    <xs:complexContent mixed="false">
+      <xs:extension xmlns:q2="http://schemas.datacontract.org/2004/07/UMGI.GRCS.BusinessEntities.Entities.BaseEntities" base="q2:EntityInformation">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="ColumnIdentifier" type="xs:long" />
+          <xs:element minOccurs="0" name="Labels" nillable="true" type="q2:ArrayOfClearanceMasterData" />
+          <xs:element minOccurs="0" name="MusicClassTypes" nillable="true" type="q2:ArrayOfClearanceMasterData" />
+          <xs:element minOccurs="0" name="R2RowsRetrieved" type="xs:long" />
+          <xs:element minOccurs="0" name="RowCount" type="xs:int" />
+          <xs:element minOccurs="0" name="RowIndex" type="xs:long" />
+          <xs:element minOccurs="0" name="Values" nillable="true" type="tns:ArrayOfReleaseInfo" />
+        </xs:sequence>
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="ReleaseSearchResult" nillable="true" type="tns:ReleaseSearchResult" />
+  <xs:complexType name="ArrayOfReleaseInfo">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="ReleaseInfo" nillable="true" type="tns:ReleaseInfo" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfReleaseInfo" nillable="true" type="tns:ArrayOfReleaseInfo" />
+  <xs:complexType name="ReleaseInfo">
+    <xs:complexContent mixed="false">
+      <xs:extension xmlns:q3="http://schemas.datacontract.org/2004/07/UMGI.GRCS.BusinessEntities.Entities.RepertoireEntities" base="q3:RepertoireSearchResultsBase">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="AssignedType" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="CatalogueNo" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="ComponentCount" type="xs:long" />
+          <xs:element minOccurs="0" name="Configuration" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="ConfigurationDisplay" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="DataAdminCompany" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="DataAdminCompanyId" type="xs:long" />
+          <xs:element minOccurs="0" name="DivisionId" type="xs:long" />
+          <xs:element minOccurs="0" name="EarilerReleaseDate" nillable="true" type="xs:dateTime" />
+          <xs:element minOccurs="0" name="Grid" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="Id" type="xs:long" />
+          <xs:element minOccurs="0" name="IsAlreadyLinked" type="xs:boolean" />
+          <xs:element minOccurs="0" name="IsGcsRelease" nillable="true" type="xs:boolean" />
+          <xs:element minOccurs="0" name="IsMac" nillable="true" type="xs:boolean" />
+          <xs:element minOccurs="0" name="IsMediaPortal" type="xs:boolean" />
+          <xs:element minOccurs="0" name="IsReleaseExists" nillable="true" type="xs:boolean" />
+          <xs:element minOccurs="0" name="IsTrackExists" nillable="true" type="xs:boolean" />
+          <xs:element minOccurs="0" name="IsUpcManual" nillable="true" type="xs:boolean" />
+          <xs:element minOccurs="0" name="Issuer" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="LabelId" type="xs:long" />
+          <xs:element minOccurs="0" name="LinkContractDetails" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="LinkedContractDetails" nillable="true" type="tns:ArrayOfLinkedContractDetails" />
+          <xs:element minOccurs="0" name="MobileArtist" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="MusicClassType" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="OwnedProjectId" type="xs:long" />
+          <xs:element minOccurs="0" name="PCompanyId" type="xs:long" />
+          <xs:element minOccurs="0" name="PCompanyName" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="PLicensingExtension" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="PYear" nillable="true" type="xs:int" />
+          <xs:element minOccurs="0" name="PackageIndicator" nillable="true" type="xs:string" />
+          <xs:element xmlns:q4="http://schemas.datacontract.org/2004/07/UMGI.GRCS.BusinessEntities.Entities.ProjectEntities" minOccurs="0" name="PackageInfo" nillable="true" type="q4:ArrayOfPackageInfo" />
+          <xs:element minOccurs="0" name="R2ReleaseId" type="xs:long" />
+          <xs:element minOccurs="0" name="R2Status" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="R2StatusType" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="ReleaseId" type="xs:long" />
+          <xs:element xmlns:q5="http://schemas.datacontract.org/2004/07/UMGI.GRCS.BusinessEntities.Entities.R2Entities" minOccurs="0" name="ReleaseResources" nillable="true" type="q5:ArrayOfR2ReleaseResources" />
+          <xs:element minOccurs="0" name="ReleaseTitle" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="ReleaseType" type="tns:ReleaseType" />
+          <xs:element minOccurs="0" name="ScopeType" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="Sequence" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="SoundtrackIndicator" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="TrackCount" nillable="true" type="xs:long" />
+          <xs:element xmlns:q6="http://schemas.datacontract.org/2004/07/UMGI.GRCS.BusinessEntities.Entities.ProjectEntities" minOccurs="0" name="TrackInfo" nillable="true" type="q6:ArrayOfTrackInfo" />
+          <xs:element minOccurs="0" name="Upc" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="VersionTitle" nillable="true" type="xs:string" />
+        </xs:sequence>
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="ReleaseInfo" nillable="true" type="tns:ReleaseInfo" />
+  <xs:complexType name="ArrayOfLinkedContractDetails">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="LinkedContractDetails" nillable="true" type="tns:LinkedContractDetails" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfLinkedContractDetails" nillable="true" type="tns:ArrayOfLinkedContractDetails" />
+  <xs:complexType name="LinkedContractDetails">
+    <xs:complexContent mixed="false">
+      <xs:extension xmlns:q7="http://schemas.datacontract.org/2004/07/UMGI.GRCS.BusinessEntities.Entities.BaseEntities" base="q7:EntityInformation">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="ArtistName" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="ClearanceCompanyCountry" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="ClearanceCompanyCountryId" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="CommencementDate" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="ContractDescription" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="ContractId" nillable="true" type="xs:long" />
+          <xs:element minOccurs="0" name="ContractingParty" nillable="true" type="xs:string" />
+        </xs:sequence>
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="LinkedContractDetails" nillable="true" type="tns:LinkedContractDetails" />
+  <xs:simpleType name="ReleaseType">
+    <xs:restriction base="xs:string">
+      <xs:enumeration value="Digital" />
+      <xs:enumeration value="Physical" />
+    </xs:restriction>
+  </xs:simpleType>
+  <xs:element name="ReleaseType" nillable="true" type="tns:ReleaseType" />
+  <xs:complexType name="LinkedInfo">
+    <xs:complexContent mixed="false">
+      <xs:extension xmlns:q8="http://schemas.datacontract.org/2004/07/UMGI.GRCS.BusinessEntities.Entities.BaseEntities" base="q8:EntityInformation">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="ArtistName" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="ClearanceAdminCompany" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="ClearanceAdminCompanyId" type="xs:long" />
+          <xs:element minOccurs="0" name="Code" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="ContractId" type="xs:long" />
+          <xs:element minOccurs="0" name="ContractingParty" nillable="true" type="xs:string" />
+          <xs:element xmlns:q9="http://schemas.datacontract.org/2004/07/UMGI.GRCS.BusinessEntities.Entities.ContractEntities" minOccurs="0" name="FilterCriteria" nillable="true" type="q9:FilterFields" />
+          <xs:element minOccurs="0" name="ISRC" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="Id" type="xs:long" />
+          <xs:element minOccurs="0" name="Isrelease" type="xs:boolean" />
+          <xs:element minOccurs="0" name="ItemType" nillable="true" type="xs:long" />
+          <xs:element minOccurs="0" name="NoofRetry" nillable="true" type="xs:long" />
+          <xs:element minOccurs="0" name="RepertoireType" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="StatusType" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="UPC" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="UserMailId" nillable="true" type="xs:string" />
+        </xs:sequence>
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="LinkedInfo" nillable="true" type="tns:LinkedInfo" />
+  <xs:complexType name="ArrayOfLinkedInfo">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="LinkedInfo" nillable="true" type="tns:LinkedInfo" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfLinkedInfo" nillable="true" type="tns:ArrayOfLinkedInfo" />
+  <xs:complexType name="ConfigurationInfo">
+    <xs:sequence>
+      <xs:element xmlns:q10="http://schemas.datacontract.org/2004/07/UMGI.GRCS.BusinessEntities.Entities.BaseEntities" minOccurs="0" name="ConfigurationGroup" nillable="true" type="q10:ArrayOfBaseConfigurationItemOfstring" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ConfigurationInfo" nillable="true" type="tns:ConfigurationInfo" />
+</xs:schema>

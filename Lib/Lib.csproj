@@ -63,6 +63,11 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>Reference.svcmap</DependentUpon>
     </Compile>
+    <Compile Include="Service References\GRS\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Compile>
     <Compile Include="UtilFile.cs" />
     <Compile Include="UtilParse.cs" />
   </ItemGroup>
@@ -95,9 +100,77 @@
     <None Include="Service References\D2Terms\D2Terms6.xsd">
       <SubType>Designer</SubType>
     </None>
+    <None Include="Service References\GRS\Lib.GRS.ConfigurationInfo.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\GRS\Lib.GRS.NotificationProcessingResult.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\GRS\Lib.GRS.ReleaseInfo.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\GRS\Lib.GRS.ReleaseRights.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\GRS\Lib.GRS.ReleaseSearchResult.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\GRS\Lib.GRS.RepertoireRightsSearchResult.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\GRS\Lib.GRS.ResourceInfo.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\GRS\Lib.GRS.ResourceSearchResult.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\GRS\Lib.GRS.StringIdentifier.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\GRS\Release.wsdl" />
+    <None Include="Service References\GRS\Release.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\GRS\Release1.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\GRS\Release10.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\GRS\Release11.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\GRS\Release12.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\GRS\Release2.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\GRS\Release3.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\GRS\Release4.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\GRS\Release5.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\GRS\Release6.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\GRS\Release7.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\GRS\Release8.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\GRS\Release9.xsd">
+      <SubType>Designer</SubType>
+    </None>
   </ItemGroup>
   <ItemGroup>
     <WCFMetadataStorage Include="Service References\D2Terms\" />
+    <WCFMetadataStorage Include="Service References\GRS\" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Service References\D2Terms\D2Terms.disco" />
@@ -239,6 +312,21 @@
       <DependentUpon>Reference.svcmap</DependentUpon>
     </None>
     <None Include="Service References\D2Terms\Reference.svcmap">
+      <Generator>WCF Proxy Generator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\GRS\Release.disco" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\GRS\configuration91.svcinfo" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\GRS\configuration.svcinfo" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\GRS\Reference.svcmap">
       <Generator>WCF Proxy Generator</Generator>
       <LastGenOutput>Reference.cs</LastGenOutput>
     </None>
