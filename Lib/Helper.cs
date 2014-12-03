@@ -13,6 +13,7 @@ namespace Lib
         {
             var client = new Client();
             var response = client.GetMustExistInDaveProductTermsAllByUpc(upc, countryCode, D2Terms.ConstantseTermType.Marketing);
+            client.Close();
             return CreateProductRestrictions(response);
         }
 
@@ -20,6 +21,7 @@ namespace Lib
         {
             var client = new Client();
             var response = client.GetMustExistInDaveProductTermsAllByUpc(upc, countryCode, D2Terms.ConstantseTermType.Marketing);
+            client.Close();
             return CreateProductRestrictions(response);
         }
 
@@ -342,6 +344,7 @@ namespace Lib
         {
             var client = new Client();
             var response = client.GetPartnerProductTermsByUpc(upc, countryCode, null, "", "", false, false);
+            client.Close();
             return CreatePartnerRestrictions(response);
         }
         
@@ -349,6 +352,7 @@ namespace Lib
         {
             var client = new Client();
             var response = client.GetPartnerProductTermsByUpc(upc, countryCode, null, "", "", false, false);
+            client.Close();
             return CreatePartnerRestrictions(response);
         }
 
