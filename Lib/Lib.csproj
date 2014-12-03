@@ -49,6 +49,7 @@
     <Compile Include="D2Partner.cs" />
     <Compile Include="DistributionChannel.cs" />
     <Compile Include="DistributionGroup.cs" />
+    <Compile Include="GrsHelper.cs" />
     <Compile Include="Helper.cs" />
     <Compile Include="Partner.cs" />
     <Compile Include="PartnerRestrictionItems.cs" />

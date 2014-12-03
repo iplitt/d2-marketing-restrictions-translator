@@ -64,10 +64,15 @@ namespace UnitTests
         [TestMethod]
         public void GRSTest1()
         {
-            var client = new Lib.GRS.ReleaseDataProviderClient();
-            var response = client.GetReleaseRights("00018771949923", "All");
+            var response = GrsHelper.GetReleaseRights("", "00018771949923");
             Assert.AreEqual(1, response.Length);
-            
+        }
+
+        [TestMethod]
+        public void GRSTest2()
+        {
+            var response = GrsHelper.GetReleasesSearch();
+            Assert.AreEqual(1, response.Length);
         }
     }
 }
