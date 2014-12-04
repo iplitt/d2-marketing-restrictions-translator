@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://schemas.datacontract.org/2004/07/UMGI.GRCS.BusinessEntities.Entities.RepertoireEntities" elementFormDefault="qualified" targetNamespace="http://schemas.datacontract.org/2004/07/UMGI.GRCS.BusinessEntities.Entities.RepertoireEntities" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:import schemaLocation="http://10.253.50.221:61231/Release/Release.svc?xsd=xsd5" namespace="http://schemas.datacontract.org/2004/07/UMGI.GRCS.BusinessEntities.Entities.ContractEntities" />
+  <xs:import schemaLocation="http://10.253.50.221:61231/Release/Release.svc?xsd=xsd4" namespace="http://schemas.datacontract.org/2004/07/UMGI.GRCS.BusinessEntities.Entities.BaseEntities" />
+  <xs:import schemaLocation="http://10.253.50.221:61231/Release/Release.svc?xsd=xsd6" namespace="http://schemas.datacontract.org/2004/07/UMGI.GRCS.BusinessEntities.Entities.ArtistEntities" />
+  <xs:complexType name="RepertoireSearchCriteriaBase">
+    <xs:complexContent mixed="false">
+      <xs:extension xmlns:q1="http://schemas.datacontract.org/2004/07/UMGI.GRCS.BusinessEntities.Entities.BaseEntities" base="q1:EntityInformation">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="ArtistId" type="xs:long" />
+          <xs:element minOccurs="0" name="ArtistName" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="ClearanceAdminCompanyId" type="xs:long" />
+          <xs:element xmlns:q2="http://schemas.datacontract.org/2004/07/UMGI.GRCS.BusinessEntities.Entities.ContractEntities" minOccurs="0" name="Criteria" nillable="true" type="q2:FilterFields" />
+          <xs:element minOccurs="0" name="ExcludeLocalRows" type="xs:boolean" />
+        </xs:sequence>
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="RepertoireSearchCriteriaBase" nillable="true" type="tns:RepertoireSearchCriteriaBase" />
+  <xs:complexType name="RepertoireSearchResultsBase">
+    <xs:complexContent mixed="false">
+      <xs:extension xmlns:q3="http://schemas.datacontract.org/2004/07/UMGI.GRCS.BusinessEntities.Entities.BaseEntities" base="q3:EntityInformation">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="AdminCompanyId" type="xs:long" />
+          <xs:element xmlns:q4="http://schemas.datacontract.org/2004/07/UMGI.GRCS.BusinessEntities.Entities.ArtistEntities" minOccurs="0" name="ArtistInfo" nillable="true" type="q4:ArrayOfArtistInfo" />
+          <xs:element minOccurs="0" name="ArtistName" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="ContractId" nillable="true" type="xs:long" />
+          <xs:element minOccurs="0" name="GrcsRepertoireId" nillable="true" type="xs:long" />
+          <xs:element minOccurs="0" name="LinkedContractDetail" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="R2AccountId" type="xs:long" />
+          <xs:element minOccurs="0" name="R2RowIndex" type="xs:long" />
+          <xs:element minOccurs="0" name="ReviewReason" nillable="true" type="xs:string" />
+        </xs:sequence>
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="RepertoireSearchResultsBase" nillable="true" type="tns:RepertoireSearchResultsBase" />
+  <xs:complexType name="SearchRepertoireCriteria">
+    <xs:complexContent mixed="false">
+      <xs:extension xmlns:q5="http://schemas.datacontract.org/2004/07/UMGI.GRCS.BusinessEntities.Entities.BaseEntities" base="q5:EntityInformation">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="AdminCompaniesList" nillable="true" type="xs:string" />
+          <xs:element xmlns:q6="http://schemas.datacontract.org/2004/07/UMGI.GRCS.BusinessEntities.Entities.ContractEntities" minOccurs="0" name="DigitalRestrictionList" nillable="true" type="q6:ArrayOfContractDigitalRestrictions" />
+          <xs:element minOccurs="0" name="ExploitationsList" nillable="true" type="q5:ArrayOfExploitations" />
+          <xs:element xmlns:q7="http://schemas.datacontract.org/2004/07/UMGI.GRCS.BusinessEntities.Entities.ContractEntities" minOccurs="0" name="FilterCriteria" nillable="true" type="q7:FilterFields" />
+          <xs:element minOccurs="0" name="PreClearanceList" nillable="true" type="q5:ArrayOfPreClearance" />
+          <xs:element minOccurs="0" name="SearchExploitationCriteria" nillable="true" type="tns:SearchExploitationCriteria" />
+          <xs:element minOccurs="0" name="SearchResourceReleaseCriteria" nillable="true" type="tns:SearchResourceReleaseCriteria" />
+          <xs:element minOccurs="0" name="SearchRightsCriteria" nillable="true" type="tns:SearchRightsCriteria" />
+        </xs:sequence>
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="SearchRepertoireCriteria" nillable="true" type="tns:SearchRepertoireCriteria" />
+  <xs:complexType name="SearchExploitationCriteria">
+    <xs:complexContent mixed="false">
+      <xs:extension xmlns:q8="http://schemas.datacontract.org/2004/07/UMGI.GRCS.BusinessEntities.Entities.BaseEntities" base="q8:EntityInformation">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="Budget" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="MidPrice" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="MultiArtistCompilation" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="Premiums" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="SampleUse" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="Synchronisation" nillable="true" type="xs:string" />
+        </xs:sequence>
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="SearchExploitationCriteria" nillable="true" type="tns:SearchExploitationCriteria" />
+  <xs:complexType name="SearchResourceReleaseCriteria">
+    <xs:complexContent mixed="false">
+      <xs:extension xmlns:q9="http://schemas.datacontract.org/2004/07/UMGI.GRCS.BusinessEntities.Entities.BaseEntities" base="q9:EntityInformation">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="ArtistName" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="IsExactSearch" type="xs:boolean" />
+          <xs:element minOccurs="0" name="IsMultipleContracts" type="xs:boolean" />
+          <xs:element minOccurs="0" name="Isrc" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="LinkedContractId" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="LinkedContractName" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="ReleaseTitle" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="ResourceTitle" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="ResourceTrackTitle" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="ResourceTypeId" nillable="true" type="xs:unsignedByte" />
+          <xs:element minOccurs="0" name="Upc" nillable="true" type="xs:string" />
+        </xs:sequence>
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="SearchResourceReleaseCriteria" nillable="true" type="tns:SearchResourceReleaseCriteria" />
+  <xs:complexType name="SearchRightsCriteria">
+    <xs:complexContent mixed="false">
+      <xs:extension xmlns:q10="http://schemas.datacontract.org/2004/07/UMGI.GRCS.BusinessEntities.Entities.BaseEntities" base="q10:EntityInformation">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="AdminCompaniesList" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="FromDt" nillable="true" type="xs:dateTime" />
+          <xs:element minOccurs="0" name="IsActiveForMarketing" nillable="true" type="xs:unsignedByte" />
+          <xs:element minOccurs="0" name="IsDigitalExploitationRights" nillable="true" type="xs:unsignedByte" />
+          <xs:element minOccurs="0" name="IsDigitalUnbundlingAllowed" nillable="true" type="xs:unsignedByte" />
+          <xs:element minOccurs="0" name="IsMobileExploitationRights" nillable="true" type="xs:unsignedByte" />
+          <xs:element minOccurs="0" name="IsPhysicalExploitationRights" nillable="true" type="xs:unsignedByte" />
+          <xs:element minOccurs="0" name="IsPpbRevenueChain" nillable="true" type="xs:unsignedByte" />
+          <xs:element minOccurs="0" name="LostRightsFromDate" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="LostRightsIndicator" nillable="true" type="xs:unsignedByte" />
+          <xs:element minOccurs="0" name="LostRightsReasonId" nillable="true" type="xs:int" />
+          <xs:element minOccurs="0" name="LostRightsToDate" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="RightsPeriodId" nillable="true" type="xs:unsignedByte" />
+          <xs:element minOccurs="0" name="RightsReviewStatusId" nillable="true" type="xs:unsignedByte" />
+          <xs:element minOccurs="0" name="TerritorialRights" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="TerritorialRightsId" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="ToDt" nillable="true" type="xs:dateTime" />
+        </xs:sequence>
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="SearchRightsCriteria" nillable="true" type="tns:SearchRightsCriteria" />
+  <xs:complexType name="ArrayOfRepertoireRightsSearchResult">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="RepertoireRightsSearchResult" nillable="true" type="tns:RepertoireRightsSearchResult" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfRepertoireRightsSearchResult" nillable="true" type="tns:ArrayOfRepertoireRightsSearchResult" />
+  <xs:complexType name="RepertoireRightsSearchResult">
+    <xs:complexContent mixed="false">
+      <xs:extension xmlns:q11="http://schemas.datacontract.org/2004/07/UMGI.GRCS.BusinessEntities.Entities.BaseEntities" base="q11:EntityInformation">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="AdvertRoyaltyBreaks" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="Artist" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="Budget" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="CatalogueNumber" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="ClearanceDataAdminCompany" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="ClubMailOrder" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="ContractId" nillable="true" type="xs:long" />
+          <xs:element minOccurs="0" name="DigitalRestriction" nillable="true" type="tns:ReportoireDigitalRestriction" />
+          <xs:element minOccurs="0" name="Exploitations" nillable="true" type="q11:ArrayOfExploitations" />
+          <xs:element minOccurs="0" name="GreatestHits" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="Grid" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="IsActiveForMarketing" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="IsArtist" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="IsBudgetCompilationCleared" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="IsContainSearch" type="xs:boolean" />
+          <xs:element minOccurs="0" name="IsDigitalExploitationRights" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="IsDigitalUnbundlingAllowed" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="IsDirectMarketingCleared" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="IsLostRightsIndicator" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="IsMac" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="IsMasterUseCleared" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="IsMidPriceCompilationCleared" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="IsMobile" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="IsMobileExploitationRights" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="IsPhysicalExploitationRights" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="IsPpbRevenueClaim" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="IsPremiumCleared" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="IsSample" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="IsSplitContract" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="IsSynchronisationUseCleared" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="IsTopPriceCompilationCleared" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="Isrc" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="Kiosk" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="LinkedContract" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="LinkedContractInfo" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="LkupDataSourceVal" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="LookupDataSourceText" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="LostRightsDate" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="LostRightsReason" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="MasterSyncUse" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="MidPrice" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="MultiArtistCompilation" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="NewForReview" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="PYear" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="PreClearance" nillable="true" type="q11:ArrayOfPreClearance" />
+          <xs:element minOccurs="0" name="PreClearanceTerritoryExclusions" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="Premiums" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="R2ReleaseId" nillable="true" type="xs:long" />
+          <xs:element minOccurs="0" name="R2ResourceId" nillable="true" type="xs:long" />
+          <xs:element minOccurs="0" name="ReleaseDate" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="ReleaseId" nillable="true" type="xs:long" />
+          <xs:element minOccurs="0" name="ReleaseType" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="RemixEdits" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="ResourceId" nillable="true" type="xs:long" />
+          <xs:element minOccurs="0" name="ResourceType" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="ReviewStatus" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="RightsPeriod" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="RightsSetId" type="xs:int" />
+          <xs:element minOccurs="0" name="RightsType" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="RowId" type="xs:long" />
+          <xs:element minOccurs="0" name="SampleCredit" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="SampleExistValue" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="Sampleuse" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="Synchronisation" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="TerritorialRights" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="Title" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="TotalRowsCount" type="xs:int" />
+          <xs:element minOccurs="0" name="Upc" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="VersionTitle" nillable="true" type="xs:string" />
+        </xs:sequence>
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="RepertoireRightsSearchResult" nillable="true" type="tns:RepertoireRightsSearchResult" />
+  <xs:complexType name="ReportoireDigitalRestriction">
+    <xs:complexContent mixed="false">
+      <xs:extension xmlns:q12="http://schemas.datacontract.org/2004/07/UMGI.GRCS.BusinessEntities.Entities.BaseEntities" base="q12:EntityInformation">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="CommercialModel" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="ConsentPeriod" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="Notes" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="Restrictions" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="RightsSetId" type="xs:int" />
+          <xs:element minOccurs="0" name="UseType" nillable="true" type="xs:string" />
+        </xs:sequence>
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="ReportoireDigitalRestriction" nillable="true" type="tns:ReportoireDigitalRestriction" />
+</xs:schema>

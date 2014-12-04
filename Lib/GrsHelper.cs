@@ -20,8 +20,9 @@ namespace Lib
         public static GRS.RepertoireRightsSearchResult[] GetReleasesSearch()
         {
             var client = new GRS.ReleaseClient();
-            var criteria = new GRS.SearchRepertoireCriteria();
-            var response = client.GetReleasesSearch(false, criteria);
+            bool isSensitive = false;
+            var searchFilter = new GRS.SearchRepertoireCriteria();
+            var response = client.GetReleasesSearch(isSensitive, searchFilter);
             client.Close();
             return response;
         }

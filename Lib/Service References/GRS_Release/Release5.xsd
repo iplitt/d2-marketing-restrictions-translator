@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://schemas.datacontract.org/2004/07/UMGI.GRCS.BusinessEntities.Entities.ProjectEntities" elementFormDefault="qualified" targetNamespace="http://schemas.datacontract.org/2004/07/UMGI.GRCS.BusinessEntities.Entities.ProjectEntities" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:import schemaLocation="http://10.253.50.221:61231/Release/Release.svc?xsd=xsd4" namespace="http://schemas.datacontract.org/2004/07/UMGI.GRCS.BusinessEntities.Entities.BaseEntities" />
+  <xs:import schemaLocation="http://10.253.50.221:61231/Release/Release.svc?xsd=xsd6" namespace="http://schemas.datacontract.org/2004/07/UMGI.GRCS.BusinessEntities.Entities.ArtistEntities" />
+  <xs:import schemaLocation="http://10.253.50.221:61231/Release/Release.svc?xsd=xsd9" namespace="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+  <xs:complexType name="ArrayOfPackageInfo">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="PackageInfo" nillable="true" type="tns:PackageInfo" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfPackageInfo" nillable="true" type="tns:ArrayOfPackageInfo" />
+  <xs:complexType name="PackageInfo">
+    <xs:complexContent mixed="false">
+      <xs:extension xmlns:q1="http://schemas.datacontract.org/2004/07/UMGI.GRCS.BusinessEntities.Entities.BaseEntities" base="q1:EntityInformation">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="ArchiveFlag" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="IsAddedBySearch" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="IsNewlyAddedAfterSubmit" type="xs:boolean" />
+          <xs:element minOccurs="0" name="OwningcompanyID" type="xs:long" />
+          <xs:element minOccurs="0" name="PackageId" type="xs:long" />
+          <xs:element minOccurs="0" name="ParentId" type="xs:long" />
+          <xs:element minOccurs="0" name="R2ReleaseId" nillable="true" type="xs:long" />
+          <xs:element minOccurs="0" name="ReleaseId" type="xs:long" />
+          <xs:element minOccurs="0" name="Sequence" type="xs:long" />
+          <xs:element minOccurs="0" name="Upc" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="packageInfo" nillable="true" type="tns:ArrayOfPackageInfo" />
+        </xs:sequence>
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="PackageInfo" nillable="true" type="tns:PackageInfo" />
+  <xs:complexType name="TrackInfo">
+    <xs:complexContent mixed="false">
+      <xs:extension xmlns:q2="http://schemas.datacontract.org/2004/07/UMGI.GRCS.BusinessEntities.Entities.BaseEntities" base="q2:EntityInformation">
+        <xs:sequence>
+          <xs:element xmlns:q3="http://schemas.datacontract.org/2004/07/UMGI.GRCS.BusinessEntities.Entities.ArtistEntities" minOccurs="0" name="ArtistInfo" nillable="true" type="q3:ArrayOfArtistInfo" />
+          <xs:element xmlns:q4="http://schemas.microsoft.com/2003/10/Serialization/Arrays" minOccurs="0" name="Isrc" nillable="true" type="q4:ArrayOfstring" />
+          <xs:element minOccurs="0" name="ReleaseId" type="xs:long" />
+          <xs:element minOccurs="0" name="ResourceId" type="xs:long" />
+          <xs:element minOccurs="0" name="ResourceTitle" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="ResourceVersionTitle" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="SequenceNo" type="xs:long" />
+          <xs:element minOccurs="0" name="Side" type="xs:int" />
+          <xs:element minOccurs="0" name="TrackDuration" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="TrackId" type="xs:long" />
+        </xs:sequence>
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="TrackInfo" nillable="true" type="tns:TrackInfo" />
+  <xs:complexType name="ArrayOfTrackInfo">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="TrackInfo" nillable="true" type="tns:TrackInfo" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfTrackInfo" nillable="true" type="tns:ArrayOfTrackInfo" />
+</xs:schema>

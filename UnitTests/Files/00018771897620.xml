@@ -1,0 +1,56 @@
+<ArrayOfReleaseRights>
+  <ReleaseRights>
+    <ReleaseId xmlns="http://schemas.umusic.com">30790451973</ReleaseId>
+    <CreatedTime xmlns="http://schemas.umusic.com">2014-07-14T14:22:33.0161942-07:00</CreatedTime>
+    <Upc xmlns="http://schemas.umusic.com">00018771897620</Upc>
+    <CountryCodeGroups xmlns="http://schemas.umusic.com">
+      <CountryCodeGroup>
+        <CountryGroupId>1</CountryGroupId>
+        <CountryCode>US</CountryCode>
+        <CountryCode>CA</CountryCode>
+      </CountryCodeGroup>
+    </CountryCodeGroups>
+    <RightsExpiration xmlns="http://schemas.umusic.com">
+      <LostRights>
+        <LostRightsIndicator>false</LostRightsIndicator>
+        <TerritorialRights>
+          <CountryGroupId>1</CountryGroupId>
+        </TerritorialRights>
+      </LostRights>
+    </RightsExpiration>
+    <RightsAcquisitions xmlns="http://schemas.umusic.com">
+      <AvailableRightsAcquisitions>
+        <RightsAcquisitionDistributionType>DIGITAL</RightsAcquisitionDistributionType>
+        <HasRights>true</HasRights>
+        <TerritorialRights>
+          <CountryGroupId>1</CountryGroupId>
+        </TerritorialRights>
+      </AvailableRightsAcquisitions>
+      <AvailableRightsAcquisitions>
+        <RightsAcquisitionDistributionType>PHYSICAL</RightsAcquisitionDistributionType>
+        <HasRights>false</HasRights>
+        <TerritorialRights>
+          <CountryGroupId>1</CountryGroupId>
+        </TerritorialRights>
+      </AvailableRightsAcquisitions>
+    </RightsAcquisitions>
+    <DigRestrictions xmlns="http://schemas.umusic.com">
+      <DigRestriction>
+        <TerritorialRights>
+          <CountryGroupId>1</CountryGroupId>
+        </TerritorialRights>
+        <DigRestrictionContentType>AUDIO</DigRestrictionContentType>
+        <DigRestrictionUseType>DOWNLOAD</DigRestrictionUseType>
+        <DigRestrictionCommercialModelType>SUBSCRIPTION</DigRestrictionCommercialModelType>
+      </DigRestriction>
+      <DigRestriction>
+        <TerritorialRights>
+          <CountryGroupId>1</CountryGroupId>
+        </TerritorialRights>
+        <DigRestrictionContentType>AUDIO</DigRestrictionContentType>
+        <DigRestrictionUseType>STREAMING</DigRestrictionUseType>
+        <DigRestrictionCommercialModelType>ALL</DigRestrictionCommercialModelType>
+      </DigRestriction>
+    </DigRestrictions>
+  </ReleaseRights>
+</ArrayOfReleaseRights>

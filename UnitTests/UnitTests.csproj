@@ -36,8 +36,10 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
+    <Reference Include="System.Configuration" />
     <Reference Include="System.Runtime.Serialization" />
     <Reference Include="System.ServiceModel" />
+    <Reference Include="System.XML" />
   </ItemGroup>
   <Choose>
     <When Condition="('$(VisualStudioVersion)' == '10.0' or '$(VisualStudioVersion)' == '') and '$(TargetFrameworkVersion)' == 'v3.5'">
@@ -67,6 +69,7 @@
     <None Include="Files\Caroline_CDL_Release_Details.xlsx" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Files\00018771897620.xml" />
     <Content Include="Files\Results.txt" />
     <Content Include="Files\UPCs.txt" />
   </ItemGroup>

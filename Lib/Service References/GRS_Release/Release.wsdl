@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:wsap="http://schemas.xmlsoap.org/ws/2004/08/addressing/policy" xmlns:wsa10="http://www.w3.org/2005/08/addressing" xmlns:tns="http://tempuri.org/" xmlns:msc="http://schemas.microsoft.com/ws/2005/12/wsdl/contract" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:wsx="http://schemas.xmlsoap.org/ws/2004/09/mex" xmlns:wsp="http://schemas.xmlsoap.org/ws/2004/09/policy" xmlns:wsam="http://www.w3.org/2007/05/addressing/metadata" xmlns:wsa="http://schemas.xmlsoap.org/ws/2004/08/addressing" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:wsaw="http://www.w3.org/2006/05/addressing/wsdl" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="Release" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <xsd:schema targetNamespace="http://tempuri.org/Imports">
+      <xsd:import schemaLocation="http://10.253.50.221:61231/Release/Release.svc?xsd=xsd0" namespace="http://tempuri.org/" />
+      <xsd:import schemaLocation="http://10.253.50.221:61231/Release/Release.svc?xsd=xsd1" namespace="http://schemas.microsoft.com/2003/10/Serialization/" />
+      <xsd:import schemaLocation="http://10.253.50.221:61231/Release/Release.svc?xsd=xsd2" namespace="http://schemas.datacontract.org/2004/07/UMGI.GRCS.BusinessEntities.Entities.ReleaseEntities" />
+      <xsd:import schemaLocation="http://10.253.50.221:61231/Release/Release.svc?xsd=xsd3" namespace="http://schemas.datacontract.org/2004/07/UMGI.GRCS.BusinessEntities.Entities.RepertoireEntities" />
+      <xsd:import schemaLocation="http://10.253.50.221:61231/Release/Release.svc?xsd=xsd4" namespace="http://schemas.datacontract.org/2004/07/UMGI.GRCS.BusinessEntities.Entities.BaseEntities" />
+      <xsd:import schemaLocation="http://10.253.50.221:61231/Release/Release.svc?xsd=xsd5" namespace="http://schemas.datacontract.org/2004/07/UMGI.GRCS.BusinessEntities.Entities.ContractEntities" />
+      <xsd:import schemaLocation="http://10.253.50.221:61231/Release/Release.svc?xsd=xsd6" namespace="http://schemas.datacontract.org/2004/07/UMGI.GRCS.BusinessEntities.Entities.ArtistEntities" />
+      <xsd:import schemaLocation="http://10.253.50.221:61231/Release/Release.svc?xsd=xsd7" namespace="http://schemas.datacontract.org/2004/07/UMGI.GRCS.BusinessEntities.Entities.ProjectEntities" />
+      <xsd:import schemaLocation="http://10.253.50.221:61231/Release/Release.svc?xsd=xsd8" namespace="http://schemas.datacontract.org/2004/07/UMGI.GRCS.BusinessEntities.Entities.R2Entities" />
+      <xsd:import schemaLocation="http://10.253.50.221:61231/Release/Release.svc?xsd=xsd9" namespace="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+      <xsd:import schemaLocation="http://10.253.50.221:61231/Release/Release.svc?xsd=xsd10" namespace="http://schemas.datacontract.org/2004/07/UMGI.GRCS.BusinessEntities.Entities.ResourceEntities" />
+      <xsd:import schemaLocation="http://10.253.50.221:61231/Release/Release.svc?xsd=xsd11" namespace="http://schemas.datacontract.org/2004/07/UMGI.GRCS.BusinessEntities.Entities.NotificationEntities" />
+      <xsd:import schemaLocation="http://10.253.50.221:61231/Release/Release.svc?xsd=xsd12" namespace="http://schemas.umusic.com" />
+    </xsd:schema>
+  </wsdl:types>
+  <wsdl:message name="IRelease_Search_InputMessage">
+    <wsdl:part name="parameters" element="tns:Search" />
+  </wsdl:message>
+  <wsdl:message name="IRelease_Search_OutputMessage">
+    <wsdl:part name="parameters" element="tns:SearchResponse" />
+  </wsdl:message>
+  <wsdl:message name="IRelease_GetAssociatedResource_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetAssociatedResource" />
+  </wsdl:message>
+  <wsdl:message name="IRelease_GetAssociatedResource_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetAssociatedResourceResponse" />
+  </wsdl:message>
+  <wsdl:message name="IRelease_GetAssociatedResources_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetAssociatedResources" />
+  </wsdl:message>
+  <wsdl:message name="IRelease_GetAssociatedResources_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetAssociatedResourcesResponse" />
+  </wsdl:message>
+  <wsdl:message name="IRelease_LinkRelease_InputMessage">
+    <wsdl:part name="parameters" element="tns:LinkRelease" />
+  </wsdl:message>
+  <wsdl:message name="IRelease_LinkRelease_OutputMessage">
+    <wsdl:part name="parameters" element="tns:LinkReleaseResponse" />
+  </wsdl:message>
+  <wsdl:message name="IRelease_GetReleases_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetReleases" />
+  </wsdl:message>
+  <wsdl:message name="IRelease_GetReleases_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetReleasesResponse" />
+  </wsdl:message>
+  <wsdl:message name="IRelease_GetResources_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetResources" />
+  </wsdl:message>
+  <wsdl:message name="IRelease_GetResources_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetResourcesResponse" />
+  </wsdl:message>
+  <wsdl:message name="IRelease_GetAssociatedResourcesList_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetAssociatedResourcesList" />
+  </wsdl:message>
+  <wsdl:message name="IRelease_GetAssociatedResourcesList_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetAssociatedResourcesListResponse" />
+  </wsdl:message>
+  <wsdl:message name="IRelease_ValidateUpc_InputMessage">
+    <wsdl:part name="parameters" element="tns:ValidateUpc" />
+  </wsdl:message>
+  <wsdl:message name="IRelease_ValidateUpc_OutputMessage">
+    <wsdl:part name="parameters" element="tns:ValidateUpcResponse" />
+  </wsdl:message>
+  <wsdl:message name="IRelease_GetReleasesSearch_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetReleasesSearch" />
+  </wsdl:message>
+  <wsdl:message name="IRelease_GetReleasesSearch_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetReleasesSearchResponse" />
+  </wsdl:message>
+  <wsdl:message name="IRelease_GetConfiguration_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetConfiguration" />
+  </wsdl:message>
+  <wsdl:message name="IRelease_GetConfiguration_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetConfigurationResponse" />
+  </wsdl:message>
+  <wsdl:message name="IRelease_GetConfigurationGroup_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetConfigurationGroup" />
+  </wsdl:message>
+  <wsdl:message name="IRelease_GetConfigurationGroup_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetConfigurationGroupResponse" />
+  </wsdl:message>
+  <wsdl:message name="IRelease_AutoSearchReleaseTitle_InputMessage">
+    <wsdl:part name="parameters" element="tns:AutoSearchReleaseTitle" />
+  </wsdl:message>
+  <wsdl:message name="IRelease_AutoSearchReleaseTitle_OutputMessage">
+    <wsdl:part name="parameters" element="tns:AutoSearchReleaseTitleResponse" />
+  </wsdl:message>
+  <wsdl:message name="IRelease_AutoSearchReleaseArtist_InputMessage">
+    <wsdl:part name="parameters" element="tns:AutoSearchReleaseArtist" />
+  </wsdl:message>
+  <wsdl:message name="IRelease_AutoSearchReleaseArtist_OutputMessage">
+    <wsdl:part name="parameters" element="tns:AutoSearchReleaseArtistResponse" />
+  </wsdl:message>
+  <wsdl:message name="IRelease_GetReleaseDetails_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetReleaseDetails" />
+  </wsdl:message>
+  <wsdl:message name="IRelease_GetReleaseDetails_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetReleaseDetailsResponse" />
+  </wsdl:message>
+  <wsdl:message name="INotificationProcessor_ProcessNotification_InputMessage">
+    <wsdl:part name="parameters" element="tns:ProcessNotification" />
+  </wsdl:message>
+  <wsdl:message name="INotificationProcessor_ProcessNotification_OutputMessage">
+    <wsdl:part name="parameters" element="tns:ProcessNotificationResponse" />
+  </wsdl:message>
+  <wsdl:message name="IReleaseDataProvider_GetReleaseRights_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetReleaseRights" />
+  </wsdl:message>
+  <wsdl:message name="IReleaseDataProvider_GetReleaseRights_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetReleaseRightsResponse" />
+  </wsdl:message>
+  <wsdl:portType name="IRelease">
+    <wsdl:operation name="Search">
+      <wsdl:input wsaw:Action="http://tempuri.org/IRelease/Search" message="tns:IRelease_Search_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IRelease/SearchResponse" message="tns:IRelease_Search_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetAssociatedResource">
+      <wsdl:input wsaw:Action="http://tempuri.org/IRelease/GetAssociatedResource" message="tns:IRelease_GetAssociatedResource_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IRelease/GetAssociatedResourceResponse" message="tns:IRelease_GetAssociatedResource_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetAssociatedResources">
+      <wsdl:input wsaw:Action="http://tempuri.org/IRelease/GetAssociatedResources" message="tns:IRelease_GetAssociatedResources_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IRelease/GetAssociatedResourcesResponse" message="tns:IRelease_GetAssociatedResources_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="LinkRelease">
+      <wsdl:input wsaw:Action="http://tempuri.org/IRelease/LinkRelease" message="tns:IRelease_LinkRelease_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IRelease/LinkReleaseResponse" message="tns:IRelease_LinkRelease_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetReleases">
+      <wsdl:input wsaw:Action="http://tempuri.org/IRelease/GetReleases" message="tns:IRelease_GetReleases_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IRelease/GetReleasesResponse" message="tns:IRelease_GetReleases_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetResources">
+      <wsdl:input wsaw:Action="http://tempuri.org/IRelease/GetResources" message="tns:IRelease_GetResources_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IRelease/GetResourcesResponse" message="tns:IRelease_GetResources_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetAssociatedResourcesList">
+      <wsdl:input wsaw:Action="http://tempuri.org/IRelease/GetAssociatedResourcesList" message="tns:IRelease_GetAssociatedResourcesList_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IRelease/GetAssociatedResourcesListResponse" message="tns:IRelease_GetAssociatedResourcesList_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="ValidateUpc">
+      <wsdl:input wsaw:Action="http://tempuri.org/IRelease/ValidateUpc" message="tns:IRelease_ValidateUpc_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IRelease/ValidateUpcResponse" message="tns:IRelease_ValidateUpc_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetReleasesSearch">
+      <wsdl:input wsaw:Action="http://tempuri.org/IRelease/GetReleasesSearch" message="tns:IRelease_GetReleasesSearch_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IRelease/GetReleasesSearchResponse" message="tns:IRelease_GetReleasesSearch_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetConfiguration">
+      <wsdl:input wsaw:Action="http://tempuri.org/IRelease/GetConfiguration" message="tns:IRelease_GetConfiguration_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IRelease/GetConfigurationResponse" message="tns:IRelease_GetConfiguration_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetConfigurationGroup">
+      <wsdl:input wsaw:Action="http://tempuri.org/IRelease/GetConfigurationGroup" message="tns:IRelease_GetConfigurationGroup_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IRelease/GetConfigurationGroupResponse" message="tns:IRelease_GetConfigurationGroup_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="AutoSearchReleaseTitle">
+      <wsdl:input wsaw:Action="http://tempuri.org/IRelease/AutoSearchReleaseTitle" message="tns:IRelease_AutoSearchReleaseTitle_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IRelease/AutoSearchReleaseTitleResponse" message="tns:IRelease_AutoSearchReleaseTitle_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="AutoSearchReleaseArtist">
+      <wsdl:input wsaw:Action="http://tempuri.org/IRelease/AutoSearchReleaseArtist" message="tns:IRelease_AutoSearchReleaseArtist_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IRelease/AutoSearchReleaseArtistResponse" message="tns:IRelease_AutoSearchReleaseArtist_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetReleaseDetails">
+      <wsdl:input wsaw:Action="http://tempuri.org/IRelease/GetReleaseDetails" message="tns:IRelease_GetReleaseDetails_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IRelease/GetReleaseDetailsResponse" message="tns:IRelease_GetReleaseDetails_OutputMessage" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:portType name="INotificationProcessor">
+    <wsdl:operation name="ProcessNotification">
+      <wsdl:input wsaw:Action="http://tempuri.org/INotificationProcessor/ProcessNotification" message="tns:INotificationProcessor_ProcessNotification_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/INotificationProcessor/ProcessNotificationResponse" message="tns:INotificationProcessor_ProcessNotification_OutputMessage" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:portType name="IReleaseDataProvider">
+    <wsdl:operation name="GetReleaseRights">
+      <wsdl:input wsaw:Action="http://tempuri.org/IReleaseDataProvider/GetReleaseRights" message="tns:IReleaseDataProvider_GetReleaseRights_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IReleaseDataProvider/GetReleaseRightsResponse" message="tns:IReleaseDataProvider_GetReleaseRights_OutputMessage" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="BasicHttpBinding_IRelease" type="tns:IRelease">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="Search">
+      <soap:operation soapAction="http://tempuri.org/IRelease/Search" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetAssociatedResource">
+      <soap:operation soapAction="http://tempuri.org/IRelease/GetAssociatedResource" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetAssociatedResources">
+      <soap:operation soapAction="http://tempuri.org/IRelease/GetAssociatedResources" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="LinkRelease">
+      <soap:operation soapAction="http://tempuri.org/IRelease/LinkRelease" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetReleases">
+      <soap:operation soapAction="http://tempuri.org/IRelease/GetReleases" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetResources">
+      <soap:operation soapAction="http://tempuri.org/IRelease/GetResources" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetAssociatedResourcesList">
+      <soap:operation soapAction="http://tempuri.org/IRelease/GetAssociatedResourcesList" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ValidateUpc">
+      <soap:operation soapAction="http://tempuri.org/IRelease/ValidateUpc" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetReleasesSearch">
+      <soap:operation soapAction="http://tempuri.org/IRelease/GetReleasesSearch" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetConfiguration">
+      <soap:operation soapAction="http://tempuri.org/IRelease/GetConfiguration" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetConfigurationGroup">
+      <soap:operation soapAction="http://tempuri.org/IRelease/GetConfigurationGroup" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="AutoSearchReleaseTitle">
+      <soap:operation soapAction="http://tempuri.org/IRelease/AutoSearchReleaseTitle" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="AutoSearchReleaseArtist">
+      <soap:operation soapAction="http://tempuri.org/IRelease/AutoSearchReleaseArtist" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetReleaseDetails">
+      <soap:operation soapAction="http://tempuri.org/IRelease/GetReleaseDetails" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="BasicHttpBinding_INotificationProcessor" type="tns:INotificationProcessor">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="ProcessNotification">
+      <soap:operation soapAction="http://tempuri.org/INotificationProcessor/ProcessNotification" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="BasicHttpBinding_IReleaseDataProvider" type="tns:IReleaseDataProvider">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="GetReleaseRights">
+      <soap:operation soapAction="http://tempuri.org/IReleaseDataProvider/GetReleaseRights" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="Release">
+    <wsdl:port name="BasicHttpBinding_IRelease" binding="tns:BasicHttpBinding_IRelease">
+      <soap:address location="http://10.253.50.221:61231/Release/Release.svc" />
+    </wsdl:port>
+    <wsdl:port name="BasicHttpBinding_INotificationProcessor" binding="tns:BasicHttpBinding_INotificationProcessor">
+      <soap:address location="http://10.253.50.221:61231/Release/Release.svc" />
+    </wsdl:port>
+    <wsdl:port name="BasicHttpBinding_IReleaseDataProvider" binding="tns:BasicHttpBinding_IReleaseDataProvider">
+      <soap:address location="http://10.253.50.221:61231/Release/Release.svc" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

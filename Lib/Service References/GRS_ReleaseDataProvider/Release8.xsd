@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://schemas.datacontract.org/2004/07/UMGI.GRCS.BusinessEntities.Entities.BaseEntities" elementFormDefault="qualified" targetNamespace="http://schemas.datacontract.org/2004/07/UMGI.GRCS.BusinessEntities.Entities.BaseEntities" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:complexType name="EntityInformation">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="ClientIpAddress" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="CreatedDate" type="xs:dateTime" />
+      <xs:element minOccurs="0" name="CreatedUser" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="RequestDateTime" type="xs:dateTime" />
+      <xs:element minOccurs="0" name="RoleName" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="UserId" type="xs:long" />
+      <xs:element minOccurs="0" name="UserName" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="EntityInformation" nillable="true" type="tns:EntityInformation" />
+  <xs:complexType name="Page">
+    <xs:complexContent mixed="false">
+      <xs:extension base="tns:EntityInformation">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="HasPageDetails" type="xs:boolean" />
+          <xs:element minOccurs="0" name="IsAscendingOrder" type="xs:boolean" />
+          <xs:element minOccurs="0" name="PageSize" type="xs:int" />
+          <xs:element minOccurs="0" name="SortField" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="StartIndex" type="xs:int" />
+          <xs:element minOccurs="0" name="TotalRows" type="xs:int" />
+        </xs:sequence>
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="Page" nillable="true" type="tns:Page" />
+  <xs:complexType name="ArrayOfClearanceMasterData">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="ClearanceMasterData" nillable="true" type="tns:ClearanceMasterData" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfClearanceMasterData" nillable="true" type="tns:ArrayOfClearanceMasterData" />
+  <xs:complexType name="ClearanceMasterData">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Description" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Type" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Value" type="xs:long" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ClearanceMasterData" nillable="true" type="tns:ClearanceMasterData" />
+  <xs:complexType name="ArrayOfExploitations">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="Exploitations" nillable="true" type="tns:Exploitations" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfExploitations" nillable="true" type="tns:ArrayOfExploitations" />
+  <xs:complexType name="Exploitations">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Id" type="xs:int" />
+      <xs:element minOccurs="0" name="Type" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="isRestricted" nillable="true" type="xs:unsignedByte" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="Exploitations" nillable="true" type="tns:Exploitations" />
+  <xs:complexType name="ArrayOfPreClearance">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="PreClearance" nillable="true" type="tns:PreClearance" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfPreClearance" nillable="true" type="tns:ArrayOfPreClearance" />
+  <xs:complexType name="PreClearance">
+    <xs:complexContent mixed="false">
+      <xs:extension base="tns:EntityInformation">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="IsPreclearance" nillable="true" type="xs:unsignedByte" />
+          <xs:element minOccurs="0" name="Type" type="xs:int" />
+          <xs:element minOccurs="0" name="TypeName" nillable="true" type="xs:string" />
+        </xs:sequence>
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="PreClearance" nillable="true" type="tns:PreClearance" />
+  <xs:complexType name="ArrayOfBaseConfigurationItemOfstring">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="BaseConfigurationItemOfstring" nillable="true" type="tns:BaseConfigurationItemOfstring" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfBaseConfigurationItemOfstring" nillable="true" type="tns:ArrayOfBaseConfigurationItemOfstring" />
+  <xs:complexType name="BaseConfigurationItemOfstring">
+    <xs:annotation>
+      <xs:appinfo>
+        <GenericType Name="BaseConfigurationItemOf{0}{#}" Namespace="http://schemas.datacontract.org/2004/07/UMGI.GRCS.BusinessEntities.Entities.BaseEntities" xmlns="http://schemas.microsoft.com/2003/10/Serialization/">
+          <GenericParameter Name="string" Namespace="http://www.w3.org/2001/XMLSchema" />
+        </GenericType>
+      </xs:appinfo>
+    </xs:annotation>
+    <xs:sequence>
+      <xs:element minOccurs="0" name="ConfigurationCode" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="ConfigurationDescription" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="ConfigurationId" type="xs:long" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="BaseConfigurationItemOfstring" nillable="true" type="tns:BaseConfigurationItemOfstring" />
+  <xs:complexType name="ArrayOfStringIdentifier">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="StringIdentifier" nillable="true" type="tns:StringIdentifier" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfStringIdentifier" nillable="true" type="tns:ArrayOfStringIdentifier" />
+  <xs:complexType name="StringIdentifier">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Description" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Id" type="xs:long" />
+      <xs:element minOccurs="0" name="Value" type="xs:unsignedByte" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="StringIdentifier" nillable="true" type="tns:StringIdentifier" />
+</xs:schema>

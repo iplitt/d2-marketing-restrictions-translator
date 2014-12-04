@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://schemas.datacontract.org/2004/07/UMGI.GRCS.BusinessEntities.Entities.R2Entities" elementFormDefault="qualified" targetNamespace="http://schemas.datacontract.org/2004/07/UMGI.GRCS.BusinessEntities.Entities.R2Entities" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:import schemaLocation="http://10.253.50.221:61231/Release/Release.svc?xsd=xsd7" namespace="http://schemas.datacontract.org/2004/07/UMGI.GRCS.BusinessEntities.Entities.ProjectEntities" />
+  <xs:complexType name="ArrayOfR2ReleaseResources">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="R2ReleaseResources" nillable="true" type="tns:R2ReleaseResources" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfR2ReleaseResources" nillable="true" type="tns:ArrayOfR2ReleaseResources" />
+  <xs:complexType name="R2ReleaseResources">
+    <xs:sequence>
+      <xs:element name="_x003C_CompanyId_x003E_k__BackingField" type="xs:long" />
+      <xs:element name="_x003C_CountryCode_x003E_k__BackingField" nillable="true" type="xs:string" />
+      <xs:element name="_x003C_Isrc_x003E_k__BackingField" nillable="true" type="xs:string" />
+      <xs:element name="_x003C_ResourceId_x003E_k__BackingField" type="xs:long" />
+      <xs:element name="_x003C_RightsType_x003E_k__BackingField" nillable="true" type="xs:string" />
+      <xs:element xmlns:q1="http://schemas.datacontract.org/2004/07/UMGI.GRCS.BusinessEntities.Entities.ProjectEntities" name="_x003C_Track_x003E_k__BackingField" nillable="true" type="q1:TrackInfo" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="R2ReleaseResources" nillable="true" type="tns:R2ReleaseResources" />
+</xs:schema>

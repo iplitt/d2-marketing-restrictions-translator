@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://schemas.umusic.com" elementFormDefault="qualified" targetNamespace="http://schemas.umusic.com" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:complexType name="ReleaseRights">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="1" name="RightsRemoved" type="xs:boolean" />
+      <xs:element minOccurs="1" maxOccurs="1" name="ReleaseId" type="xs:long" />
+      <xs:element minOccurs="1" maxOccurs="1" name="CreatedTime" type="xs:dateTime" />
+      <xs:element minOccurs="0" maxOccurs="1" name="Upc" type="xs:string" />
+      <xs:element minOccurs="0" maxOccurs="1" name="CountryCodeGroups" type="tns:ArrayOfCountryGroupType" />
+      <xs:element minOccurs="0" maxOccurs="1" name="Contracts" type="tns:ArrayOfReleaseRightsContract" />
+      <xs:element minOccurs="0" maxOccurs="1" name="RightsExpiration" type="tns:ArrayOfLostRightsType" />
+      <xs:element minOccurs="0" maxOccurs="1" name="RightsAcquisitions" type="tns:ArrayOfAvailableRightsAcquisitionsType" />
+      <xs:element minOccurs="0" maxOccurs="1" name="DigRestrictions" type="tns:ArrayOfDigRestrictionType" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="ArrayOfCountryGroupType">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="CountryCodeGroup" type="tns:CountryGroupType" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="CountryGroupType">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="1" name="CountryGroupId" type="xs:positiveInteger" />
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="CountryCode" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="ArrayOfReleaseRightsContract">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="Contract">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element minOccurs="0" maxOccurs="1" name="TerritorialRights" type="tns:ArrayOfPositiveInteger" />
+            <xs:element minOccurs="0" maxOccurs="1" name="ContractTerm" type="tns:ContractTermType" />
+            <xs:element minOccurs="0" maxOccurs="1" name="ContractingParties" type="tns:ContractingPartiesType" />
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="ArrayOfPositiveInteger">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="CountryGroupId" type="xs:positiveInteger" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="ContractTermType">
+    <xs:sequence>
+      <xs:element minOccurs="1" maxOccurs="1" name="ContractStartDate" type="xs:date" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="ContractingPartiesType">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="1" name="ContractingParty" type="xs:string" />
+      <xs:element minOccurs="0" maxOccurs="1" name="ClearAdminCompId" type="xs:positiveInteger" />
+      <xs:element minOccurs="0" maxOccurs="1" name="UMGSignCompId" type="xs:positiveInteger" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="ArrayOfLostRightsType">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="LostRights" type="tns:LostRightsType" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="LostRightsType">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="1" name="RightsExpiryDate" type="xs:date" />
+      <xs:element minOccurs="1" maxOccurs="1" name="LostRightsIndicator" type="xs:boolean" />
+      <xs:element minOccurs="0" maxOccurs="1" name="TerritorialRights" type="tns:ArrayOfPositiveInteger" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="ArrayOfAvailableRightsAcquisitionsType">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="AvailableRightsAcquisitions" type="tns:AvailableRightsAcquisitionsType" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="AvailableRightsAcquisitionsType">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="1" name="RightsAcquisitionDistributionType" type="xs:string" />
+      <xs:element minOccurs="1" maxOccurs="1" name="HasRights" type="xs:boolean" />
+      <xs:element minOccurs="0" maxOccurs="1" name="TerritorialRights" type="tns:ArrayOfPositiveInteger" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="ArrayOfDigRestrictionType">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="DigRestriction" type="tns:DigRestrictionType" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="DigRestrictionType">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="1" name="TerritorialRights" type="tns:ArrayOfPositiveInteger" />
+      <xs:element minOccurs="0" maxOccurs="1" name="DigRestrictionContentType" type="xs:string" />
+      <xs:element minOccurs="0" maxOccurs="1" name="DigRestrictionUseType" type="xs:string" />
+      <xs:element minOccurs="0" maxOccurs="1" name="DigRestrictionCommercialModelType" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+</xs:schema>

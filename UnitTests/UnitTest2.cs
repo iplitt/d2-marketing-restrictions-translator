@@ -64,7 +64,17 @@ namespace UnitTests
         [TestMethod]
         public void GRSTest1()
         {
-            var response = GrsHelper.GetReleaseRights("", "00018771949923");
+            string upc = "00018771897620";
+            var response = GrsHelper.GetReleaseRights(upc, "UPC");
+            var outputPath = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "../../Files/" + upc + ".xml");
+            using (var sw = new StreamWriter(outputPath))
+            {
+                string xml = SerializationHelper.XmlSerialize(response, true);
+                sw.WriteLine(xml);
+                sw.Flush();
+                sw.Close();
+            }
+
             Assert.AreEqual(1, response.Length);
         }
 
